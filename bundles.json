@@ -1,0 +1,1270 @@
+{
+ "count": 28,
+ "note": "Bundles hold several products at one price. \"includes\" lists the members when we have them.",
+ "products": [
+  {
+   "id": "artist-biographies-bundle",
+   "title": "Artist Biographies Bundle - 12 Painters - Grades 6-12",
+   "subject": "biographies",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [],
+   "summary": "Twelve interactive biographies of painters for an art history course: the Hudson River School, English and French landscape painting, Neoclassicism, Romanticism, Realism, Post-Impressionism and Mexican modern art.",
+   "free": false,
+   "price_usd": 9.99,
+   "bundle": true,
+   "includes": [
+    "Thomas Cole Interactive Biography - Hudson River School Art - Grades 6-12",
+    "Albert Bierstadt Interactive Biography - Hudson River School Art - Grades 6-12",
+    "John Constable Interactive Biography - English Landscape Painting - Grades 6-12",
+    "Camille Corot Interactive Biography - French Landscape Painting - Grades 6-12",
+    "Jean-Francois Millet Interactive Biography - Barbizon and Rural Realism - Grades 6-12",
+    "Gustave Courbet Interactive Biography - Realist Art Movement - Grades 6-12",
+    "Jean-Auguste-Dominique Ingres Interactive Biography - Neoclassical Painting - Grades 6-12",
+    "Theodore Gericault Interactive Biography - Romantic Art Movement - Grades 6-12",
+    "James McNeill Whistler Interactive Biography - Art for Art's Sake - Grades 6-12",
+    "Henri Rousseau Interactive Biography - Naive and Jungle Painting - Grades 6-12",
+    "Vincent van Gogh Interactive Biography - Post-Impressionist Art - Grades 6-12",
+    "Frida Kahlo Interactive Biography - Mexican Art and Identity - Grades 6-12"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ArtistBiographiesBundle"
+    }
+   ],
+   "tags": [
+    "biography",
+    "bundle",
+    "art history",
+    "painters",
+    "artist study"
+   ]
+  },
+  {
+   "id": "black-history-biographies-bundle",
+   "title": "Black History Biographies Bundle - 8 Biographies - Grades 6-12",
+   "subject": "biographies",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [],
+   "summary": "Eight interactive biographies for Black History Month and for U.S. and world history courses the rest of the year: Sojourner Truth, Booker T. Washington, W.E.B. Du Bois, George Washington Carver, Louis Armstrong, Jackie Robinson, Katherine Johnson and Nelson Mandela.",
+   "free": false,
+   "price_usd": 9.99,
+   "bundle": true,
+   "includes": [
+    "Sojourner Truth Interactive Biography - Black History and Women's History - Grades 6-12",
+    "Booker T. Washington Interactive Biography - Black History Month Activity - Grades 6-12",
+    "W.E.B. Du Bois Interactive Biography - Black History Month Activity - Grades 6-12",
+    "George Washington Carver Interactive Biography - Black History Month Science - Grades 6-12",
+    "Louis Armstrong Interactive Biography - Jazz and Music History - Grades 6-12",
+    "Jackie Robinson Interactive Biography - Civil Rights US History Grades 6-12",
+    "Katherine Johnson Interactive Biography - NASA and Space History - Grades 6-12",
+    "Nelson Mandela Interactive Biography - Apartheid and South Africa - Grades 6-12"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/BlackHistoryBiographiesBundle"
+    }
+   ],
+   "tags": [
+    "biography",
+    "bundle",
+    "us history",
+    "black history",
+    "civil rights"
+   ]
+  },
+  {
+   "id": "explorer-biographies-bundle",
+   "title": "Explorer Biographies Bundle - 10 Explorers - Grades 5-12",
+   "subject": "biographies",
+   "topics": [],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "5-12",
+   "types": [],
+   "summary": "Ten interactive biographies for an Age of Exploration unit, from Leif Erikson to James Cook. Each one gives students the whole person, including the violence and the disputed claims, with five illustrated life eras, a two-track timeline, the journeys drawn on a real world map, a web of the people...",
+   "free": false,
+   "price_usd": 33.99,
+   "bundle": true,
+   "includes": [
+    "Leif Erikson Interactive Biography",
+    "Christopher Columbus Interactive Biography",
+    "Amerigo Vespucci Interactive Biography",
+    "Vasco da Gama Interactive Biography",
+    "Ferdinand Magellan Interactive Biography",
+    "Hernan Cortes Interactive Biography",
+    "Francisco Pizarro Interactive Biography",
+    "Francis Drake Interactive Biography",
+    "Henry Hudson Interactive Biography",
+    "James Cook Interactive Biography"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ExplorerBiographiesBundle"
+    }
+   ],
+   "tags": [
+    "biography",
+    "bundle",
+    "world history",
+    "explorers",
+    "age of exploration"
+   ]
+  },
+  {
+   "id": "social-studies-simulation-games-bundle",
+   "title": "Social Studies Simulation Games Bundle - 8 Simulators - Grades 5-12",
+   "subject": "civics-economics",
+   "topics": [],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "5-12",
+   "types": [],
+   "summary": "Eight social studies simulation games in which students make the decisions and can lose. They lead a wagon west, found a colony, run the Union war effort, rule Tokugawa Japan, trade across the Sahara, judge cases under Hammurabi's Code, reform Athens as Solon and work cases as police detectives.",
+   "free": false,
+   "price_usd": 26.99,
+   "bundle": true,
+   "includes": [
+    "Oregon Trail Simulation Game | Westward Expansion Wagon Journey | Grades 5-8",
+    "13 Colonies Simulator Game | Jamestown, Plymouth and Philadelphia | Grades 5-8",
+    "Civil War Simulator Game | Lincoln and the Union Armies, 1861 to 1865 | Grades 7-12",
+    "Shogun Strategy Simulator | Tokugawa Japan and the Daimyo | Grades 6-10",
+    "Salt and Gold Road: Trans-Saharan Caravan Simulator | Mali Empire Activity | Grades 6-10",
+    "Hammurabi City-State Simulator | Hammurabi's Code, Mesopotamia and Babylon Game | Grades 6-10",
+    "Solon: Save Athens - A 12-Year Polis Tycoon Simulation | Ancient Greece | Grades 6-12",
+    "Detective Simulator Game | Fourth Amendment and Probable Cause | Grades 6-10"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/SocialStudiesSimulationGamesBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "social studies",
+    "civics",
+    "simulation games",
+    "history games"
+   ]
+  },
+  {
+   "id": "watergate-unit-bundle",
+   "title": "Watergate Unit Bundle - 4 Resources - Grades 6-12",
+   "subject": "civics-economics",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [],
+   "summary": "Four Watergate resources in one bundle for middle and high school US history and government: an interactive investigation map, a word search with definitions, a printable set of primary source worksheets, and a printable vocabulary worksheet pack; the printables come with answer keys.",
+   "free": false,
+   "price_usd": 12.99,
+   "bundle": true,
+   "includes": [
+    "Watergate Scandal Interactive Investigation Map | Primary Source Analysis | Grades 9-12",
+    "Watergate Word Search | US Government Vocabulary Activity | Grades 6-8",
+    "Watergate Source Inquiry Worksheets | Primary Source Analysis | Grades 8-12",
+    "Watergate Vocabulary Worksheet Pack | Quiz, Bingo, Crossword, Frayer | Grades 8-12"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/WatergateUnitBundle"
+    }
+   ],
+   "tags": [
+    "us history",
+    "civics",
+    "watergate",
+    "primary source",
+    "nixon"
+   ]
+  },
+  {
+   "id": "data-literacy12-levels-bundle",
+   "title": "Data Literacy in 12 Levels Bundle - 8 Activities - Grades 5-12",
+   "subject": "computer-science",
+   "topics": [],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "5-12",
+   "types": [],
+   "summary": "Eight data literacy activities, each built as twelve levels that take students from the basic idea to the ways it can mislead. In six of them students flip between a weak and a strong version of the same data and read the rule that explains the difference.",
+   "free": false,
+   "price_usd": 26.99,
+   "bundle": true,
+   "includes": [
+    "Scatter Plots in 12 Levels | Correlation and Data Analysis | Grades 7-12",
+    "Line Charts in 12 Levels | Trend and Data Literacy Activity | Grades 6-12",
+    "Pie and Donut Charts in 12 Levels | Data Literacy Activity | Grades 5-12",
+    "12 Levels of Histogram Mastery | Data Distribution Analysis | Grades 7-12 Statistics",
+    "Master Heatmaps in 12 Progressive Levels | Data Literacy Visual Guide | Grades 6-12",
+    "Sankey Diagrams in 12 Levels | Flow and Data Literacy | Grades 8-12",
+    "Machine Learning in 12 Levels | Model Behavior and Data Literacy | Grades 8-12",
+    "How the Internet Works in 12 Levels | Computer Science | Grades 6-12"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/DataLiteracy12LevelsBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "computer science",
+    "statistics",
+    "data literacy",
+    "graphs and charts"
+   ]
+  },
+  {
+   "id": "us-geoflip-mega-bundle",
+   "title": "US GeoFlip Mega Bundle - 55 Interactive Geography Map Quizzes (All 50 States, Landmarks, Parks, Rivers, Lakes and Mountains)",
+   "subject": "geography",
+   "topics": [],
+   "grades": [],
+   "grade_band": null,
+   "types": [],
+   "summary": "Most geography resources cover one state or one topic. This is the whole set. Fifty-five interactive GeoFlip map quizzes that walk students through every US state, its counties, and the country's landmarks, national parks, rivers, lakes and mountains.",
+   "free": false,
+   "price_usd": 14.99,
+   "bundle": true,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/USGeoFlipMegaBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "geography",
+    "social studies",
+    "map quiz",
+    "us geography"
+   ]
+  },
+  {
+   "id": "world-geography-map-games-bundle",
+   "title": "World Geography Map Games Bundle - 10 Games - Grades 3-12",
+   "subject": "geography",
+   "topics": [],
+   "grades": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "3-12",
+   "types": [],
+   "summary": "Ten world geography map games on real interactive maps: world flags, seas and oceans, world landmarks, the countries and capitals of Europe, Asia and Africa, and country maps of Canada, Brazil, Germany and Japan.",
+   "free": false,
+   "price_usd": 33.99,
+   "bundle": true,
+   "includes": [
+    "World Flags Map Quiz Game - Flags of the World Geography - Grades 5-8",
+    "Seas and Oceans Map Quiz Game - World Geography Activity - Grades 4-8",
+    "World Landmarks Map Quiz Game | GeoFlip | Continents Geography Activity | Grades 3-7",
+    "GeoFlip Europe Countries & Capitals | Map Quiz Game | Geography Activity | Grades 5-8",
+    "GeoFlip Asia Countries & Capitals | Map Quiz Game | Geography Activity | Grades 5-8",
+    "GeoFlip Africa Countries & Capitals | Map Quiz Game | Geography Activity | Grades 5-8",
+    "Map of Canada Geography Game | Provinces, Territories, Rivers and Landmarks | Grades 6-12",
+    "Map of Brazil Geography Game | States, the Amazon, Rivers and Landmarks | Grades 6-12",
+    "Map of Germany Geography Game | States, Rivers, Mountains and Landmarks | Grades 6-12",
+    "Map of Japan Geography Game | Prefectures, Rivers, Mountains and Landmarks | Grades 6-12"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/WorldGeographyMapGamesBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "geography",
+    "world geography",
+    "map games",
+    "countries capitals"
+   ]
+  },
+  {
+   "id": "history-word-search-bundle",
+   "title": "History Word Search Bundle - 14 Word Searches - Grades 4-9",
+   "subject": "language-arts",
+   "topics": [],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "4-9",
+   "types": [],
+   "summary": "Fourteen history word searches covering ancient Rome, Greece and Egypt, the Vikings, Magna Carta, the American Revolution, the fur trade, the Texas Revolution, the Civil War, World War Two, the Enigma machine, the Berlin Wall, Apollo 11 and Watergate.",
+   "free": false,
+   "price_usd": 9.99,
+   "bundle": true,
+   "includes": [
+    "Ancient Rome Word Search | Vocabulary Activity with Answer Key | Grades 6-8",
+    "Ancient Greece Word Search | Vocabulary Activity with Answer Key | Grades 4-8",
+    "Ancient Egypt Word Search | Vocabulary Activity with Answer Key | Grades 6-8",
+    "Vikings Word Search | Printable and Digital Vocabulary Activity | Grades 6-8",
+    "Magna Carta Word Search",
+    "American Revolution Word Search | Revolutionary War Vocabulary Activity | Grades 6-8",
+    "Fur Trade Word Search | North American History Vocabulary | Grades 6-8",
+    "Texas Revolution Word Search | Texas History Vocabulary | Grades 6-8",
+    "Civil War Word Search | US History Vocabulary with Answer Key | Grades 6-8",
+    "World War 2 Word Search | WW2 Vocabulary with Answer Key | Grades 5-9",
+    "Enigma Machine Word Search | Codebreaking Vocabulary | Grades 6-8",
+    "Berlin Wall Word Search | Cold War Vocabulary Activity | Grades 6-8",
+    "Apollo 11 Word Search",
+    "Watergate Word Search | US Government Vocabulary Activity | Grades 6-8"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/HistoryWordSearchBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "us history",
+    "vocabulary",
+    "world history",
+    "word search"
+   ]
+  },
+  {
+   "id": "vocabulary-trainer-bundle",
+   "title": "Vocabulary Trainer Bundle | 35 Interactive Vocabulary Trainers for History, Civics, Economics and Science | Grades 3-10",
+   "subject": "language-arts",
+   "topics": [],
+   "grades": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "grade_band": "3-10",
+   "types": [],
+   "summary": "A bundle of 35 vocabulary trainers for history, civics, economics and science, 986 terms in all. Every trainer has term cards, a matching game, a reading passage with blanks and a multiple-choice test that grades itself and explains every answer.",
+   "free": false,
+   "price_usd": 14.99,
+   "bundle": true,
+   "includes": [
+    "Ancient Greece Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-8",
+    "Ancient Mesopotamia Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-8",
+    "Ancient Rome Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-8",
+    "Age of Exploration Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-8",
+    "Civil War Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 5-8",
+    "Civil Rights Movement Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-8",
+    "Great Depression and Dust Bowl Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-8",
+    "Age of Imperialism Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-10",
+    "Industrial Revolution Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-8",
+    "American Revolution Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 5-8",
+    "Viking Age Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-8",
+    "Westward Expansion Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 5-8",
+    "World War I Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-10",
+    "World War II Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-10",
+    "Elections and Citizenship Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 5-8",
+    "Entrepreneurship and Business Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-9",
+    "Supply and Demand Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-9",
+    "Global Trade Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-9",
+    "Forces and Motion Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 5-8",
+    "Plant and Animal Cells Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 5-8",
+    "Ecosystems and Adaptations Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 5-8",
+    "Energy and Electricity Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 5-8",
+    "Evolution and Natural Selection Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-10",
+    "Genetics and Heredity Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-9",
+    "Human Body Systems Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 5-8",
+    "Landforms and Bodies of Water Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 3-6",
+    "Ocean Science Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 5-8",
+    "Physical and Chemical Changes Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 5-8",
+    "Plants and Photosynthesis Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 4-7",
+    "Plate Tectonics, Earthquakes and Volcanoes Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-8",
+    "Rocks and Minerals Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 4-7",
+    "Solar System Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 4-7",
+    "States of Matter Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 4-7",
+    "Waves, Sound and Light Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-8",
+    "Weather and Climate Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 4-7"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/VocabularyTrainerBundle"
+    }
+   ],
+   "tags": [
+    "science",
+    "bundle",
+    "vocabulary",
+    "social studies",
+    "vocabulary trainer"
+   ]
+  },
+  {
+   "id": "word-by-word-bundle",
+   "title": "Word by Word Decodable Readers Bundle - 30 Phonics Story Sets - Grades 1-2",
+   "subject": "language-arts",
+   "topics": [],
+   "grades": [
+    "1",
+    "2"
+   ],
+   "grade_band": "1-2",
+   "types": [],
+   "summary": "Three hundred and sixty decodable stories sit across the 30 themes in this bundle. Decodable stories for grades 1 and 2, from dinosaurs and pirates to the bakery and the first day of school.",
+   "free": false,
+   "price_usd": 39.99,
+   "bundle": true,
+   "includes": [
+    "Word by Word Reader - Animal Friends - Decodable Phonics Stories",
+    "Word by Word Reader - Bugs and the Garden - Decodable Phonics Stories",
+    "Word by Word Reader - Dinosaurs - Decodable Phonics Stories",
+    "Word by Word Reader - Farm - Decodable Phonics Stories",
+    "Word by Word Reader - Jungle Safari - Decodable Phonics Stories",
+    "Word by Word Reader - Ocean Animals - Decodable Phonics Stories",
+    "Word by Word Reader - Pet Shop - Decodable Phonics Stories",
+    "Word by Word Reader - Polar Animals - Decodable Phonics Stories",
+    "Word by Word Reader - Zoo Day - Decodable Phonics Stories",
+    "Word by Word Reader - Dragons and Knights - Decodable Phonics Stories",
+    "Word by Word Reader - Mermaid Cove - Decodable Phonics Stories",
+    "Word by Word Reader - Pirates - Decodable Phonics Stories",
+    "Word by Word Reader - Robots - Decodable Phonics Stories",
+    "Word by Word Reader - Space Rockets - Decodable Phonics Stories",
+    "Word by Word Reader - Superheroes - Decodable Phonics Stories",
+    "Word by Word Reader - Unicorns and Fairies - Decodable Phonics Stories",
+    "Word by Word Reader - Beach Day - Decodable Phonics Stories",
+    "Word by Word Reader - Birthday Party - Decodable Phonics Stories",
+    "Word by Word Reader - Camping Trip - Decodable Phonics Stories",
+    "Word by Word Reader - Christmas - Decodable Phonics Stories",
+    "Word by Word Reader - Pumpkin Patch - Decodable Phonics Stories",
+    "Word by Word Reader - Sports Day - Decodable Phonics Stories",
+    "Word by Word Reader - Weather - Decodable Phonics Stories",
+    "Word by Word Reader - Winter Snow - Decodable Phonics Stories",
+    "Word by Word Reader - The Bakery - Decodable Phonics Stories",
+    "Word by Word Reader - Community Helpers - Decodable Phonics Stories",
+    "Word by Word Reader - Construction Site - Decodable Phonics Stories",
+    "Word by Word Reader - Monster Trucks - Decodable Phonics Stories",
+    "Word by Word Reader - School Day - Decodable Phonics Stories",
+    "Word by Word Reader - Trains - Decodable Phonics Stories"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/WordByWordBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "phonics",
+    "beginning readers",
+    "decodable readers"
+   ]
+  },
+  {
+   "id": "emoji-math-bundle",
+   "title": "Emoji Math Bundle - 4 Activities - Grades 1-5",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "1-5",
+   "types": [],
+   "summary": "Four whole-class word problem activities for elementary math, all run from the classroom projector. Emojis act out each story while you read it, the question waits until the class has thought it through, and the reveal shows the equation.",
+   "free": false,
+   "price_usd": 12.99,
+   "bundle": true,
+   "includes": [
+    "Emoji Math Cards - Word Problems for All Four Operations - Math Grades 1-5",
+    "Emoji Math Machine - Multiplication Arrays, Equal Groups, Division - Math Grades 1-5",
+    "Emoji Math Story Theater - Whole Class Math Warm Ups, Number Talks - Math Grades 1-5",
+    "Emoji Math Carnival - Word Problem Story Cards - Math Grades 1-5"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/EmojiMathBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "word problems",
+    "number talks",
+    "elementary math",
+    "math warm ups"
+   ]
+  },
+  {
+   "id": "science-simulation-games-bundle",
+   "title": "Science Simulation Games Bundle - 5 Simulators - Grades 6-12",
+   "subject": "science",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [],
+   "summary": "Five science simulation games in which students run the system and live with the results. They farm the Great Plains, graze a cattle ranch, operate a town's water treatment plant, keep fish alive in an aquaponics greenhouse and test claims as a natural philosopher in the age of Galileo.",
+   "free": false,
+   "price_usd": 16.99,
+   "bundle": true,
+   "includes": [
+    "Great Plains Farm Simulator Game | Soil, Water and Crop Rotation | Grades 6-9",
+    "Cattle Ranch Simulator Game | Rotational Grazing and Sustainable Agriculture | Grades 6-9",
+    "Water Treatment Plant Simulator Game | Water Pollution and Drinking Water | Grades 6-9",
+    "Aquaponics Farm 3D Simulator | Nitrogen Cycle and Water Chemistry Lab | Grades 6-12",
+    "Scientific Revolution Lab | Galileo and Kepler Experiment Game | Grades 6-10"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ScienceSimulationGamesBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "stem",
+    "agriculture",
+    "simulation games",
+    "science games"
+   ]
+  },
+  {
+   "id": "american-revolution-unit-bundle",
+   "title": "American Revolution Unit Bundle - 8 Resources - Grades 3-12",
+   "subject": "us-history",
+   "topics": [],
+   "grades": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "3-12",
+   "types": [],
+   "summary": "Eight American Revolution resources that cover a unit from the French and Indian War to the Constitution. Students sort causes from effects, rebuild Patrick Henry's speeches word by word, decide whether the Boston Tea Party was a fair protest, learn the vocabulary, and review with chess, History...",
+   "free": false,
+   "price_usd": 26.99,
+   "bundle": true,
+   "includes": [
+    "Revolutionary War Chess - Real Chess With a History Fact on Every Move",
+    "History Slither: The American Revolution | Interactive History Sorting Game | Grades 5-8",
+    "American Revolution: Strategic Timeline and Cause-Effect Lab | American History | Interactive Learning Resource | Grades 6-10",
+    "Patrick Henry Speeches Decoder - Primary Source Game - US History High School",
+    "Boston Tea Party DBQ - Primary Source Activity Grades 3-5, Digital + Printable",
+    "American Revolution Jeopardy Game - US History Review Grades 4-7",
+    "American Revolution Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 5-8",
+    "American Revolution Word Search | Revolutionary War Vocabulary Activity | Grades 6-8"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/AmericanRevolutionUnitBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "us history",
+    "social studies",
+    "revolutionary war",
+    "american revolution"
+   ]
+  },
+  {
+   "id": "civil-war-unit-bundle",
+   "title": "Civil War Unit Bundle - 13 Resources - Grades 5-12",
+   "subject": "us-history",
+   "topics": [],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "5-12",
+   "types": [],
+   "summary": "A full Civil War unit in thirteen resources, from the causes of the war through the battles to emancipation. Students run the Union war effort, walk five battles on interactive maps, read twelve illustrated passages, build the vocabulary, review with two games and argue a document-based question on...",
+   "free": false,
+   "price_usd": 14.99,
+   "bundle": true,
+   "includes": [
+    "Civil War Simulator Game | Lincoln and the Union Armies, 1861 to 1865 | Grades 7-12",
+    "Civil War Chess - Real Chess With a History Fact on Every Move",
+    "History Slither: The Civil War | Interactive History Sorting Game | Grades 5-8",
+    "Battle of Fort Sumter Interactive Map - Civil War Activity - US History Grades 6-8",
+    "Battle of Fredericksburg Interactive Map - Civil War Activity - US History Grades 6-8",
+    "Battle of Chancellorsville Interactive Map - Civil War Activity - US History Grades 6-8",
+    "Battle of Cold Harbor Interactive Map - Civil War Activity - US History Grades 6-8",
+    "Battle of Nashville Interactive Map - Civil War Activity - US History Grades 6-8",
+    "The Civil War Reading Comprehension - 12 Passages Print and Digital - US History Grades 6-8",
+    "Civil War Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 5-8",
+    "Civil War Word Search | US History Vocabulary with Answer Key | Grades 6-8",
+    "US Civil War Study Guide | Interactive Quiz & Self-Grading Assessment | Grades 6-8",
+    "Emancipation Day DBQ - How Slavery Ended, Document Based Question Activity"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/CivilWarUnitBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "us history",
+    "social studies",
+    "civil war",
+    "civil war unit"
+   ]
+  },
+  {
+   "id": "dust-bowl-great-depression-unit-bundle",
+   "title": "Dust Bowl and Great Depression Unit Bundle - 7 Resources - Grades 5-12",
+   "subject": "us-history",
+   "topics": [],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "5-12",
+   "types": [],
+   "summary": "Seven resources on the Dust Bowl and the Great Depression for one unit. Students farm the Great Plains and see what plowing and drought do to the soil, fly a 3D map of the southern Plains from 1909 to 1940, read the decade through Farm Security Administration photographs, and argue a document-based...",
+   "free": false,
+   "price_usd": 23.99,
+   "bundle": true,
+   "includes": [
+    "Great Plains Farm Simulator Game | Soil, Water and Crop Rotation | Grades 6-9",
+    "Oklahoma Dust Bowl Interactive 3D Map and Timeline - US History Grades 6-9",
+    "Dust Bowl Environmental Collapse Interactive Study | Black Sunday 1930s | Grades 7-12",
+    "Dust Bowl Social Media Feed - 1930s Primary Source Activity",
+    "Great Depression FSA Digital DBQ - Primary Sources, Document Analysis & Essay",
+    "History Slither: The Great Depression | Interactive History Sorting Game | Grades 5-8",
+    "Great Depression and Dust Bowl Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-8"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/DustBowlGreatDepressionUnitBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "us history",
+    "great depression",
+    "1930s",
+    "dust bowl"
+   ]
+  },
+  {
+   "id": "history-chess-bundle",
+   "title": "History Chess Bundle - 5 Games - Grades 5-8",
+   "subject": "us-history",
+   "topics": [],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [],
+   "summary": "Five chess games that teach history one move at a time. Students play a real game of chess against the computer or a classmate, every move unlocks the next lesson in the story of the era, and every capture explains the real person or unit that piece stands for.",
+   "free": false,
+   "price_usd": 16.99,
+   "bundle": true,
+   "includes": [
+    "Samurai Chess - Real Chess With a Sengoku Japan Fact on Every Move",
+    "Punic Wars Chess - Real Chess With a Rome vs. Carthage Fact on Every Move",
+    "World War II Chess - Real Chess With a History Fact on Every Move",
+    "Civil War Chess - Real Chess With a History Fact on Every Move",
+    "Revolutionary War Chess - Real Chess With a History Fact on Every Move"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/HistoryChessBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "chess",
+    "social studies",
+    "history games",
+    "history chess"
+   ]
+  },
+  {
+   "id": "history-dbqbundle",
+   "title": "History DBQ Bundle - 10 Document-Based Questions - Grades 3-12",
+   "subject": "us-history",
+   "topics": [],
+   "grades": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "3-12",
+   "types": [],
+   "summary": "Ten document-based questions that cover the history course from the Seven Wonders to the Great Depression. Each one gives students real primary sources, a guided way to analyze them, a place to sort the evidence into arguments and a scaffolded essay, so students practice the same DBQ skills on ten...",
+   "free": false,
+   "price_usd": 33.99,
+   "bundle": true,
+   "includes": [
+    "Spark of WWI Digital DBQ - Primary Sources, Document Analysis & Essay",
+    "Reign of Terror French Revolution Digital DBQ - Primary Sources, Document Analysis & Essay",
+    "Great Depression FSA Digital DBQ - Primary Sources, Document Analysis & Essay",
+    "Child Labor Industrial Revolution Digital DBQ - Primary Sources, Document Analysis & Essay",
+    "Panama Canal DBQ - American Imperialism & the Progressive Era, Primary Sources & Scaffolded Essay",
+    "Trail of Tears DBQ Investigation - Indian Removal Primary Source Activity",
+    "Emancipation Day DBQ - How Slavery Ended, Document Based Question Activity",
+    "European Renaissance Art DBQ - Leonardo, Michelangelo, Raphael Primary Source Analysis",
+    "Seven Wonders of the Ancient World DBQ - Ancient History Primary Sources & Historical Thinking",
+    "Boston Tea Party DBQ - Primary Source Activity Grades 3-5, Digital + Printable"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/HistoryDBQBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "history",
+    "dbq",
+    "document analysis",
+    "primary sources"
+   ]
+  },
+  {
+   "id": "history-jeopardy-bundle",
+   "title": "History Jeopardy Review Games Bundle - 8 Games - Grades 4-12",
+   "subject": "us-history",
+   "topics": [],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "4-12",
+   "types": [],
+   "summary": "Eight Jeopardy-style review games for history, each with six categories and 30 clues on one unit. Each game is one projected board: teams take turns choosing a category and a dollar value, the clue opens with its answer hidden until it is revealed, and the game keeps the score for every team.",
+   "free": false,
+   "price_usd": 26.99,
+   "bundle": true,
+   "includes": [
+    "American Revolution Jeopardy Game - US History Review Grades 4-7",
+    "Reconstruction and Gilded Age Jeopardy - US History Review Game - Grades 6-8",
+    "Roaring Twenties Jeopardy - 1920s and Prohibition Review Game - Grades 5-8",
+    "WW2 Pacific Theater Jeopardy - World War 2 Review Game - Grades 5-8",
+    "Cold War Jeopardy Review Game | Causes & Conflicts | US History | High School",
+    "US Presidents Jeopardy - Presidential History Review Game - Grades 5-8",
+    "Renaissance Jeopardy - World History Review Game - Grades 5-8",
+    "World Mythology Jeopardy - Norse, Egyptian and Roman Review Game - Grades 5-8"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/HistoryJeopardyBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "social studies",
+    "jeopardy",
+    "review game",
+    "history games"
+   ]
+  },
+  {
+   "id": "history-slither-bundle",
+   "title": "History Slither Bundle - 7 Games - Grades 5-8",
+   "subject": "us-history",
+   "topics": [],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [],
+   "summary": "Seven review games for US history, from the American Revolution to the Sixties. Students steer a worm around an arena and eat only the items that fit the category on screen, so every bite is a decision about the people, events and terms they studied.",
+   "free": false,
+   "price_usd": 23.99,
+   "bundle": true,
+   "includes": [
+    "History Slither: The American Revolution | Interactive History Sorting Game | Grades 5-8",
+    "History Slither: The Civil War | Interactive History Sorting Game | Grades 5-8",
+    "History Slither: The Roaring Twenties | Interactive History Sorting Game | Grades 5-8",
+    "History Slither: The Great Depression | Interactive History Sorting Game | Grades 5-8",
+    "History Slither: World War II | Interactive History Sorting Game | Grades 5-8",
+    "History Slither: The Fifties | Interactive History Sorting Game | Grades 5-8",
+    "History Slither: The Sixties | Interactive History Sorting Game | Grades 5-8"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/HistorySlitherBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "us history",
+    "social studies",
+    "review game",
+    "history games"
+   ]
+  },
+  {
+   "id": "state-history-bundle",
+   "title": "State History Bundle - 10 Maps and Timelines - Grades 4-10",
+   "subject": "us-history",
+   "topics": [],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "grade_band": "4-10",
+   "types": [],
+   "summary": "Ten state history resources across nine states: interactive histories of Texas, Colorado, Arizona, Arkansas, Alabama and North Carolina, plus 3D map timelines of the Oklahoma Dust Bowl, the Colorado mining boom, the Michigan auto industry and Spanish colonial Florida.",
+   "free": false,
+   "price_usd": 33.99,
+   "bundle": true,
+   "includes": [
+    "Texas State History | Social Studies | Interactive Learning Resource | Grades 4-8",
+    "Colorado State History | Interactive Map and Timeline | Social Studies | Grades 4-8",
+    "Arizona State History | Social Studies | Interactive Learning Resource | Grades 4-8",
+    "Arkansas State History | Interactive Map, Quiz & Timeline Activity",
+    "Alabama State History | Interactive Map, Quiz & Timeline Activity",
+    "North Carolina State History | Social Studies | Interactive Learning Resource | Grades 4-8",
+    "Oklahoma Dust Bowl Interactive 3D Map and Timeline - US History Grades 6-9",
+    "Colorado Mining Boom Interactive 3D Map and Timeline - US History Grades 6-9",
+    "Michigan Auto Industry Map and Timeline - Interactive US History - Grades 6-10",
+    "Florida Spanish Colonial Map and Timeline - Interactive US History - Grades 6-9"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/StateHistoryBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "us history",
+    "maps",
+    "social studies",
+    "state history"
+   ]
+  },
+  {
+   "id": "ushistory-study-guides-bundle",
+   "title": "US History Study Guides Bundle - 10 Guides - Grades 6-8",
+   "subject": "us-history",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "6-8",
+   "types": [],
+   "summary": "Ten self-grading US history study guides that cover the course from the thirteen colonies to the Vietnam War. Students answer multiple-choice questions and every answer comes back with the explanation behind it, so a wrong answer still teaches.",
+   "free": false,
+   "price_usd": 33.99,
+   "bundle": true,
+   "includes": [
+    "13 Colonies Study Guide | Interactive Quiz & Self-Grading Assessment | Grades 6-8",
+    "War of 1812 Study Guide | Interactive Quiz & Self-Grading Assessment | Grades 6-8",
+    "Westward Expansion Study Guide | Interactive Quiz & Self-Grading Assessment | Grades 6-8",
+    "US Civil War Study Guide | Interactive Quiz & Self-Grading Assessment | Grades 6-8",
+    "Industrialization and the Railroad Boom Study Guide | US History | Digital Interactive Quiz | Grades 6-8",
+    "Prohibition Era Study Guide | US History | Interactive Quiz | Grades 6-8",
+    "WW2 European Theater Study Guide | Interactive Quiz & Self-Grading Assessment | Grades 6-8",
+    "WW2 Pacific Theater Study Guide | Interactive Quiz & Self-Grading Assessment | Grades 6-8",
+    "The Korean War Study Guide | US History | Digital Interactive Quiz | Grades 6-8",
+    "Vietnam War Study Guide | Interactive Quiz & Self-Grading Assessment | Grades 6-8"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/USHistoryStudyGuidesBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "us history",
+    "social studies",
+    "study guide",
+    "test review"
+   ]
+  },
+  {
+   "id": "westward-expansion-unit-bundle",
+   "title": "Westward Expansion Unit Bundle - 6 Resources - Grades 5-10",
+   "subject": "us-history",
+   "topics": [],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "grade_band": "5-10",
+   "types": [],
+   "summary": "Six westward expansion resources for one unit: an Oregon Trail simulation game, a document-based investigation of the Trail of Tears, self-grading study guides on westward expansion and the War of 1812, a vocabulary trainer and a word search.",
+   "free": false,
+   "price_usd": 9.99,
+   "bundle": true,
+   "includes": [
+    "Oregon Trail Simulation Game | Westward Expansion Wagon Journey | Grades 5-8",
+    "Trail of Tears DBQ Investigation - Indian Removal Primary Source Activity",
+    "Westward Expansion Study Guide | Interactive Quiz & Self-Grading Assessment | Grades 6-8",
+    "War of 1812 Study Guide | Interactive Quiz & Self-Grading Assessment | Grades 6-8",
+    "Westward Expansion Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 5-8",
+    "Fur Trade Word Search | North American History Vocabulary | Grades 6-8"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/WestwardExpansionUnitBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "us history",
+    "social studies",
+    "oregon trail",
+    "westward expansion"
+   ]
+  },
+  {
+   "id": "world-war-iiunit-bundle",
+   "title": "World War II Unit Bundle - 12 Resources - Grades 5-12",
+   "subject": "us-history",
+   "topics": [],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "5-12",
+   "types": [],
+   "summary": "Twelve World War II resources for one unit: two investigation labs, two study guides, a reading set, a vocabulary trainer, four review games and two word searches.",
+   "free": false,
+   "price_usd": 40.99,
+   "bundle": true,
+   "includes": [
+    "World War II Chess - Real Chess With a History Fact on Every Move",
+    "History Slither: World War II | Interactive History Sorting Game | Grades 5-8",
+    "The Enigma Machine and WWII Codebreakers - Primary Source Investigation Lab - World History Grades 8-12",
+    "The Manhattan Project and the End of World War II - Primary Source Investigation Lab - US History Grades 8-12",
+    "WW2 European Theater Study Guide | Interactive Quiz & Self-Grading Assessment | Grades 6-8",
+    "WW2 Pacific Theater Study Guide | Interactive Quiz & Self-Grading Assessment | Grades 6-8",
+    "WW2 Pacific Theater Jeopardy - World War 2 Review Game - Grades 5-8",
+    "1940s US History Reading Comprehension - World War 2 Passages - Grades 6-8",
+    "World War II Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-10",
+    "World War Two Bingo Review Game",
+    "World War 2 Word Search | WW2 Vocabulary with Answer Key | Grades 5-9",
+    "Enigma Machine Word Search | Codebreaking Vocabulary | Grades 6-8"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/WorldWarIIUnitBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "us history",
+    "ww2",
+    "world history",
+    "world war ii"
+   ]
+  },
+  {
+   "id": "ancient-greece-unit-bundle",
+   "title": "Ancient Greece Unit Bundle - 7 Resources - Grades 4-12",
+   "subject": "world-history",
+   "topics": [],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "4-12",
+   "types": [],
+   "summary": "An Ancient Greece unit in seven resources. Students govern Athens as Solon, investigate whether the Trojan War really happened, think their way out of the Labyrinth of Greek myth, follow the lives of Aristotle and Alexander the Great, and learn the vocabulary of the polis with a trainer and a word...",
+   "free": false,
+   "price_usd": 23.99,
+   "bundle": true,
+   "includes": [
+    "Solon: Save Athens - A 12-Year Polis Tycoon Simulation | Ancient Greece | Grades 6-12",
+    "Trojan War Investigation Lab - Did the Trojan War Really Happen - Ancient Greece History Grades 6-12",
+    "Escape the Labyrinth - Greek Mythology Escape Room Game - Grades 6-12",
+    "Aristotle Interactive Biography - Ancient Greek Philosophy and Science - Grades 6-12",
+    "Alexander the Great Interactive Biography - Ancient Greece and Empire - Grades 6-12",
+    "Ancient Greece Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-8",
+    "Ancient Greece Word Search | Vocabulary Activity with Answer Key | Grades 4-8"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/AncientGreeceUnitBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "greek mythology",
+    "ancient greece",
+    "world history",
+    "ancient history"
+   ]
+  },
+  {
+   "id": "ancient-rome-unit-bundle",
+   "title": "Ancient Rome Unit Bundle - 5 Resources - Grades 5-12",
+   "subject": "world-history",
+   "topics": [],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "5-12",
+   "types": [],
+   "summary": "Five Ancient Rome resources for one unit: an escape room set in a gladiator arena, a chess game on the Punic Wars, an interactive biography of Julius Caesar, a vocabulary trainer and a word search.",
+   "free": false,
+   "price_usd": 16.99,
+   "bundle": true,
+   "includes": [
+    "Gladiator Arena Escape Room | World History | Digital Escape Room | Grades 5-9",
+    "Punic Wars Chess - Real Chess With a Rome vs. Carthage Fact on Every Move",
+    "Julius Caesar Interactive Biography - Ancient Rome and the Roman Republic - Grades 6-12",
+    "Ancient Rome Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-8",
+    "Ancient Rome Word Search | Vocabulary Activity with Answer Key | Grades 6-8"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/AncientRomeUnitBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "world history",
+    "escape room",
+    "ancient rome",
+    "ancient history"
+   ]
+  },
+  {
+   "id": "investigation-labs-bundle",
+   "title": "Investigation Labs Bundle - 6 Labs - Grades 6-12",
+   "subject": "world-history",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [],
+   "summary": "Six history investigation labs built on questions historians still argue about. Students decide who is answerable for the atomic bomb, how much the codebreakers changed World War II, what turned Salem village into a witch hunt and whether the Trojan War happened at all, working from real primary...",
+   "free": false,
+   "price_usd": 19.99,
+   "bundle": true,
+   "includes": [
+    "The Manhattan Project and the End of World War II - Primary Source Investigation Lab - US History Grades 8-12",
+    "The Enigma Machine and WWII Codebreakers - Primary Source Investigation Lab - World History Grades 8-12",
+    "Black Death Investigation Lab - Medieval Plague Primary Sources - Grades 7-12",
+    "Salem Witch Trials Investigation Lab",
+    "Trojan War Investigation Lab - Did the Trojan War Really Happen - Ancient Greece History Grades 6-12",
+    "Abolitionism Investigation - Slavery Primary Source Activity"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/InvestigationLabsBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "history",
+    "world history",
+    "primary sources",
+    "investigation lab"
+   ]
+  },
+  {
+   "id": "world-history-study-guides-bundle",
+   "title": "World History Study Guides Bundle - 7 Guides - Grades 6-8",
+   "subject": "world-history",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "6-8",
+   "types": [],
+   "summary": "Seven self-grading world history study guides, from the Vikings and the Middle Ages to World War I. Students answer multiple-choice questions, every answer comes back with an explanation, and every guide includes a printable worksheet with an answer key.",
+   "free": false,
+   "price_usd": 23.99,
+   "bundle": true,
+   "includes": [
+    "Vikings Study Guide | Interactive Quiz & Self-Grading Assessment | Grades 6-8",
+    "The Middle Ages Study Guide | World History | Digital Interactive Quiz | Grades 6-8",
+    "Black Death Study Guide | Interactive History Quiz | Digital Resource | Grades 6-8",
+    "The Silk Road Study Guide | World History | Interactive Quiz | Grades 6-8",
+    "The Inca Empire Study Guide | World History | Digital Interactive Quiz | Grades 6-8",
+    "The Renaissance Study Guide | World History | Interactive Quiz | Grades 6-8",
+    "World War I Study Guide | Interactive Quiz & Self-Grading Assessment | Grades 6-8"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/WorldHistoryStudyGuidesBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "social studies",
+    "study guide",
+    "world history",
+    "test review"
+   ]
+  }
+ ]
+}

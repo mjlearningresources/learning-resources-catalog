@@ -1,0 +1,6062 @@
+{
+ "subject": "biographies",
+ "name": "Biographies",
+ "count": 140,
+ "products": [
+  {
+   "id": "aaron-copland-interactive-biography",
+   "title": "Aaron Copland | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Aaron Copland (1900-1990) to life with this interactive composer biography featuring a five-era narrative, embedded primary sources, an interactive geography map, and an auto-graded quiz.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c5ec935b5d630b48311a"
+    }
+   ],
+   "tags": [
+    "aaron copland",
+    "biography",
+    "quiz",
+    "music",
+    "history",
+    "middle school",
+    "interactive",
+    "social studies"
+   ]
+  },
+  {
+   "id": "abigail-adams-interactive-biography",
+   "title": "Abigail Adams | Interactive Biography | Grades 3-6",
+   "subject": "biographies",
+   "topics": [
+    "History"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "grade_band": "3-6",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Abigail Adams (1744-1818) with an interactive biography pairing five life eras, a real map from Weymouth to Auteuil to the unfinished President's House, a dual-track timeline against the American Revolution and early Republic, a 22-node connections graph of her...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c82b637971b73f323ef9"
+    }
+   ],
+   "tags": [
+    "abigail adams",
+    "biography",
+    "quiz",
+    "history",
+    "social studies",
+    "upper elementary",
+    "middle school",
+    "printable"
+   ]
+  },
+  {
+   "id": "abraham-lincoln-interactive-biography",
+   "title": "Abraham Lincoln | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "History",
+    "War & Conflict"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Abraham Lincoln (1809-1865) with an interactive biography that pairs a five-era narrative life, a real geographic map from the Sinking Spring Farm cabin to Springfield to Antietam to Ford's Theatre, a dual-track timeline of his life against the world events of the era, a...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c833a3ccf2f292674531"
+    }
+   ],
+   "tags": [
+    "abraham lincoln",
+    "biography",
+    "quiz",
+    "us history",
+    "american history",
+    "middle school",
+    "interactive",
+    "social studies"
+   ]
+  },
+  {
+   "id": "ada-lovelace-interactive-biography",
+   "title": "Ada Lovelace Interactive Biography | Women in STEM Computer Science History Activity | Grade 9",
+   "subject": "biographies",
+   "topics": [
+    "History",
+    "Science"
+   ],
+   "grades": [
+    "9"
+   ],
+   "grade_band": "9",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step into the full life of Ada Lovelace, the daughter of the poet Lord Byron who became the world's first computer programmer.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c83d57f76dc5aa70b49d"
+    }
+   ],
+   "tags": [
+    "ada lovelace interactive biography",
+    "biography",
+    "quiz",
+    "history",
+    "social studies",
+    "high school",
+    "interactive",
+    "science"
+   ]
+  },
+  {
+   "id": "alan-turing-interactive-biography",
+   "title": "Alan Turing Interactive Biography - Computer Science and WWII - Grades 7-12",
+   "subject": "biographies",
+   "topics": [],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [],
+   "summary": "An interactive biography of Alan Turing, the mathematician who described the Turing machine in 1936, broke naval Enigma at Bletchley Park and wrote some of the first programs for an electronic computer. It is one HTML file for Grades 7-12 that opens in a web browser with no login and no install.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/AlanTuringInteractiveBiography"
+    }
+   ],
+   "tags": [
+    "biography",
+    "computer science",
+    "stem",
+    "wwii",
+    "alan turing"
+   ]
+  },
+  {
+   "id": "albert-bierstadt-interactive-biography",
+   "title": "Albert Bierstadt Interactive Biography - Hudson River School Art - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "US History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Printables"
+   ],
+   "summary": "An interactive biography of Albert Bierstadt, the German-American painter whose luminous canvases of the American West shaped how a generation pictured its frontier, told in five illustrated chapters with a two-track timeline, a real historical map, a connections web, four primary sources, and a...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/AlbertBierstadtInteractiveBiography"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/3PCtO"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/albert-bierstadt-interactive-biography-american-west-landscape-painter-hudson-river-school-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "albert bierstadt interactive biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "albert bierstadt"
+   ]
+  },
+  {
+   "id": "einstein-interactive-biography",
+   "title": "Albert Einstein Interactive Biography | Physics History & Manhattan Project Activity | Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Science",
+    "Physical Science",
+    "US History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step into the full life of Albert Einstein, the German-Swiss-American physicist who rewrote modern physics in four 1905 papers, finished general relativity in the middle of the First World War, fled Nazi Germany in 1933, and spent his last decade fighting both nuclear weapons and American...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1ce474aa34a39b0037e0f"
+    }
+   ],
+   "tags": [
+    "albert einstein interactive biography",
+    "biography",
+    "quiz",
+    "science",
+    "physical science",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "alexander-fleming-interactive-biography",
+   "title": "Alexander Fleming Biography | Penicillin and Antibiotics | Biology 8th Grade",
+   "subject": "biographies",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Alexander Fleming (1881-1955) to life with this interactive biography that follows the Scottish scientist who discovered penicillin, the first antibiotic.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1b604f9d5680e7510a193"
+    }
+   ],
+   "tags": [
+    "alexander fleming biography",
+    "biography",
+    "quiz",
+    "science",
+    "biology",
+    "middle school",
+    "penicillin and antibiotics",
+    "interactive"
+   ]
+  },
+  {
+   "id": "alexander-graham-bell-interactive-biography",
+   "title": "Alexander Graham Bell Biography - Telephone Inventor - Science | Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Science"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Alexander Graham Bell (1847-1922) to life with this interactive biography that follows the Scottish-born teacher of the deaf who invented the telephone and transformed global communication.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/AlexanderGrahamBellBiography"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/alexander-graham-bell-biography-telephone-inventor-science-8th-grade/"
+    }
+   ],
+   "tags": [
+    "alexander graham bell biography",
+    "biography",
+    "quiz",
+    "science",
+    "middle school",
+    "telephone inventor",
+    "interactive",
+    "science activity"
+   ]
+  },
+  {
+   "id": "alexander-hamilton-interactive-biography",
+   "title": "Alexander Hamilton | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Alexander Hamilton sailed from St. Croix as a teenage orphan and helped build the American financial system, the Federalist Papers, and the very idea of an executive branch.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae8835888056c453ec1e605"
+    }
+   ],
+   "tags": [
+    "alexander hamilton",
+    "biography",
+    "quiz",
+    "us history",
+    "american history",
+    "middle school",
+    "interactive",
+    "social studies"
+   ]
+  },
+  {
+   "id": "amerigo-vespucci-interactive-biography",
+   "title": "Amerigo Vespucci Interactive Biography",
+   "subject": "biographies",
+   "topics": [
+    "History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "He explored the coast of a new continent and wrote the letters that gave America its name, but he was not the first to reach it, and some of what he claimed may be a story someone else told.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/AmerigoVespucciBiography"
+    }
+   ],
+   "tags": [
+    "amerigo vespucci interactive biography",
+    "interactive map",
+    "biography",
+    "geography",
+    "social studies",
+    "middle school",
+    "high school",
+    "world history"
+   ]
+  },
+  {
+   "id": "andrew-jackson-interactive-biography",
+   "title": "Andrew Jackson | Interactive Biography | Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Andrew Jackson (1767-1845) with an interactive biography that pairs a five-era narrative life, a real geographic map of the early American frontier, a dual-track timeline against the rise of the early republic and the road to civil war, a network graph of his allies, rivals,...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1ce3d1e8ff56f8e2a1795"
+    }
+   ],
+   "tags": [
+    "andrew jackson",
+    "biography",
+    "quiz",
+    "us history",
+    "american history",
+    "middle school",
+    "high school",
+    "printable"
+   ]
+  },
+  {
+   "id": "antoine-lavoisier-interactive-biography",
+   "title": "Antoine Lavoisier Interactive Biography - Conservation of Mass - Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "This interactive biography covers the life of Antoine Lavoisier, the French chemist who named oxygen and hydrogen, stated the law of conservation of mass and was executed in the French Revolution.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/AntoineLavoisierInteractiveBiography"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1b65b136f1dae1c07b6cd"
+    }
+   ],
+   "tags": [
+    "antoine lavoisier interactive biography",
+    "biography",
+    "quiz",
+    "science",
+    "physical science",
+    "middle school",
+    "high school",
+    "science history"
+   ]
+  },
+  {
+   "id": "dvorak-interactive-biography",
+   "title": "Antonin Dvorak | Interactive Biography with Music | Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "Music"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Antonin Dvorak (1841-1904), the Bohemian butcher's son who became the most internationally famous composer of the late nineteenth century outside Germany.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1cf4f317960f4979c319b"
+    }
+   ],
+   "tags": [
+    "antonin dvorak",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "vivaldi-interactive-biography",
+   "title": "Antonio Vivaldi Interactive Biography | Baroque Composer Four Seasons Activity | Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the full life of Antonio Vivaldi (1678-1741), the red-haired Venetian priest who taught violin to orphan girls for thirty years, wrote roughly five hundred concertos including The Four Seasons, ran a Baroque opera empire, fell out with a Cardinal over an opera singer, fled to Vienna,...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae03c08d5879adb7dc4b09c"
+    }
+   ],
+   "tags": [
+    "antonio vivaldi interactive biography",
+    "biography",
+    "quiz",
+    "music",
+    "history",
+    "middle school",
+    "high school",
+    "baroque composer four seasons activity"
+   ]
+  },
+  {
+   "id": "archimedes-interactive-biography",
+   "title": "Archimedes Interactive Biography - Levers and the Siege of Syracuse - Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Archimedes of Syracuse (c. 287 to 212 BCE) to life with this interactive biography of the mathematician and engineer who balanced the lever, explained why heavy things float, and held a city against a siege.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ArchimedesBiography",
+     "free_here": true
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae8035d182c3f14e3ef6af4"
+    }
+   ],
+   "tags": [
+    "archimedes interactive biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "engineering"
+   ]
+  },
+  {
+   "id": "artist-biographies-bundle",
+   "title": "Artist Biographies Bundle - 12 Painters - Grades 6-12",
+   "subject": "biographies",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [],
+   "summary": "Twelve interactive biographies of painters for an art history course: the Hudson River School, English and French landscape painting, Neoclassicism, Romanticism, Realism, Post-Impressionism and Mexican modern art.",
+   "free": false,
+   "price_usd": 9.99,
+   "bundle": true,
+   "includes": [
+    "Thomas Cole Interactive Biography - Hudson River School Art - Grades 6-12",
+    "Albert Bierstadt Interactive Biography - Hudson River School Art - Grades 6-12",
+    "John Constable Interactive Biography - English Landscape Painting - Grades 6-12",
+    "Camille Corot Interactive Biography - French Landscape Painting - Grades 6-12",
+    "Jean-Francois Millet Interactive Biography - Barbizon and Rural Realism - Grades 6-12",
+    "Gustave Courbet Interactive Biography - Realist Art Movement - Grades 6-12",
+    "Jean-Auguste-Dominique Ingres Interactive Biography - Neoclassical Painting - Grades 6-12",
+    "Theodore Gericault Interactive Biography - Romantic Art Movement - Grades 6-12",
+    "James McNeill Whistler Interactive Biography - Art for Art's Sake - Grades 6-12",
+    "Henri Rousseau Interactive Biography - Naive and Jungle Painting - Grades 6-12",
+    "Vincent van Gogh Interactive Biography - Post-Impressionist Art - Grades 6-12",
+    "Frida Kahlo Interactive Biography - Mexican Art and Identity - Grades 6-12"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ArtistBiographiesBundle"
+    }
+   ],
+   "tags": [
+    "biography",
+    "bundle",
+    "art history",
+    "painters",
+    "artist study"
+   ]
+  },
+  {
+   "id": "betsy-ross-elementary-biography",
+   "title": "B Ross Biography | American Flag & Revolution | US History | Grades 3-6",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "History"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "grade_band": "3-6",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "This interactive biography for grades 3-5 teaches Betsy Ross as a real, skilled businesswoman and builds critical thinking by comparing documented history with the famous \"first flag\" legend.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae4f4a5eb2e735da5cf6503"
+    }
+   ],
+   "tags": [
+    "b ross biography",
+    "biography",
+    "quiz",
+    "us history",
+    "american history",
+    "upper elementary",
+    "middle school",
+    "american flag and revolution"
+   ]
+  },
+  {
+   "id": "beethoven-interactive-biography",
+   "title": "Beethoven Interactive Biography | Music History Composer Study with Embedded Audio Clips | Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Ludwig van Beethoven (1770-1827) with an interactive biography that pairs a six-era narrative life, a real geographic map, a dual-track timeline against the French Revolution and Napoleonic wars, a network graph of his teachers and patrons, four primary sources written by...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1d4ebf2e238fb5ab190ca"
+    }
+   ],
+   "tags": [
+    "beethoven interactive biography",
+    "biography",
+    "quiz",
+    "music",
+    "history",
+    "middle school",
+    "high school",
+    "printable"
+   ]
+  },
+  {
+   "id": "benjamin-franklin-interactive-biography",
+   "title": "Benjamin Franklin - Interactive Biography | Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "An interactive biography of Benjamin Franklin (1706 to 1790): printer, scientist, diplomat, and signer of the Declaration of Independence, the Treaty of Alliance with France, the Treaty of Paris and the Constitution.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/BenjaminFranklinInteractiveBiography"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbb412271172583403ec5e"
+    }
+   ],
+   "tags": [
+    "benjamin franklin",
+    "biography",
+    "quiz",
+    "us history",
+    "american history",
+    "middle school",
+    "high school",
+    "revolution"
+   ]
+  },
+  {
+   "id": "berthe-morisot-interactive-biography",
+   "title": "Berthe Morisot Interactive Biography - Founding Impressionist - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "Europe"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "An interactive biography of Berthe Morisot (1841 to 1895), the French Impressionist painter known for luminous domestic scenes of women and children and as a founding member of the Impressionist exhibitions. It opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c6eca24e0001b8c599d0"
+    }
+   ],
+   "tags": [
+    "berthe morisot",
+    "impressionism",
+    "women artists",
+    "art history",
+    "interactive biography",
+    "primary sources",
+    "middle school",
+    "high school"
+   ]
+  },
+  {
+   "id": "black-history-biographies-bundle",
+   "title": "Black History Biographies Bundle - 8 Biographies - Grades 6-12",
+   "subject": "biographies",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [],
+   "summary": "Eight interactive biographies for Black History Month and for U.S. and world history courses the rest of the year: Sojourner Truth, Booker T. Washington, W.E.B. Du Bois, George Washington Carver, Louis Armstrong, Jackie Robinson, Katherine Johnson and Nelson Mandela.",
+   "free": false,
+   "price_usd": 9.99,
+   "bundle": true,
+   "includes": [
+    "Sojourner Truth Interactive Biography - Black History and Women's History - Grades 6-12",
+    "Booker T. Washington Interactive Biography - Black History Month Activity - Grades 6-12",
+    "W.E.B. Du Bois Interactive Biography - Black History Month Activity - Grades 6-12",
+    "George Washington Carver Interactive Biography - Black History Month Science - Grades 6-12",
+    "Louis Armstrong Interactive Biography - Jazz and Music History - Grades 6-12",
+    "Jackie Robinson Interactive Biography - Civil Rights US History Grades 6-12",
+    "Katherine Johnson Interactive Biography - NASA and Space History - Grades 6-12",
+    "Nelson Mandela Interactive Biography - Apartheid and South Africa - Grades 6-12"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/BlackHistoryBiographiesBundle"
+    }
+   ],
+   "tags": [
+    "biography",
+    "bundle",
+    "us history",
+    "black history",
+    "civil rights"
+   ]
+  },
+  {
+   "id": "camille-corot-interactive-biography",
+   "title": "Camille Corot Interactive Biography - French Landscape Painting - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "World History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Printables"
+   ],
+   "summary": "An interactive biography of Camille Corot, the French landscape painter whose silvery light and patient outdoor observation drew a direct line from the Barbizon school to Impressionism, told in five illustrated chapters with a two-track timeline, a real historical map, a connections web, four...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/CamilleCorotInteractiveBiography"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/camille-corot-interactive-biography-french-landscape-painting-barbizon-school-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "camille corot interactive biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "camille corot"
+   ]
+  },
+  {
+   "id": "camille-pissarro-interactive-biography",
+   "title": "Camille Pissarro Interactive Biography - Patriarch of Impressionism - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "Europe"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "An interactive biography of Camille Pissarro (1830 to 1903), the Danish-French Impressionist known for landscapes, peasant scenes and the late Paris and Rouen city series. It opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c6f6fa11e36aec2f6cf2"
+    }
+   ],
+   "tags": [
+    "camille pissarro",
+    "impressionism",
+    "landscape painting",
+    "art history",
+    "interactive biography",
+    "primary sources"
+   ]
+  },
+  {
+   "id": "camille-saint-saens-interactive-biography",
+   "title": "Camille Saint-Saëns | Interactive Biography with Music | Grade 9",
+   "subject": "biographies",
+   "topics": [
+    "Music"
+   ],
+   "grades": [
+    "9"
+   ],
+   "grade_band": "9",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Camille Saint-Saëns (1835-1921) to life with this interactive composer biography featuring a six-era narrative, embedded public-domain audio, primary sources, and an auto-graded quiz.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1ce29228ee252d4a4c172"
+    }
+   ],
+   "tags": [
+    "camille saint-saëns",
+    "biography",
+    "quiz",
+    "music",
+    "high school",
+    "interactive",
+    "music activity",
+    "music review"
+   ]
+  },
+  {
+   "id": "caravaggio-interactive-biography",
+   "title": "Caravaggio Interactive Biography - Baroque Art History - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "History of Western Civilization",
+    "World History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Research"
+   ],
+   "summary": "An interactive biography of Caravaggio, the Lombard painter of light and shadow whose life ran from Milan to Rome, Naples, Malta and Sicily, that opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/caravaggio-interactive-biography-baroque-art-history-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bd405da48e8fd6fd9cd0"
+    }
+   ],
+   "tags": [
+    "caravaggio interactive biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "caravaggio"
+   ]
+  },
+  {
+   "id": "carl-linnaeus-interactive-biography",
+   "title": "Carl Linnaeus Biography | Taxonomy and Classification | Biology 8th Grade",
+   "subject": "biographies",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Carl Linnaeus (1707-1778) to life with this interactive biography that follows the Swedish naturalist who gave every living thing a two-part Latin name and organized the natural world.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1b67e21d9ccd73c852ec6"
+    }
+   ],
+   "tags": [
+    "carl linnaeus biography",
+    "biography",
+    "quiz",
+    "science",
+    "biology",
+    "middle school",
+    "taxonomy and classification",
+    "interactive"
+   ]
+  },
+  {
+   "id": "cesar-franck-interactive-biography",
+   "title": "Cesar Franck Interactive Biography - Romantic Music - Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "Arts & Music",
+    "History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Multimedia"
+   ],
+   "summary": "An interactive biography of Cesar Franck, the Romantic composer and organist, that opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/CesarFranckInteractiveBiography"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/cesar-franck-interactive-biography-romantic-music-grades-7-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0f53d489154fc34054121"
+    }
+   ],
+   "tags": [
+    "cesar franck interactive biography",
+    "biography",
+    "quiz",
+    "music",
+    "art",
+    "middle school",
+    "high school",
+    "cesar franck"
+   ]
+  },
+  {
+   "id": "chopin-interactive-biography",
+   "title": "Chopin Interactive Biography | Music History Composer Study with Embedded Audio | Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the Polish-French world of Fryderyk Chopin (1810-1849) with an interactive biography that pairs a five-era narrative life, a real geographic map from Warsaw to Paris, a dual-track timeline against the November Uprising, a force-directed network of Polish emigres and Paris Romantics,...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1cf3544192e33ba2c77ed"
+    }
+   ],
+   "tags": [
+    "chopin interactive biography",
+    "biography",
+    "quiz",
+    "music",
+    "history",
+    "middle school",
+    "high school",
+    "printable"
+   ]
+  },
+  {
+   "id": "christopher-columbus-interactive-biography",
+   "title": "Christopher Columbus Interactive Biography",
+   "subject": "biographies",
+   "topics": [
+    "History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "He was neither the lone genius who proved the earth was round nor a cartoon villain who stumbled into history. This interactive biography gives students the whole Christopher Columbus: a superb practical seaman with a badly mistaken theory, an obsessive who wore down two kingdoms until one of them...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ChristopherColumbusBiography"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adad30ae19702ca430bba1a"
+    }
+   ],
+   "tags": [
+    "christopher columbus interactive biography",
+    "interactive map",
+    "biography",
+    "geography",
+    "social studies",
+    "middle school",
+    "high school",
+    "world history"
+   ]
+  },
+  {
+   "id": "debussy-interactive-biography",
+   "title": "Claude Debussy | Interactive Biography with Music | Grade 10",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "History"
+   ],
+   "grades": [
+    "10"
+   ],
+   "grade_band": "10",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Claude Debussy (1862-1918), the French composer who reinvented harmony for the twentieth century by treating chords as colors rather than as steps in a logical progression.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1cf46b4c4ef49d5e6b430"
+    }
+   ],
+   "tags": [
+    "claude debussy",
+    "biography",
+    "quiz",
+    "music",
+    "history",
+    "high school",
+    "interactive",
+    "social studies"
+   ]
+  },
+  {
+   "id": "claude-monet-interactive-biography",
+   "title": "Claude Monet | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Claude Monet (1840-1926) to life with this interactive art-history biography featuring a five-era narrative, embedded primary sources, an interactive geography map, and an auto-graded quiz.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae03a8309ea04862319090d"
+    }
+   ],
+   "tags": [
+    "claude monet",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "interactive",
+    "history"
+   ]
+  },
+  {
+   "id": "claudius-ptolemy-interactive-biography",
+   "title": "Claudius Ptolemy Interactive Biography - Geocentric Model and Geography - Grades 7-12",
+   "subject": "biographies",
+   "topics": [],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [],
+   "summary": "Bring Claudius Ptolemy (about 100 to about 170 CE) to life with this interactive biography of the astronomer and geographer of Roman Alexandria, whose Almagest shaped the sky and whose Geography shaped the map for fourteen hundred years.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ClaudiusPtolemyBiography"
+    }
+   ],
+   "tags": [
+    "science",
+    "biography",
+    "astronomy",
+    "middle school",
+    "world history",
+    "ptolemy",
+    "ancient history",
+    "geocentric model"
+   ]
+  },
+  {
+   "id": "cleopatra-interactive-biography",
+   "title": "Cleopatra VII | Interactive Biography | Grades 8-11",
+   "subject": "biographies",
+   "topics": [
+    "World History",
+    "History"
+   ],
+   "grades": [
+    "8",
+    "9",
+    "10",
+    "11"
+   ],
+   "grade_band": "8-11",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Cleopatra VII Philopator (69-30 BCE) into your classroom with a single-file interactive biography. Students trace five life eras from her Alexandria scholar-princess youth, through the alliances with Caesar and Antony, to the Battle of Actium and the suicide that ended three centuries of...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae8836086a267470a863ff2"
+    }
+   ],
+   "tags": [
+    "cleopatra vii",
+    "biography",
+    "quiz",
+    "world history",
+    "social studies",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "diego-velazquez-interactive-biography",
+   "title": "Diego Velazquez | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Diego Velazquez (1599-1660) to life with this interactive art-history biography of the Spanish Golden Age master who painted popes, princes, jesters, and gods with the same unflinching truth.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bca9456556e57d69ff8b"
+    }
+   ],
+   "tags": [
+    "diego velazquez",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "interactive",
+    "history"
+   ]
+  },
+  {
+   "id": "dwight-d-eisenhower-interactive-biography",
+   "title": "Dwight D. Eisenhower Interactive Biography - World War II and the Presidency - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "World History",
+    "War & Conflict"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "An interactive biography of Dwight D. Eisenhower (1890 to 1969), the five-star general who commanded the Allied invasion of Europe and served as the 34th president of the United States. It opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bd470cbfe2ab7dcfa749"
+    }
+   ],
+   "tags": [
+    "dwight eisenhower",
+    "world war ii",
+    "us presidents",
+    "d-day",
+    "interactive biography",
+    "primary sources",
+    "us history",
+    "world history"
+   ]
+  },
+  {
+   "id": "edgar-degas-interactive-biography",
+   "title": "Edgar Degas Interactive Biography - Impressionist Painter and Pastel Artist - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "Europe"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "An interactive biography of Edgar Degas (1834 to 1917), the French painter and sculptor known for his dancers, racetrack scenes and pastels, who exhibited with the Impressionists. It opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c4dc3b1e4b13ec36d503"
+    }
+   ],
+   "tags": [
+    "edgar degas",
+    "impressionism",
+    "art history",
+    "ballet painting",
+    "interactive biography",
+    "primary sources",
+    "visual arts",
+    "art"
+   ]
+  },
+  {
+   "id": "edouard-manet-interactive-biography",
+   "title": "Edouard Manet | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Edouard Manet (1832-1883) to life with this interactive art-history biography featuring a five-era narrative, embedded primary sources, an interactive geography map, and an auto-graded quiz.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c4e4ec238be82b5e30ba"
+    }
+   ],
+   "tags": [
+    "edouard manet",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "interactive",
+    "history"
+   ]
+  },
+  {
+   "id": "edward-jenner-interactive-biography",
+   "title": "Edward Jenner Biography | Smallpox Vaccine and Immunity | Biology 8th Grade",
+   "subject": "biographies",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Edward Jenner (1749-1823) to life with this interactive biography that follows the English physician who developed the first vaccine.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1b6668a5a0b25b9497fc7"
+    }
+   ],
+   "tags": [
+    "edward jenner biography",
+    "biography",
+    "quiz",
+    "science",
+    "biology",
+    "middle school",
+    "smallpox vaccine and immunity",
+    "interactive"
+   ]
+  },
+  {
+   "id": "el-greco-interactive-biography",
+   "title": "El Greco | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "This El Greco interactive biography turns art history and primary sources into a self-guided activity that runs on any device with no prep, no logins, and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bcb144fbcf654d9dab19"
+    }
+   ],
+   "tags": [
+    "el greco",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "interactive",
+    "history"
+   ]
+  },
+  {
+   "id": "eleanor-roosevelt-interactive-biography",
+   "title": "Eleanor Roosevelt Interactive Biography | Women's History Activity | Grades 8-11",
+   "subject": "biographies",
+   "topics": [
+    "History"
+   ],
+   "grades": [
+    "8",
+    "9",
+    "10",
+    "11"
+   ],
+   "grade_band": "8-11",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Eleanor Roosevelt (1884-1962) into your classroom with a single-file interactive biography. Students trace five life eras from the privileged-but-orphaned Manhattan childhood, through Allenswood, the White House years with Arthurdale and the 1939 DAR resignation over Marian Anderson, to the...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae873497c5fec8f53a956fa"
+    }
+   ],
+   "tags": [
+    "eleanor roosevelt interactive biography",
+    "biography",
+    "quiz",
+    "history",
+    "social studies",
+    "middle school",
+    "high school",
+    "women's history activity"
+   ]
+  },
+  {
+   "id": "erik-satie-interactive-biography",
+   "title": "Erik Satie Interactive Biography - Modern Music - Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "Art History",
+    "Europe"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Printables"
+   ],
+   "summary": "An interactive biography of Erik Satie, the French avant-garde composer, that opens in any web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ErikSatieInteractiveBiography"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/8cNmK"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/erik-satie-interactive-biography-modern-music-and-music-history-listening-lab-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0f5453308ed077e3f2ae9"
+    }
+   ],
+   "tags": [
+    "erik satie interactive biography",
+    "biography",
+    "quiz",
+    "music",
+    "art history",
+    "middle school",
+    "high school",
+    "erik satie"
+   ]
+  },
+  {
+   "id": "eugene-delacroix-interactive-biography",
+   "title": "Eugene Delacroix | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Eugene Delacroix (1798-1863) to life with this interactive art-history biography featuring a five-era narrative, embedded primary sources, an interactive geography map, and an auto-graded quiz.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bcb97bdc905054d29669"
+    }
+   ],
+   "tags": [
+    "eugene delacroix",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "interactive",
+    "history"
+   ]
+  },
+  {
+   "id": "explorer-biographies-bundle",
+   "title": "Explorer Biographies Bundle - 10 Explorers - Grades 5-12",
+   "subject": "biographies",
+   "topics": [],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "5-12",
+   "types": [],
+   "summary": "Ten interactive biographies for an Age of Exploration unit, from Leif Erikson to James Cook. Each one gives students the whole person, including the violence and the disputed claims, with five illustrated life eras, a two-track timeline, the journeys drawn on a real world map, a web of the people...",
+   "free": false,
+   "price_usd": 33.99,
+   "bundle": true,
+   "includes": [
+    "Leif Erikson Interactive Biography",
+    "Christopher Columbus Interactive Biography",
+    "Amerigo Vespucci Interactive Biography",
+    "Vasco da Gama Interactive Biography",
+    "Ferdinand Magellan Interactive Biography",
+    "Hernan Cortes Interactive Biography",
+    "Francisco Pizarro Interactive Biography",
+    "Francis Drake Interactive Biography",
+    "Henry Hudson Interactive Biography",
+    "James Cook Interactive Biography"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ExplorerBiographiesBundle"
+    }
+   ],
+   "tags": [
+    "biography",
+    "bundle",
+    "world history",
+    "explorers",
+    "age of exploration"
+   ]
+  },
+  {
+   "id": "felix-mendelssohn-interactive-biography",
+   "title": "Felix Mendelssohn | Interactive Biography with Music | Grade 7",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "World History",
+    "History"
+   ],
+   "grades": [
+    "7"
+   ],
+   "grade_band": "7",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Felix Mendelssohn (1809-1847), the prodigy who finished his Octet at sixteen, conducted the 1829 Bach revival that returned the St Matthew Passion to the concert stage, founded the Leipzig Conservatory, and wrote the Hebrides Overture, the Italian Symphony, the Violin...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1ce50195852bc14e6b89c"
+    }
+   ],
+   "tags": [
+    "felix mendelssohn",
+    "biography",
+    "quiz",
+    "music",
+    "world history",
+    "middle school",
+    "interactive",
+    "social studies"
+   ]
+  },
+  {
+   "id": "ferdinand-magellan-interactive-biography",
+   "title": "Ferdinand Magellan Interactive Biography",
+   "subject": "biographies",
+   "topics": [
+    "History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "He commanded the first fleet to sail around the world, though he did not live to finish it. This interactive biography gives students the full Ferdinand Magellan: a Portuguese nobleman who fought for Spain, navigated the treacherous strait that still carries his name, and crossed an ocean so vast...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/FerdinandMagellanBiography"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/ferdinand-magellan-interactive-biography-circumnavigation-map-and-primary-sources-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "ferdinand magellan interactive biography",
+    "interactive map",
+    "biography",
+    "geography",
+    "social studies",
+    "middle school",
+    "high school",
+    "world history"
+   ]
+  },
+  {
+   "id": "francis-drake-interactive-biography",
+   "title": "Francis Drake Interactive Biography",
+   "subject": "biographies",
+   "topics": [
+    "History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "He sailed around the world, raided Spanish ports from the Pacific to the Atlantic, and helped save England from the Armada.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/FrancisDrakeBiography"
+    }
+   ],
+   "tags": [
+    "francis drake interactive biography",
+    "interactive map",
+    "biography",
+    "geography",
+    "social studies",
+    "middle school",
+    "high school",
+    "world history"
+   ]
+  },
+  {
+   "id": "francisco-goya-interactive-biography",
+   "title": "Francisco Goya Interactive Biography | Court Painter to the Black Paintings | Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "Europe"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "An interactive biography of Francisco Goya (1746 to 1828), the Spanish painter known for royal portraits, The Third of May 1808, the Disasters of War and the Black Paintings. It opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/FranciscoGoyaInteractiveBiography"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/sBAUv"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/francisco-goya-interactive-biography-court-painter-to-the-black-paintings-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adab31af5912d7c8e03b4e8"
+    }
+   ],
+   "tags": [
+    "francisco goya interactive biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "francisco goya"
+   ]
+  },
+  {
+   "id": "francisco-pizarro-interactive-biography",
+   "title": "Francisco Pizarro Interactive Biography",
+   "subject": "biographies",
+   "topics": [
+    "History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "He marched into the heart of the Inca Empire with fewer than 200 men and captured its emperor. This interactive biography gives students the full Francisco Pizarro: an illiterate pig farmer who became one of the most consequential conquistadors, who exploited an empire already shattered by epidemic...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/FranciscoPizarroBiography"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/francisco-pizarro-interactive-biography-conquest-of-peru-map-and-primary-sources-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1b587a925a63da7699c54"
+    }
+   ],
+   "tags": [
+    "francisco pizarro interactive biography",
+    "interactive map",
+    "biography",
+    "geography",
+    "social studies",
+    "middle school",
+    "high school",
+    "world history"
+   ]
+  },
+  {
+   "id": "franklin-d-roosevelt-interactive-biography",
+   "title": "Franklin D. Roosevelt | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "History",
+    "World History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Franklin D. Roosevelt (1882-1945) with an interactive biography that pairs a five-era narrative life, a real geographic map from Hyde Park to Warm Springs to Yalta, a dual-track timeline against the Great Depression and World War II, a network graph of his Cabinet, generals,...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1ce588438985c3072c95b"
+    }
+   ],
+   "tags": [
+    "franklin d roosevelt",
+    "biography",
+    "quiz",
+    "us history",
+    "american history",
+    "middle school",
+    "printable",
+    "social studies"
+   ]
+  },
+  {
+   "id": "haydn-interactive-biography",
+   "title": "Franz Joseph Haydn | Interactive Biography with Music | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Music"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Franz Joseph Haydn (1732-1809), the wheelwright's son who served the Esterhazy family for nearly half a century, wrote 104 symphonies and 68 string quartets, taught Beethoven, befriended Mozart, and in his sixties became Europe's most celebrated composer.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1cf571cf82a6223c0a556"
+    }
+   ],
+   "tags": [
+    "franz joseph haydn",
+    "biography",
+    "quiz",
+    "music",
+    "middle school",
+    "interactive",
+    "music activity",
+    "music review"
+   ]
+  },
+  {
+   "id": "franz-liszt-interactive-biography",
+   "title": "Franz Liszt | Interactive Biography with Music | Grades 6-9",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "World History",
+    "History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "6-9",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Franz Liszt (1811-1886), the Hungarian wunderkind who debuted in Vienna at eleven, became the highest-paid concert pianist Europe had ever seen, then walked away from paid touring at thirty-five to compose, conduct Wagner premieres, and finally take minor orders as the abbe...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1ce601cd274ea97779e75"
+    }
+   ],
+   "tags": [
+    "franz liszt",
+    "biography",
+    "quiz",
+    "music",
+    "world history",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "schubert-interactive-biography",
+   "title": "Franz Peter Schubert | Interactive Biography with Music | Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "World History",
+    "History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Franz Schubert (1797-1828), the Vienna schoolmaster's son who lived only thirty-one years and never travelled outside Austria, yet composed over 600 lieder, the Unfinished Symphony, and the Great C major - much of it unheard outside small private gatherings during his...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae03c186ccd5da87ffa7e48"
+    }
+   ],
+   "tags": [
+    "franz peter schubert",
+    "biography",
+    "quiz",
+    "music",
+    "world history",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "frida-kahlo-interactive-biography",
+   "title": "Frida Kahlo Interactive Biography - Mexican Art and Identity - Grades 6-12",
+   "subject": "biographies",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [],
+   "summary": "This interactive biography turns the life of Frida Kahlo, Mexican painter, into a self-guided activity that opens in any web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/FridaKahloInteractiveBiography"
+    }
+   ],
+   "tags": [
+    "frida kahlo",
+    "art history",
+    "mexican art",
+    "womens history",
+    "interactive bio",
+    "self portraits",
+    "1907-1954",
+    "art lesson"
+   ]
+  },
+  {
+   "id": "galileo-galilei-interactive-biography",
+   "title": "Galileo Galilei Interactive Biography | Scientific Revolution & the 1633 Trial Activity | Grade 7",
+   "subject": "biographies",
+   "topics": [
+    "History"
+   ],
+   "grades": [
+    "7"
+   ],
+   "grade_band": "7",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step into the full life of Galileo Galilei, the Pisan mathematician who turned a 20x improved telescope on the night sky in 1610 and discovered four moons orbiting Jupiter, mountains on the Moon, and the phases of Venus.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae03a958c2a3f4ae9b9a1f5"
+    }
+   ],
+   "tags": [
+    "galileo galilei interactive biography",
+    "biography",
+    "quiz",
+    "history",
+    "social studies",
+    "middle school",
+    "interactive",
+    "history activity"
+   ]
+  },
+  {
+   "id": "gershwin-interactive-biography",
+   "title": "George Gershwin Interactive Biography | Jazz Age American Composer Activity | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "US History",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the full life of George Gershwin (1898-1937), the Brooklyn-born Tin Pan Alley song plugger who composed Rhapsody in Blue at twenty-five and Porgy and Bess at thirty-six before a brain tumor cut him down at the height of his powers.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae03a9c65de44f678b98f8e"
+    }
+   ],
+   "tags": [
+    "george gershwin interactive biography",
+    "biography",
+    "quiz",
+    "music",
+    "us history",
+    "middle school",
+    "jazz age american composer activity",
+    "interactive"
+   ]
+  },
+  {
+   "id": "george-washington-interactive-biography",
+   "title": "George Washington | Interactive Biography | Grade 5",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "History"
+   ],
+   "grades": [
+    "5"
+   ],
+   "grade_band": "5",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring George Washington (1732-1799) to life with a single-file interactive biography that runs in any browser. Students trace five life eras from his Mount Vernon youth through the Continental Army command, the Yorktown victory, the unanimous presidency, and the 1796 Farewell Address.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae8836888d062ae97c53f6f"
+    }
+   ],
+   "tags": [
+    "george washington",
+    "biography",
+    "quiz",
+    "us history",
+    "american history",
+    "upper elementary",
+    "interactive",
+    "social studies"
+   ]
+  },
+  {
+   "id": "giacomo-puccini-interactive-biography",
+   "title": "Giacomo Puccini Interactive Biography - Italian Opera Composer - Grades 6-9",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "World History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "6-9",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Giacomo Puccini (1858-1924), the fifth-generation Lucca cathedral organist who walked 18 miles to Pisa at seventeen to hear Verdi's Aida, decided that night to write opera, and went on to compose La Boheme, Tosca, Madama Butterfly, and the unfinished Turandot.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae03a8bb73bc109aa37a809"
+    }
+   ],
+   "tags": [
+    "giacomo puccini",
+    "biography",
+    "quiz",
+    "music",
+    "world language",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "gioachino-rossini-interactive-biography",
+   "title": "Gioachino Rossini Interactive Biography - Opera and Music History - Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "Arts & Music",
+    "Europe"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Multimedia"
+   ],
+   "summary": "An interactive biography of Gioachino Rossini, the Italian composer whose comic operas took Europe by storm and who walked away from the stage at thirty-seven, that opens in any web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/GioachinoRossiniInteractiveBiography"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/gioachino-rossini-interactive-biography-opera-and-music-history-listening-lab-william-tell-grades-7-12/"
+    }
+   ],
+   "tags": [
+    "gioachino rossini interactive biography",
+    "biography",
+    "quiz",
+    "music",
+    "art",
+    "middle school",
+    "high school",
+    "gioachino rossini"
+   ]
+  },
+  {
+   "id": "verdi-interactive-biography",
+   "title": "Giuseppe Verdi | Interactive Biography with Music | Grades 6-9",
+   "subject": "biographies",
+   "topics": [
+    "Music"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "6-9",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Giuseppe Verdi (1813-1901) with an interactive biography that pairs a six-era narrative life, a real geographic map of the Italian operatic world from Le Roncole and Busseto through Milan's La Scala, Sant'Agata estate, Paris, Venice, Rome, and the 1871 Cairo Aida, a...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1cf2084f546d6f8aedf19"
+    }
+   ],
+   "tags": [
+    "giuseppe verdi",
+    "biography",
+    "quiz",
+    "music",
+    "middle school",
+    "high school",
+    "printable",
+    "interactive"
+   ]
+  },
+  {
+   "id": "gustav-holst-interactive-biography",
+   "title": "Gustav Holst | Interactive Biography | Grade 7",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "History"
+   ],
+   "grades": [
+    "7"
+   ],
+   "grade_band": "7",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "An interactive biography of Gustav Holst (1874 to 1934), the English composer of The Planets, who was Director of Music at St Paul's Girls' School from 1905 until his death.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/gustav-holst-interactive-biography-grade-7/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adf83eea1642f71a53b631f"
+    }
+   ],
+   "tags": [
+    "gustav holst",
+    "biography",
+    "quiz",
+    "music",
+    "history",
+    "middle school",
+    "printable",
+    "social studies"
+   ]
+  },
+  {
+   "id": "gustav-klimt-interactive-biography",
+   "title": "Gustav Klimt | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Gustav Klimt (1862-1918) to life with this interactive art-history biography featuring a five-era narrative, embedded primary sources, an interactive geography map, and an auto-graded quiz.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bcc27baacf4cdae2d5d9"
+    }
+   ],
+   "tags": [
+    "gustav klimt",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "interactive",
+    "history"
+   ]
+  },
+  {
+   "id": "gustav-mahler-interactive-biography",
+   "title": "Gustav Mahler | Interactive Biography with Music | Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "World History",
+    "History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Gustav Mahler (1860-1911), the Bohemian-Jewish village boy who rose to direct the Vienna Court Opera, composed ten symphonies that span the gap between Romanticism and modernism, lost his eldest daughter at four, was attacked in the antisemitic Vienna press for a decade, and...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1ce68d7e5dea05739d5c9"
+    }
+   ],
+   "tags": [
+    "gustav mahler",
+    "biography",
+    "quiz",
+    "music",
+    "world history",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "gustave-courbet-interactive-biography",
+   "title": "Gustave Courbet Interactive Biography - Realist Art Movement - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "Europe"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "An interactive biography of Gustave Courbet that opens in any web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/GustaveCourbetInteractiveBiography"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/gustave-courbet-interactive-biography-realism-art-history-grades-7-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0f54d97f494a3ece43293"
+    }
+   ],
+   "tags": [
+    "gustave courbet interactive biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "gustave courbet"
+   ]
+  },
+  {
+   "id": "harry-s-truman-interactive-biography",
+   "title": "Harry S. Truman Interactive Biography - The Cold War Presidency - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "Political Science",
+    "War & Conflict"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "An interactive biography of Harry S. Truman (1884 to 1972), the 33rd president of the United States, who led the country at the end of World War II and into the early Cold War. It opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/harry-s-truman-interactive-biography-the-cold-war-presidency-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c4eca1bcc107d08b780d"
+    }
+   ],
+   "tags": [
+    "harry s truman interactive biography",
+    "biography",
+    "quiz",
+    "us history",
+    "american history",
+    "middle school",
+    "high school",
+    "harry truman"
+   ]
+  },
+  {
+   "id": "hector-berlioz-interactive-biography",
+   "title": "Hector Berlioz | Interactive Biography with Music | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "World History",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Hector Berlioz (1803-1869) to life with this interactive composer biography featuring a six-era narrative, embedded public-domain audio, primary sources, and an auto-graded quiz.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1ce33c0ec6ada06e083f9"
+    }
+   ],
+   "tags": [
+    "hector berlioz",
+    "biography",
+    "quiz",
+    "music",
+    "world history",
+    "middle school",
+    "interactive",
+    "social studies"
+   ]
+  },
+  {
+   "id": "helen-keller-interactive-biography",
+   "title": "Helen Keller | Interactive Biography | Grades 4-8",
+   "subject": "biographies",
+   "topics": [
+    "History"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "4-8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Helen Keller (1880-1968) into your classroom with a single-file interactive biography. Students trace five life eras from the Tuscumbia Alabama water-pump moment through Radcliffe, The Story of My Life, the ACLU founding, and her late-life work for the American Foundation for the Blind.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae88370e8a0a8c898597d09"
+    }
+   ],
+   "tags": [
+    "helen keller",
+    "biography",
+    "quiz",
+    "history",
+    "social studies",
+    "upper elementary",
+    "middle school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "henri-de-toulouse-lautrec-interactive-biography",
+   "title": "Henri de Toulouse-Lautrec | Interactive Biography | Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "6",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "This Henri de Toulouse-Lautrec interactive biography turns art history and primary sources into a self-guided activity that runs on any device with no prep, no logins, and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bcc9c45d831601d0ece7"
+    }
+   ],
+   "tags": [
+    "henri de toulouse-lautrec",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "interactive",
+    "history"
+   ]
+  },
+  {
+   "id": "henri-rousseau-interactive-biography",
+   "title": "Henri Rousseau Interactive Biography - Naive and Jungle Painting - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "World History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "An interactive biography of Henri Rousseau, the self-taught painter whose dreamlike jungles and flat, exact style won over the avant-garde who had once laughed at him, told in five illustrated chapters with a two-track timeline, a real historical map, a connections web, four primary sources, and a...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/HenriRousseauInteractiveBiography"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/henri-rousseau-interactive-biography-naive-and-jungle-painting-self-taught-post-impressionist-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0f556ccd982fcf2374b3d"
+    }
+   ],
+   "tags": [
+    "henri rousseau interactive biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "henri rousseau"
+   ]
+  },
+  {
+   "id": "henry-hudson-interactive-biography",
+   "title": "Henry Hudson Interactive Biography",
+   "subject": "biographies",
+   "topics": [
+    "History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "He searched for a northern passage to Asia across four voyages, discovered a river, a bay and a strait that still carry his name, and was set adrift in a small boat by his mutinous crew, never to be seen again.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/HenryHudsonBiography"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/henry-hudson-interactive-biography-northwest-passage-map-and-primary-sources-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "henry hudson interactive biography",
+    "interactive map",
+    "biography",
+    "geography",
+    "social studies",
+    "middle school",
+    "high school",
+    "world history"
+   ]
+  },
+  {
+   "id": "hernan-cortes-interactive-biography",
+   "title": "Hernan Cortes Interactive Biography",
+   "subject": "biographies",
+   "topics": [
+    "History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "He led the expedition that toppled the Aztec Empire, with Indigenous allies and a smallpox epidemic as his army. This interactive biography gives students the full Hernan Cortes: a Spanish law student turned adventurer who burned his ships, made allies of his enemies' enemies, and wrote his own...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/HernanCortesBiography"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/hernan-cortes-interactive-biography-conquest-of-mexico-map-and-primary-sources-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1b5e57996c60979a001e9"
+    }
+   ],
+   "tags": [
+    "hernan cortes interactive biography",
+    "interactive map",
+    "biography",
+    "geography",
+    "social studies",
+    "middle school",
+    "high school",
+    "world history"
+   ]
+  },
+  {
+   "id": "hypatia-interactive-biography",
+   "title": "Hypatia of Alexandria | Mathematician Biography | World History 8th Grade",
+   "subject": "biographies",
+   "topics": [
+    "Math",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Hypatia of Alexandria (c. 355-415) to life with this interactive biography that follows the most famous woman of science and philosophy in the ancient world.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1b66fd59a30372f47d098"
+    }
+   ],
+   "tags": [
+    "hypatia of alexandria",
+    "biography",
+    "quiz",
+    "math",
+    "history",
+    "middle school",
+    "mathematician biography",
+    "interactive"
+   ]
+  },
+  {
+   "id": "stravinsky-interactive-biography",
+   "title": "Igor Stravinsky (1882-1971) | Interactive Biography | Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Igor Stravinsky (1882-1971) with an interactive biography that pairs a five-era narrative life, a real geographic map across three nations from Russia to Switzerland to France to Beverly Hills to Venice, a dual-track timeline of Stravinsky's life against twentieth-century...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1d4dba294e88e5d264953"
+    }
+   ],
+   "tags": [
+    "igor stravinsky 1882-1971",
+    "biography",
+    "quiz",
+    "music",
+    "history",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "newton-interactive-biography",
+   "title": "Isaac Newton Interactive Biography | Scientific Revolution & Principia Activity | Grades 8-12",
+   "subject": "biographies",
+   "topics": [
+    "Science",
+    "Physical Science",
+    "History"
+   ],
+   "grades": [
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "8-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step into the full life of Sir Isaac Newton, the Lincolnshire farm boy who, during a plague-year retreat to a Lincolnshire farmhouse at age 23, sketched out calculus, the inverse-square law of gravitation, and the decomposition of white light.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1cf048af375804801cc18"
+    }
+   ],
+   "tags": [
+    "isaac newton interactive biography",
+    "biography",
+    "quiz",
+    "science",
+    "physical science",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "jmw-turner-interactive-biography",
+   "title": "J.M.W. Turner Interactive Biography - Light, the Sublime and the Sea - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "Europe"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "An interactive biography of J.M.W. Turner (1775 to 1851), the English painter known for The Fighting Temeraire, Rain, Steam and Speed, the Slave Ship and atmospheric light. It opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/j-m-w-turner-interactive-biography-light-the-sublime-and-the-sea-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1b702f966b4287f7246b2"
+    }
+   ],
+   "tags": [
+    "j m w turner interactive biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "jmw turner"
+   ]
+  },
+  {
+   "id": "jacques-louis-david-interactive-biography",
+   "title": "Jacques-Louis David | Interactive Biography | Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Jacques-Louis David (1748-1825) to life with this interactive art-history biography featuring a five-era narrative, embedded primary sources, an interactive geography map, and an auto-graded quiz.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bcd27d45a7bc70b317b0"
+    }
+   ],
+   "tags": [
+    "jacques-louis david",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "james-clerk-maxwell-interactive-biography",
+   "title": "James Clerk Maxwell Biography | Electromagnetism and Light | Physics 8th Grade",
+   "subject": "biographies",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring James Clerk Maxwell (1831-1879) to life with this interactive biography that follows the Scottish physicist who unified electricity, magnetism, and light and set the stage for Einstein.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1b6e3a03d61889490fe55"
+    }
+   ],
+   "tags": [
+    "james clerk maxwell biography",
+    "biography",
+    "quiz",
+    "science",
+    "physical science",
+    "middle school",
+    "electromagnetism and light",
+    "interactive"
+   ]
+  },
+  {
+   "id": "james-cook-interactive-biography",
+   "title": "James Cook Interactive Biography",
+   "subject": "biographies",
+   "topics": [
+    "History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "He mapped more of the Pacific than any explorer before him, from New Zealand to Hawaii to the Arctic, and he did it with a surgeon, a botanist, and orders to treat every unknown people with courtesy.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/JamesCookBiography"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/james-cook-interactive-biography-pacific-voyages-map-and-primary-sources-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1b5ec92bbb37da510736a"
+    }
+   ],
+   "tags": [
+    "james cook interactive biography",
+    "interactive map",
+    "biography",
+    "geography",
+    "social studies",
+    "middle school",
+    "high school",
+    "world history"
+   ]
+  },
+  {
+   "id": "james-k-polk-interactive-biography",
+   "title": "James K. Polk | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "History",
+    "War & Conflict"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of James K. Polk (1795-1849) with an interactive biography that pairs a five-era narrative life, a real geographic map from North Carolina to Tennessee to the Capitol to Mexico City to Sutter's Mill, a dual-track timeline of his life against the world events of the era, a...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c4f330e869f61a48a190"
+    }
+   ],
+   "tags": [
+    "james k polk",
+    "biography",
+    "quiz",
+    "us history",
+    "american history",
+    "middle school",
+    "interactive",
+    "social studies"
+   ]
+  },
+  {
+   "id": "james-madison-interactive-biography",
+   "title": "James Madison | Interactive Biography | Grades 4-8",
+   "subject": "biographies",
+   "topics": [
+    "Civics",
+    "American Government",
+    "US History"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "4-8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of James Madison (1751-1836) with an interactive biography that pairs a five-era narrative life, a real geographic map from Montpelier to Philadelphia to Washington, a dual-track timeline against the American Revolution and early republic, a network graph of the founding...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1ce713d486b25ab590865"
+    }
+   ],
+   "tags": [
+    "james madison",
+    "biography",
+    "quiz",
+    "civics",
+    "government",
+    "upper elementary",
+    "middle school",
+    "printable"
+   ]
+  },
+  {
+   "id": "james-mcneill-whistler-interactive-biography",
+   "title": "James McNeill Whistler Interactive Biography - Art for Art's Sake - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "US History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "An interactive biography of James McNeill Whistler that opens in any web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/JamesMcNeillWhistlerInteractiveBiography"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/james-mcneill-whistler-interactive-biography-american-art-history-grades-7-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0f56697f153b8ffcc2bc4"
+    }
+   ],
+   "tags": [
+    "james mcneill whistler interactive biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "james mcneill whistler"
+   ]
+  },
+  {
+   "id": "jan-van-eyck-interactive-biography",
+   "title": "Jan van Eyck | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Jan van Eyck (c. 1390-1441) to life with this interactive artist biography featuring a five-era narrative, embedded primary sources, an interactive geography map, a connections web, and an auto-graded quiz.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bcda9484f1eed072baa5"
+    }
+   ],
+   "tags": [
+    "jan van eyck",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "interactive",
+    "history"
+   ]
+  },
+  {
+   "id": "jean-sibelius-interactive-biography",
+   "title": "Jean Sibelius | Interactive Biography with Music | Grades 6-9",
+   "subject": "biographies",
+   "topics": [
+    "Music"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "6-9",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Jean Sibelius (1865-1957), the Swedish-speaking boy from Hameenlinna who became the symphonic voice of Finnish independence, wrote Finlandia under the censoring eye of the Tsar, traded ideas about the symphony with Mahler in Helsinki in 1907, and then fell into a...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1ce7833489a86ac52dee4"
+    }
+   ],
+   "tags": [
+    "jean sibelius",
+    "biography",
+    "quiz",
+    "music",
+    "middle school",
+    "high school",
+    "interactive",
+    "music activity"
+   ]
+  },
+  {
+   "id": "jean-auguste-dominique-ingres-interactive-biography",
+   "title": "Jean-Auguste-Dominique Ingres Interactive Biography - Neoclassical Painting - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "Europe"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "An interactive biography of Jean-Auguste-Dominique Ingres that opens in any web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/JeanAugusteDominiqueIngresInteractiveBiography"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/jean-auguste-dominique-ingres-interactive-biography-neoclassical-art-history-grades-7-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0f570c53af1710310286f"
+    }
+   ],
+   "tags": [
+    "jean-auguste-dominique ingres interactive biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "jean-auguste-dominique ingres"
+   ]
+  },
+  {
+   "id": "jean-francois-millet-interactive-biography",
+   "title": "Jean-Francois Millet Interactive Biography - Barbizon and Rural Realism - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "Europe"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "An interactive biography of Jean-Francois Millet that opens in any web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/JeanFrancoisMilletInteractiveBiography"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/jean-francois-millet-interactive-biography-barbizon-and-rural-realism-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "jean-francois millet interactive biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "jean-francois millet"
+   ]
+  },
+  {
+   "id": "bach-interactive-biography",
+   "title": "Johann Sebastian Bach | Interactive Biography with Music | Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Johann Sebastian Bach (1685-1750) with an interactive biography that pairs a six-era narrative life, a real geographic map of the German Baroque world from Eisenach to Leipzig, a dual-track timeline against the late Baroque era and the rise of Enlightenment Europe, a network...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1cf29c735545a1746b395"
+    }
+   ],
+   "tags": [
+    "johann sebastian bach",
+    "biography",
+    "quiz",
+    "music",
+    "history",
+    "middle school",
+    "high school",
+    "printable"
+   ]
+  },
+  {
+   "id": "johannes-gutenberg-interactive-biography",
+   "title": "Johannes Gutenberg Biography - The Printing Press - Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Explore Johannes Gutenberg's life and the spread of printing in Europe through an interactive biography for Grades 7-12. Students can read about what the surviving records show, what remains uncertain, and how his work fits into the wider history of movable type.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/johannes-gutenberg-interactive-biography"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae81accc7eea9cbd40421db"
+    }
+   ],
+   "tags": [
+    "johannes gutenberg biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "world history"
+   ]
+  },
+  {
+   "id": "johannes-kepler-interactive-biography",
+   "title": "Johannes Kepler Biography | Planetary Motion and Orbits | Astronomy 8th Grade",
+   "subject": "biographies",
+   "topics": [
+    "Science",
+    "Astronomy",
+    "Physical Science"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Johannes Kepler (1571-1630) to life with this interactive biography that follows the German astronomer who discovered the three laws of planetary motion and showed that planets orbit the sun in ellipses.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1b6eb420f6a97758c792c"
+    }
+   ],
+   "tags": [
+    "johannes kepler biography",
+    "biography",
+    "quiz",
+    "science",
+    "astronomy",
+    "middle school",
+    "planetary motion and orbits",
+    "interactive"
+   ]
+  },
+  {
+   "id": "johannes-vermeer-interactive-biography",
+   "title": "Johannes Vermeer | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Johannes Vermeer (1632-1675) to life with this interactive art-history biography of the Dutch Golden Age master of light and quiet domestic life.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c7076a064cd270f5ef96"
+    }
+   ],
+   "tags": [
+    "johannes vermeer",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "interactive",
+    "history"
+   ]
+  },
+  {
+   "id": "john-adams-interactive-biography",
+   "title": "John Adams | Interactive Biography | Grades 8-11",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "History"
+   ],
+   "grades": [
+    "8",
+    "9",
+    "10",
+    "11"
+   ],
+   "grade_band": "8-11",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring John Adams (1735-1826) into your classroom with a single-file interactive biography. Students trace five life eras from the Braintree Puritan boyhood, through the principled defense of British soldiers at the 1770 Boston Massacre trial and the Atlas-of-Independence years in the Continental...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae8834821f872a675a65257"
+    }
+   ],
+   "tags": [
+    "john adams",
+    "biography",
+    "quiz",
+    "us history",
+    "american history",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "john-constable-interactive-biography",
+   "title": "John Constable Interactive Biography - English Landscape Painting - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Research"
+   ],
+   "summary": "An interactive biography of John Constable, the English landscape painter of the Suffolk river valleys, that opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/JohnConstableInteractiveBiography"
+    }
+   ],
+   "tags": [
+    "john constable",
+    "landscape painting",
+    "english art history",
+    "interactive biography",
+    "primary sources",
+    "art history",
+    "english landscape",
+    "interactive bio"
+   ]
+  },
+  {
+   "id": "john-f-kennedy-interactive-biography",
+   "title": "John F. Kennedy Interactive Biography | Cold War US History | Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "History",
+    "War & Conflict"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of John F. Kennedy (1917-1963) with an interactive biography that pairs a five-era narrative life, a real geographic map from Boston to Berlin to Dallas, a dual-track timeline against the Cold War and civil rights movement, a network graph of his Cabinet and contemporaries,...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1cefb460c9509ab598d9f"
+    }
+   ],
+   "tags": [
+    "john f kennedy interactive biography",
+    "biography",
+    "quiz",
+    "us history",
+    "american history",
+    "middle school",
+    "high school",
+    "cold war us history"
+   ]
+  },
+  {
+   "id": "john-glenn-interactive-biography",
+   "title": "John Glenn | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring John Glenn (1921-2016) to life with this interactive biography that follows the man who lived three American lives in one: a Marine combat pilot in two wars, the first American to orbit the Earth aboard Friendship 7, and a four-term United States Senator from Ohio.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c4fbc6a1313895b20381"
+    }
+   ],
+   "tags": [
+    "john glenn",
+    "biography",
+    "quiz",
+    "us history",
+    "american history",
+    "middle school",
+    "interactive",
+    "social studies"
+   ]
+  },
+  {
+   "id": "john-jay-interactive-biography",
+   "title": "John Jay Interactive Biography - First Chief Justice and Founding Father - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "Civics",
+    "American Government"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "An interactive biography of John Jay (1745 to 1829), the American lawyer and statesman known as the first Chief Justice, a Treaty of Paris negotiator, an author of The Federalist and the negotiator of the Jay Treaty. It opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c5cee3a13420798198c0"
+    }
+   ],
+   "tags": [
+    "john jay",
+    "founding fathers",
+    "chief justice",
+    "american revolution",
+    "interactive biography",
+    "primary sources",
+    "us history",
+    "middle school"
+   ]
+  },
+  {
+   "id": "john-singer-sargent-interactive-biography",
+   "title": "John Singer Sargent | Interactive Biography | Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "This John Singer Sargent interactive biography turns art history and primary sources into a self-guided activity that runs on any device with no prep, no logins, and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bce1b691a6cf814774e0"
+    }
+   ],
+   "tags": [
+    "john singer sargent",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "katherine-johnson-interactive-biography",
+   "title": "Katherine Johnson Interactive Biography - NASA and Space History - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "History of Science",
+    "US History",
+    "Women's studies"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "5-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Research"
+   ],
+   "summary": "An interactive biography of Katherine Johnson, the NASA mathematician, that opens in a web browser with no logins and no installs. Students read her life story, move along the timeline, explore the map, study the people around her, read primary sources, and finish with a quiz, all in one file.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/KatherineJohnsonInteractiveBiography"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/dAbeg"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0f57ec0f1b0cb6fadf3c9"
+    }
+   ],
+   "tags": [
+    "katherine johnson interactive biography",
+    "biography",
+    "quiz",
+    "history of science",
+    "science",
+    "upper elementary",
+    "middle school",
+    "high school"
+   ]
+  },
+  {
+   "id": "katsushika-hokusai-interactive-biography",
+   "title": "Katsushika Hokusai: Interactive Artist Biography | The Great Wave and Mount Fuji | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "Science"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Katsushika Hokusai (1760-1849) to life with this interactive biography of the Japanese ukiyo-e master behind The Great Wave off Kanagawa.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bceaa061bf1a047e5205"
+    }
+   ],
+   "tags": [
+    "katsushika hokusai",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "interactive",
+    "science"
+   ]
+  },
+  {
+   "id": "leif-erikson-interactive-biography",
+   "title": "Leif Erikson Interactive Biography",
+   "subject": "biographies",
+   "topics": [
+    "History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "He led the first European expedition to reach North America, 500 years before Columbus. This interactive biography gives students the full Leif Erikson: a Norse explorer whose father discovered Greenland, who sailed west on a rumor and found a land of wild grapes and self-sown wheat, and whose...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/LeifEriksonBiography"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada5aeafd72a9ee0f1f9c00"
+    }
+   ],
+   "tags": [
+    "leif erikson interactive biography",
+    "interactive map",
+    "biography",
+    "geography",
+    "social studies",
+    "middle school",
+    "high school",
+    "world history"
+   ]
+  },
+  {
+   "id": "louis-armstrong-interactive-biography",
+   "title": "Louis Armstrong Interactive Biography - Jazz and Music History - Grades 6-12",
+   "subject": "biographies",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [],
+   "summary": "This Louis Armstrong interactive biography turns the invention of the jazz solo into a self-guided activity that opens in any browser with no prep, no logins, and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/LouisArmstrongInteractiveBiography"
+    }
+   ],
+   "tags": [
+    "louis armstrong",
+    "jazz history",
+    "music history",
+    "black history",
+    "harlem renaissance",
+    "primary sources",
+    "interactive bio",
+    "american history"
+   ]
+  },
+  {
+   "id": "louis-pasteur-interactive-biography",
+   "title": "Louis Pasteur Interactive Biography - Germ Theory and Vaccines - Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Biology",
+    "Microbiology",
+    "History of Science"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "An interactive biography of Louis Pasteur (1822 to 1895), the French chemist and microbiologist known for germ theory, pasteurization and vaccines. It opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/louis-pasteur-interactive-biography-germ-theory-and-vaccines-grades-7-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1b676bbbb0bba5cb57084"
+    }
+   ],
+   "tags": [
+    "louis pasteur interactive biography",
+    "biography",
+    "quiz",
+    "biology",
+    "life science",
+    "middle school",
+    "high school",
+    "louis pasteur"
+   ]
+  },
+  {
+   "id": "lyndon-b-johnson-interactive-biography",
+   "title": "Lyndon B. Johnson | Interactive Biography | Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Lyndon B. Johnson (1908-1973) with an interactive biography that pairs a five-era narrative life, a real geographic map from the Texas Hill Country to Cotulla to the Capitol to Selma to Vietnam, a dual-track timeline of his life against the world events of the era, a...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c5d5df83a628fbc56b5a"
+    }
+   ],
+   "tags": [
+    "lyndon b johnson",
+    "biography",
+    "quiz",
+    "us history",
+    "american history",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "mary-cassatt-interactive-biography",
+   "title": "Mary Cassatt | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "This Mary Cassatt interactive biography turns art history and primary sources into a self-guided activity that runs on any device with no prep, no logins, and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c6fe4fc9d545a82a8277"
+    }
+   ],
+   "tags": [
+    "mary cassatt",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "interactive",
+    "history"
+   ]
+  },
+  {
+   "id": "maurice-ravel-interactive-biography",
+   "title": "Maurice Ravel | Interactive Biography with Music | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Maurice Ravel (1875-1937) to life with this interactive composer biography featuring a five-era narrative, embedded public-domain audio (three tracks of Ravel himself playing), primary sources, and an auto-graded quiz.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bcf2cb142f4af7badcd2"
+    }
+   ],
+   "tags": [
+    "maurice ravel",
+    "biography",
+    "quiz",
+    "music",
+    "history",
+    "middle school",
+    "interactive",
+    "social studies"
+   ]
+  },
+  {
+   "id": "michael-faraday-interactive-biography",
+   "title": "Michael Faraday Interactive Biography - Electricity and Magnetism - Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Physics",
+    "History of Science",
+    "Science"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Research"
+   ],
+   "summary": "An interactive biography of Michael Faraday, the experimental scientist of the Royal Institution, that opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MichaelFaradayInteractiveBiography"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/michael-faraday-interactive-biography-electricity-and-magnetism-grades-7-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1b5faaf930964909d15cb"
+    }
+   ],
+   "tags": [
+    "michael faraday interactive biography",
+    "biography",
+    "quiz",
+    "physics",
+    "science",
+    "middle school",
+    "high school",
+    "michael faraday"
+   ]
+  },
+  {
+   "id": "michelangelo-buonarroti-interactive-biography",
+   "title": "Michelangelo Interactive Biography - Renaissance Art History - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "History of Western Civilization",
+    "World History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Research"
+   ],
+   "summary": "An interactive biography of Michelangelo, the Florentine sculptor, painter, architect and poet, that opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/michelangelo-interactive-biography-renaissance-art-history-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bcfd7ba81188986faa8e"
+    }
+   ],
+   "tags": [
+    "michelangelo interactive biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "michelangelo"
+   ]
+  },
+  {
+   "id": "modest-mussorgsky-interactive-biography",
+   "title": "Modest Mussorgsky | Interactive Biography with Music | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Modest Mussorgsky (1839-1881) to life with this interactive composer biography featuring a six-era narrative, embedded public-domain audio, primary sources, and an auto-graded quiz.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bd067a42ab3c2492651f"
+    }
+   ],
+   "tags": [
+    "modest mussorgsky",
+    "biography",
+    "quiz",
+    "music",
+    "history",
+    "middle school",
+    "interactive",
+    "social studies"
+   ]
+  },
+  {
+   "id": "napoleon-bonaparte-interactive-biography",
+   "title": "Napoleon Bonaparte | Interactive Biography | Grade 9",
+   "subject": "biographies",
+   "topics": [
+    "Reading & Literacy",
+    "World History",
+    "History"
+   ],
+   "grades": [
+    "9"
+   ],
+   "grade_band": "9",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Napoleon Bonaparte (1769-1821), the Corsican-born artillery officer who rose through the French Revolution to crown himself Emperor of the French and remake Europe, into your classroom.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae8837a3304d31ecb428547"
+    }
+   ],
+   "tags": [
+    "napoleon bonaparte",
+    "biography",
+    "quiz",
+    "reading",
+    "literacy",
+    "high school",
+    "interactive",
+    "ela"
+   ]
+  },
+  {
+   "id": "nicolaus-copernicus-interactive-biography",
+   "title": "Nicolaus Copernicus Biography | Scientific Revolution | Astronomy 8th Grade",
+   "subject": "biographies",
+   "topics": [
+    "Science",
+    "Astronomy"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Nicolaus Copernicus (1473-1543) to life with this interactive biography that follows the Polish astronomer who proposed that the earth and the other planets orbit the sun.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1b6f36d0555c672d97add"
+    }
+   ],
+   "tags": [
+    "nicolaus copernicus biography",
+    "biography",
+    "quiz",
+    "science",
+    "astronomy",
+    "middle school",
+    "scientific revolution",
+    "interactive"
+   ]
+  },
+  {
+   "id": "norman-rockwell-elementary-biography",
+   "title": "Norman Rockwell Biography | Artist Activity | Art History | Grade 4",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "US History"
+   ],
+   "grades": [
+    "4"
+   ],
+   "grade_band": "4",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Who painted those famous Saturday Evening Post covers? This interactive Norman Rockwell biography lets 4th and 5th graders step into the life of America's favorite storyteller-artist and discover how a skinny kid who loved to draw grew up to paint the pictures that hung in homes across the country.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae03e17268ee74a1e3d42d1"
+    }
+   ],
+   "tags": [
+    "norman rockwell biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "upper elementary",
+    "artist activity",
+    "interactive"
+   ]
+  },
+  {
+   "id": "paul-cezanne-interactive-biography",
+   "title": "Paul Cezanne Interactive Biography - Post-Impressionism and Modern Art - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "Europe"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "An interactive biography of Paul Cezanne (1839 to 1906), the French painter of Provence whose still lifes, views of Mont Sainte-Victoire and bathers led from Impressionism toward modern art. It opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/paul-cezanne-interactive-biography-post-impressionism-and-modern-art-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c5dedb97321506478103"
+    }
+   ],
+   "tags": [
+    "paul cezanne interactive biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "paul cezanne"
+   ]
+  },
+  {
+   "id": "paul-gauguin-interactive-biography",
+   "title": "Paul Gauguin | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "This Paul Gauguin interactive biography turns art history and primary sources into a self-guided activity that runs on any device with no prep, no logins, and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c70ef5bf5506b19b5375"
+    }
+   ],
+   "tags": [
+    "paul gauguin",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "interactive",
+    "history"
+   ]
+  },
+  {
+   "id": "peter-paul-rubens-interactive-biography",
+   "title": "Peter Paul Rubens | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "This Peter Paul Rubens interactive biography turns art history and primary sources into a self-guided activity that runs on any device with no prep, no logins, and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c81aa1be11c212eb0361"
+    }
+   ],
+   "tags": [
+    "peter paul rubens",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "interactive",
+    "history"
+   ]
+  },
+  {
+   "id": "pierre-auguste-renoir-interactive-biography",
+   "title": "Pierre-Auguste Renoir | Interactive Biography | Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Pierre-Auguste Renoir (1841-1919) to life with this interactive art-history biography featuring a five-era narrative, embedded primary sources, an interactive geography map, and an auto-graded quiz.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c8248c131169c33cc1e0"
+    }
+   ],
+   "tags": [
+    "pierre-auguste renoir",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "pieter-bruegel-the-elder-interactive-biography",
+   "title": "Pieter Bruegel the Elder | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "This Pieter Bruegel the Elder interactive biography turns art history and primary sources into a self-guided activity that runs on any device with no prep, no logins, and no installs. Students follow Bruegel (c.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bd0eae985e2086e394cf"
+    }
+   ],
+   "tags": [
+    "pieter bruegel the elder",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "interactive",
+    "history"
+   ]
+  },
+  {
+   "id": "tchaikovsky-interactive-biography",
+   "title": "Pyotr Ilyich Tchaikovsky | Interactive Biography with Music | Grades 6-9",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "World History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "6-9",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Pyotr Ilyich Tchaikovsky (1840-1893) with an interactive biography that pairs a six-era narrative life, a real geographic map across the Russian Empire and European tours, a dual-track timeline against the late Romantic era and Russian imperial reforms, a network graph of...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae03c1fced750e40c6894b2"
+    }
+   ],
+   "tags": [
+    "pyotr ilyich tchaikovsky",
+    "biography",
+    "quiz",
+    "music",
+    "world language",
+    "middle school",
+    "high school",
+    "printable"
+   ]
+  },
+  {
+   "id": "raphael-sanzio-interactive-biography",
+   "title": "Raphael Interactive Biography - Renaissance Art History - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "History of Western Civilization",
+    "World History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Research"
+   ],
+   "summary": "An interactive biography of Raphael, the Urbino-born painter and architect of the High Renaissance, that opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/raphael-interactive-biography-renaissance-art-history-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bd1765c57734a73375b1"
+    }
+   ],
+   "tags": [
+    "raphael interactive biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "raphael"
+   ]
+  },
+  {
+   "id": "rembrandt-van-rijn-interactive-biography",
+   "title": "Rembrandt van Rijn | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Rembrandt van Rijn (1606-1669) to life with this interactive art-history biography featuring a five-era narrative, embedded primary sources, an interactive map of Holland, a connections web, and an auto-graded quiz.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1c5e41e1c992ac24c005a"
+    }
+   ],
+   "tags": [
+    "rembrandt van rijn",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "interactive",
+    "history"
+   ]
+  },
+  {
+   "id": "wagner-interactive-biography",
+   "title": "Richard Wagner | Interactive Biography with Music | Grades 6-9",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "World History",
+    "History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "6-9",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Richard Wagner (1813-1883) with an interactive biography that pairs a six-era narrative life, a real geographic map of the German Romantic opera world from Leipzig through Dresden, Zurich exile, Munich, Bayreuth, and Venice, a force-directed connections graph of the people...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/richard-wagner-interactive-biography-with-music-grades-6-9/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adad31a696337e4cda823b0"
+    }
+   ],
+   "tags": [
+    "richard wagner",
+    "biography",
+    "quiz",
+    "music",
+    "world history",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "schumann-interactive-biography",
+   "title": "Robert Schumann | Interactive Biography with Music | Grades 6-9",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "World History",
+    "History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "6-9",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Robert Schumann (1810-1856) with an interactive biography that pairs a six-era narrative life, a real geographic map of the German Romantic world from Zwickau to Leipzig (Wieck household), Dresden, Dusseldorf, and the Endenich asylum near Bonn, a force-directed connections...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1cf0d7b67da56d576a3a3"
+    }
+   ],
+   "tags": [
+    "robert schumann",
+    "biography",
+    "quiz",
+    "music",
+    "world history",
+    "middle school",
+    "high school",
+    "printable"
+   ]
+  },
+  {
+   "id": "rosalind-franklin-interactive-biography",
+   "title": "Rosalind Franklin Interactive Biography - DNA and Science History - Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Biology",
+    "Genetics",
+    "History of Science"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Research"
+   ],
+   "summary": "An interactive biography of Rosalind Franklin, the British X-ray crystallographer, that opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/RosalindFranklinInteractiveBiography"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/GXhWL"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/rosalind-franklin-interactive-biography-dna-and-science-history-grades-7-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0f585c1003868f6402ed6"
+    }
+   ],
+   "tags": [
+    "rosalind franklin interactive biography",
+    "biography",
+    "quiz",
+    "biology",
+    "life science",
+    "middle school",
+    "high school",
+    "rosalind franklin"
+   ]
+  },
+  {
+   "id": "samuel-morse-interactive-biography",
+   "title": "Samuel Morse Interactive Biography | Painter, Telegraph Pioneer, Transatlantic Map, Primary Sources, 15-Question Quiz",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "World History",
+    "Science"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Samuel F. B. Morse spent the first half of his life trying to make it as a painter. He studied in London, painted portraits in New York, and lost his wife while he was away on a commission. The second half he spent convincing a country that messages could travel down a wire.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae82138dd452916ddf7006d"
+    }
+   ],
+   "tags": [
+    "samuel morse",
+    "telegraph",
+    "morse code",
+    "primary sources",
+    "american history",
+    "inventor biography",
+    "interactive biography",
+    "us history"
+   ]
+  },
+  {
+   "id": "sandro-botticelli-interactive-biography",
+   "title": "Sandro Botticelli Interactive Biography - Renaissance Art History - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "History of Western Civilization",
+    "World History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Research"
+   ],
+   "summary": "An interactive biography of Sandro Botticelli, the Florentine painter of The Birth of Venus and Primavera, that opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/sandro-botticelli-interactive-biography-renaissance-art-history-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bd1fb95be27577057973"
+    }
+   ],
+   "tags": [
+    "sandro botticelli interactive biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "botticelli"
+   ]
+  },
+  {
+   "id": "scott-joplin-interactive-biography",
+   "title": "Scott Joplin Interactive Biography with Listening Lab - Ragtime and American Music History - Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "US History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Research"
+   ],
+   "summary": "An interactive biography of Scott Joplin, the composer known as the King of Ragtime, that opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/scott-joplin-interactive-biography-with-listening-lab-ragtime-and-american-music-history-grades-7-12/"
+    }
+   ],
+   "tags": [
+    "scott joplin interactive biography with listening lab",
+    "biography",
+    "quiz",
+    "music",
+    "us history",
+    "middle school",
+    "high school",
+    "scott joplin"
+   ]
+  },
+  {
+   "id": "sergei-rachmaninoff-interactive-biography",
+   "title": "Sergei Rachmaninoff | Interactive Biography with Music | Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "World History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Sergei Rachmaninoff (1873-1943), the Russian noble's son whose Symphony No. 1 was so savagely panned at its 1897 premiere that he could not compose for three years, who recovered through hypnotherapy with Dr. Nikolai Dahl, dedicated the Piano Concerto No.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae03c00cf552c203ae187ff"
+    }
+   ],
+   "tags": [
+    "sergei rachmaninoff",
+    "biography",
+    "quiz",
+    "music",
+    "world language",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "sitting-bull-interactive-biography",
+   "title": "Sitting Bull | Interactive Biography | Grades 8-11",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "History"
+   ],
+   "grades": [
+    "8",
+    "9",
+    "10",
+    "11"
+   ],
+   "grade_band": "8-11",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Sitting Bull / Tȟatȟáŋka Íyotake (c. 1831-1890), the Hunkpapa Lakota holy man and chief whose resistance to US encroachment on Lakota lands shaped the Northern Plains, into your classroom.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae88382ed0916047334b6c9"
+    }
+   ],
+   "tags": [
+    "sitting bull",
+    "biography",
+    "quiz",
+    "us history",
+    "american history",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "susan-b-anthony-interactive-biography",
+   "title": "Susan B. Anthony | Interactive Biography | Grades 4-8",
+   "subject": "biographies",
+   "topics": [
+    "History"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "4-8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Susan B. Anthony (1820-1906) into your classroom with a single-file interactive biography. Students trace five life eras from the Adams Quaker childhood, through the lifelong Stanton organizing partnership, the bitter 15th Amendment rift with Frederick Douglass, the 1872 Rochester illegal...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae8838ad6478b8d9d7c55fd"
+    }
+   ],
+   "tags": [
+    "susan b anthony",
+    "biography",
+    "quiz",
+    "history",
+    "social studies",
+    "upper elementary",
+    "middle school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "theodore-gericault-interactive-biography",
+   "title": "Theodore Gericault Interactive Biography - Romantic Art Movement - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "World History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Research"
+   ],
+   "summary": "An interactive biography of Theodore Gericault, the French Romantic painter of The Raft of the Medusa, that opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/TheodoreGericaultInteractiveBiography"
+    }
+   ],
+   "tags": [
+    "theodore gericault",
+    "raft of the medusa",
+    "romanticism",
+    "interactive biography",
+    "primary sources",
+    "art history",
+    "painting",
+    "interactive bio"
+   ]
+  },
+  {
+   "id": "theodore-roosevelt-interactive-biography",
+   "title": "Theodore Roosevelt | Interactive Biography | Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Theodore Roosevelt (1858-1919) with an interactive biography that pairs a five-era narrative life, a real geographic map from Sagamore Hill to San Juan Hill to the Panama Canal, a dual-track timeline against the Progressive Era and the dawn of American empire, a network...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1cf1600eb7ddb29b38df6"
+    }
+   ],
+   "tags": [
+    "theodore roosevelt",
+    "biography",
+    "quiz",
+    "us history",
+    "american history",
+    "middle school",
+    "high school",
+    "printable"
+   ]
+  },
+  {
+   "id": "thomas-cole-interactive-biography",
+   "title": "Thomas Cole Interactive Biography - Hudson River School Art - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "US History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Research"
+   ],
+   "summary": "An interactive biography of Thomas Cole, the founder of the first major American school of painting, that opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ThomasColeInteractiveBiography"
+    }
+   ],
+   "tags": [
+    "thomas cole",
+    "hudson river school",
+    "american landscape painting",
+    "interactive biography",
+    "primary sources",
+    "art history",
+    "american art",
+    "landscape painting"
+   ]
+  },
+  {
+   "id": "thomas-eakins-interactive-biography",
+   "title": "Thomas Eakins | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "This Thomas Eakins interactive biography turns art history and primary sources into a self-guided activity that runs on any device with no prep, no logins, and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bd2727f5b78b6786a484"
+    }
+   ],
+   "tags": [
+    "thomas eakins",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "interactive",
+    "history"
+   ]
+  },
+  {
+   "id": "thomas-jefferson-interactive-biography",
+   "title": "Thomas Jefferson | Interactive Biography | Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Thomas Jefferson (1743-1826) with an interactive biography that pairs a five-era narrative life, a real geographic map from Shadwell to Monticello to Independence Hall to Paris to the Louisiana Territory, a dual-track timeline of his life against the world events of the era,...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1d4f3c99c6ffbea7e1df3"
+    }
+   ],
+   "tags": [
+    "thomas jefferson",
+    "biography",
+    "quiz",
+    "us history",
+    "american history",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "thomas-paine-interactive-biography",
+   "title": "Thomas Paine | Interactive Biography | Grades 8-11",
+   "subject": "biographies",
+   "topics": [
+    "US History",
+    "History"
+   ],
+   "grades": [
+    "8",
+    "9",
+    "10",
+    "11"
+   ],
+   "grade_band": "8-11",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Thomas Paine (1737-1809) into your classroom with a single-file interactive biography. Students trace five life eras from the English Quaker boyhood, through Common Sense and the American Crisis essays, to Paris and the Luxembourg Prison under Robespierre, to the ostracized 1809 New York...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae8835082bc74bdf5e62e76"
+    }
+   ],
+   "tags": [
+    "thomas paine",
+    "biography",
+    "quiz",
+    "us history",
+    "american history",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "titian-interactive-biography",
+   "title": "Titian | Interactive Biography | Grade 8",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Titian (c. 1488-1576) to life with this interactive artist biography featuring a five-era narrative, embedded primary sources, an interactive geography map, a connections web, and an auto-graded quiz.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bd2f3c97369e6303b799"
+    }
+   ],
+   "tags": [
+    "titian",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "interactive",
+    "history"
+   ]
+  },
+  {
+   "id": "vasco-da-gama-interactive-biography",
+   "title": "Vasco da Gama Interactive Biography",
+   "subject": "biographies",
+   "topics": [
+    "World History",
+    "History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "He found the sea route to Asia that would reshape the global economy for four centuries. This interactive biography gives students the full Vasco da Gama: a Portuguese nobleman who sailed around Africa and across the Indian Ocean, bombarded ports, kidnapped hostages, and returned home with spices...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/VascoDaGamaBiography"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1b5f32d5df513347b43d0"
+    }
+   ],
+   "tags": [
+    "vasco da gama interactive biography",
+    "interactive map",
+    "biography",
+    "world history",
+    "social studies",
+    "middle school",
+    "high school",
+    "explorers"
+   ]
+  },
+  {
+   "id": "vincent-van-gogh-elementary-biography",
+   "title": "Vincent van Gogh Biography | Artist Activity | Art History | Grade 4",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "4"
+   ],
+   "grade_band": "4",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Who painted The Starry Night? This interactive Vincent van Gogh biography lets 4th and 5th graders step into the life of one of the world's most famous artists and discover how a shy boy who started painting late became a legend.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae03e1ee810b361063de7c8"
+    }
+   ],
+   "tags": [
+    "vincent van gogh biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "upper elementary",
+    "artist activity",
+    "interactive"
+   ]
+  },
+  {
+   "id": "vincent-van-gogh-interactive-biography",
+   "title": "Vincent van Gogh Interactive Biography - Post-Impressionist Art - Grades 6-12",
+   "subject": "biographies",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [],
+   "summary": "This interactive biography turns the life of Vincent van Gogh, Post-Impressionist painter, into a self-guided activity that opens in any web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/VincentVanGoghInteractiveBiography"
+    }
+   ],
+   "tags": [
+    "painting",
+    "biography",
+    "art history",
+    "van gogh",
+    "artist study"
+   ]
+  },
+  {
+   "id": "william-harvey-interactive-biography",
+   "title": "William Harvey Interactive Biography - Circulation and Modern Medicine - Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Science",
+    "Biology",
+    "History of Science"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Multimedia"
+   ],
+   "summary": "An interactive biography of William Harvey, the English physician who showed that the blood circulates, pumped by the heart. It opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/WilliamHarveyInteractiveBiography"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/william-harvey-interactive-biography-circulation-and-modern-medicine-grades-7-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1b6fba6f0c14a9673e942"
+    }
+   ],
+   "tags": [
+    "william harvey interactive biography",
+    "biography",
+    "quiz",
+    "science",
+    "biology",
+    "middle school",
+    "high school",
+    "william harvey"
+   ]
+  },
+  {
+   "id": "william-shakespeare-interactive-biography",
+   "title": "William Shakespeare Interactive Biography - Drama and Literature - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "ELA",
+    "Literature & Poetry"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "This interactive biography turns the life of William Shakespeare, the world's most famous playwright, into a self-guided activity that opens in any web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/WilliamShakespeareInteractiveBiography"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/VzeIT"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0f576b47218777c6a4f6b"
+    }
+   ],
+   "tags": [
+    "william shakespeare interactive biography",
+    "biography",
+    "quiz",
+    "ela",
+    "english language arts",
+    "middle school",
+    "high school",
+    "english"
+   ]
+  },
+  {
+   "id": "winslow-homer-interactive-biography",
+   "title": "Winslow Homer Interactive Biography - American Art History - Grades 6-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "US History",
+    "Visual Arts"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Research"
+   ],
+   "summary": "An interactive biography of Winslow Homer, the American painter who went from Boston print shops and the Civil War front to the sea at Prouts Neck, Maine, that opens in a web browser with no logins and no installs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/winslow-homer-interactive-biography-american-art-history-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1bd37bfba3aafb46927c5"
+    }
+   ],
+   "tags": [
+    "winslow homer interactive biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "winslow homer"
+   ]
+  },
+  {
+   "id": "mozart-interactive-biography",
+   "title": "Wolfgang Amadeus Mozart | Interactive Biography with Music | Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Music",
+    "History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Step inside the life of Wolfgang Amadeus Mozart (1756-1791) with an interactive biography that pairs a six-era narrative life, a real geographic map of European concert tours from Salzburg to Vienna, a dual-track timeline against the late Classical era and the rise of Enlightenment Europe, a...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae03c10d9df3cb7d2f05d26"
+    }
+   ],
+   "tags": [
+    "wolfgang amadeus mozart",
+    "biography",
+    "quiz",
+    "music",
+    "history",
+    "middle school",
+    "high school",
+    "printable"
+   ]
+  }
+ ]
+}

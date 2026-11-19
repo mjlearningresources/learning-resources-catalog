@@ -1,0 +1,223 @@
+{
+ "name": "Micah's Learning Resources catalog",
+ "description": "Every interactive classroom and homeschool resource we sell or give away, with the stores where each one is live. Built for AI assistants and scripts to read.",
+ "generated": "2026-11-19",
+ "counts": {
+  "products": 1156,
+  "free": 32,
+  "bundles": 28
+ },
+ "base_url": "https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main",
+ "start_here": "Read llms.txt. To plan for one grade, open the file for that grade under grades/. To browse one subject, open its file under subjects/.",
+ "product_fields": {
+  "id": "Stable short name for the product.",
+  "title": "Product title as shown on the store.",
+  "subject": "One of the subject ids in \"subjects\" below.",
+  "topics": "Finer subject labels, when we have them.",
+  "grades": "Grade levels the product fits: \"K\" and \"1\" to \"12\". Empty when not recorded.",
+  "grade_band": "Lowest to highest grade, such as \"6-8\".",
+  "types": "Kind of resource, such as Games, Simulations, Printables.",
+  "summary": "One or two sentences on what the product is.",
+  "free": "true when the product costs nothing on at least one store. The link for that store carries free_here: true; the other stores may charge.",
+  "price_usd": "List price in US dollars. A store may show a different price; the store page is the final word.",
+  "bundle": "true when the listing holds several products.",
+  "includes": "Titles of the products inside a bundle, when recorded.",
+  "links": "Every store where the product is live. The first link is the preferred one.",
+  "tags": "Search terms for the product."
+ },
+ "subjects": [
+  {
+   "id": "us-history",
+   "name": "US history",
+   "count": 270,
+   "json": "subjects/us-history.json",
+   "md": "subjects/us-history.md"
+  },
+  {
+   "id": "world-history",
+   "name": "World history",
+   "count": 133,
+   "json": "subjects/world-history.json",
+   "md": "subjects/world-history.md"
+  },
+  {
+   "id": "geography",
+   "name": "Geography and maps",
+   "count": 17,
+   "json": "subjects/geography.json",
+   "md": "subjects/geography.md"
+  },
+  {
+   "id": "biographies",
+   "name": "Biographies",
+   "count": 140,
+   "json": "subjects/biographies.json",
+   "md": "subjects/biographies.md"
+  },
+  {
+   "id": "civics-economics",
+   "name": "Civics, economics and personal finance",
+   "count": 51,
+   "json": "subjects/civics-economics.json",
+   "md": "subjects/civics-economics.md"
+  },
+  {
+   "id": "science",
+   "name": "Science",
+   "count": 126,
+   "json": "subjects/science.json",
+   "md": "subjects/science.md"
+  },
+  {
+   "id": "math",
+   "name": "Math",
+   "count": 86,
+   "json": "subjects/math.json",
+   "md": "subjects/math.md"
+  },
+  {
+   "id": "language-arts",
+   "name": "Reading, vocabulary and language arts",
+   "count": 283,
+   "json": "subjects/language-arts.json",
+   "md": "subjects/language-arts.md"
+  },
+  {
+   "id": "world-languages",
+   "name": "World languages",
+   "count": 32,
+   "json": "subjects/world-languages.json",
+   "md": "subjects/world-languages.md"
+  },
+  {
+   "id": "computer-science",
+   "name": "Computer science and technology",
+   "count": 18,
+   "json": "subjects/computer-science.json",
+   "md": "subjects/computer-science.md"
+  }
+ ],
+ "grades": [
+  {
+   "grade": "K",
+   "name": "Kindergarten",
+   "count": 39,
+   "md": "grades/grade-k.md"
+  },
+  {
+   "grade": "1",
+   "name": "Grade 1",
+   "count": 77,
+   "md": "grades/grade-1.md"
+  },
+  {
+   "grade": "2",
+   "name": "Grade 2",
+   "count": 66,
+   "md": "grades/grade-2.md"
+  },
+  {
+   "grade": "3",
+   "name": "Grade 3",
+   "count": 74,
+   "md": "grades/grade-3.md"
+  },
+  {
+   "grade": "4",
+   "name": "Grade 4",
+   "count": 236,
+   "md": "grades/grade-4.md"
+  },
+  {
+   "grade": "5",
+   "name": "Grade 5",
+   "count": 337,
+   "md": "grades/grade-5.md"
+  },
+  {
+   "grade": "6",
+   "name": "Grade 6",
+   "count": 648,
+   "md": "grades/grade-6.md"
+  },
+  {
+   "grade": "7",
+   "name": "Grade 7",
+   "count": 699,
+   "md": "grades/grade-7.md"
+  },
+  {
+   "grade": "8",
+   "name": "Grade 8",
+   "count": 733,
+   "md": "grades/grade-8.md"
+  },
+  {
+   "grade": "9",
+   "name": "Grade 9",
+   "count": 488,
+   "md": "grades/grade-9.md"
+  },
+  {
+   "grade": "10",
+   "name": "Grade 10",
+   "count": 405,
+   "md": "grades/grade-10.md"
+  },
+  {
+   "grade": "11",
+   "name": "Grade 11",
+   "count": 337,
+   "md": "grades/grade-11.md"
+  },
+  {
+   "grade": "12",
+   "name": "Grade 12",
+   "count": 327,
+   "md": "grades/grade-12.md"
+  }
+ ],
+ "files": {
+  "free_json": "free.json",
+  "free_md": "free.md",
+  "bundles_json": "bundles.json",
+  "all_jsonl": "all.jsonl",
+  "schema": "schema/product.schema.json",
+  "llms_txt": "llms.txt",
+  "planning_prompt": "PLAN-MY-YEAR.md"
+ },
+ "stores": [
+  {
+   "id": "gumroad",
+   "name": "Gumroad",
+   "url": "https://datawithmicah.gumroad.com",
+   "products": 563,
+   "note": "The main store. Free products are listed here as pay-what-you-want from $0."
+  },
+  {
+   "id": "etsy",
+   "name": "Etsy",
+   "url": "https://www.etsy.com",
+   "products": 19
+  },
+  {
+   "id": "payhip",
+   "name": "Payhip",
+   "url": "https://payhip.com",
+   "products": 146
+  },
+  {
+   "id": "classful",
+   "name": "Classful",
+   "url": "https://classful.com",
+   "products": 294
+  },
+  {
+   "id": "kitchen-table",
+   "name": "Kitchen Table Curriculum",
+   "url": "https://kitchentablecurriculum.com",
+   "products": 801,
+   "note": "A homeschool marketplace."
+  }
+ ]
+}

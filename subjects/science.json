@@ -1,0 +1,5286 @@
+{
+ "subject": "science",
+ "name": "Science",
+ "count": 126,
+ "products": [
+  {
+   "id": "safari-adventure",
+   "title": "African Wildlife Escape Room - Safari Adventure Science Game - Grades 3-6",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology",
+    "World History"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "grade_band": "3-6",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An escape room about African animals and the savanna they live in. Students solve a puzzle to open each leg of the route, working from the lions and elephants to the baobabs and the water hole. The puzzles are the ecology lesson.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/SafariAdventureEscapeRoom"
+    }
+   ],
+   "tags": [
+    "african wildlife escape room",
+    "science game",
+    "escape room",
+    "science",
+    "biology",
+    "upper elementary",
+    "middle school",
+    "african animals"
+   ]
+  },
+  {
+   "id": "animal-adaptations-lab-elementary",
+   "title": "Animal Adaptations Interactive Science Lab | Grades 3-5",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "3-5",
+   "types": [
+    "Games",
+    "Activities",
+    "Interactives"
+   ],
+   "summary": "Help your students discover the amazing ways animals survive and thrive in their environments! This interactive science lab guides learners through structural and behavioral adaptations, habitat connections, and real-world animal examples.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adf9fb3d26fa04b208ee1d2"
+    }
+   ],
+   "tags": [
+    "animal adaptations interactive science lab",
+    "science game",
+    "game",
+    "science",
+    "biology",
+    "upper elementary",
+    "virtual lab",
+    "life science"
+   ]
+  },
+  {
+   "id": "animal-classification-jeopardy",
+   "title": "Animal Classification Jeopardy",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "5"
+   ],
+   "grade_band": "5",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An interactive Jeopardy-style review game for animal classification and adaptations. This HTML game transforms review sessions into a structured, competitive game show experience that works offline in any browser.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/Animal-Classification-Jeopardy"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae781bfa5af4718ae58fc91"
+    }
+   ],
+   "tags": [
+    "animals jeopardy review game",
+    "science game",
+    "review game",
+    "science",
+    "biology",
+    "upper elementary",
+    "adaptations",
+    "classification"
+   ]
+  },
+  {
+   "id": "animal-habitats-matching",
+   "title": "Animal Habitats Matching - Interactive Science Activity | Grades 2-5",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3"
+   ],
+   "grade_band": "K-3",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Match animals to their homes! Students explore different habitats and learn about the animals that live in each environment through interactive matching activities.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/AnimalHabitatsMatching",
+     "free_here": true
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/animal-habitats-matching-game-interactive-learning-lab-grades-k-3/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adaa0acc88fe46afc62a1cb"
+    }
+   ],
+   "tags": [
+    "animal habitats matching game",
+    "science game",
+    "game",
+    "science",
+    "biology",
+    "kindergarten",
+    "early elementary",
+    "upper elementary"
+   ]
+  },
+  {
+   "id": "animal-jeopardy-grade4",
+   "title": "Animals Jeopardy Review Game | Classification, Habitats & Adaptations | Grade 4",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "4"
+   ],
+   "grade_band": "4",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Make animal science review the best day of the unit with this ready-to-play Jeopardy-style game built for 4th grade. Just open one web file, add your teams, and project it.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adf9f87faf8055d902e034b"
+    }
+   ],
+   "tags": [
+    "animals jeopardy review game",
+    "science game",
+    "review game",
+    "science",
+    "biology",
+    "upper elementary",
+    "classification",
+    "habitats and adaptations"
+   ]
+  },
+  {
+   "id": "aquaponics-farm-3d-simulator",
+   "title": "Aquaponics Farm 3D Simulator | Nitrogen Cycle and Water Chemistry Lab | Grades 6-12",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Games",
+    "Simulations",
+    "Interactives"
+   ],
+   "summary": "Your students inherit a greenhouse that was filled and stocked yesterday, which is exactly how most people lose their first batch of fish. Fish, plants and bacteria all live in the same water, and none of them want the same thing from it.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/AquaponicsFarm3DSimulator"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/w48FJ"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adab34abef9c68945e41516"
+    }
+   ],
+   "tags": [
+    "aquaponics farm 3d simulator",
+    "science game",
+    "simulation",
+    "science",
+    "physical science",
+    "middle school",
+    "high school",
+    "aquaponics"
+   ]
+  },
+  {
+   "id": "astronomy-jeopardy",
+   "title": "Astronomy Jeopardy - Interactive Space Science Review Game | Grades 5-8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Astronomy"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A ready-to-play astronomy review game where teams pick categories, answer clues about stars, constellations, and deep space objects, wager on Daily Doubles, and finish with a climactic Final Jeopardy round. Perfect for whole-class review before a space science test.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbdf06bd390d667a50bbea"
+    }
+   ],
+   "tags": [
+    "astronomy jeopardy",
+    "science game",
+    "review game",
+    "science",
+    "astronomy",
+    "upper elementary",
+    "middle school",
+    "jeopardy review game"
+   ]
+  },
+  {
+   "id": "periodic-table-complete-reference-and-lab",
+   "title": "Atomic Structure and the Periodic Table Activity | Chemistry Quiz High School | Grades 9-11",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "9",
+    "10",
+    "11"
+   ],
+   "grade_band": "9-11",
+   "types": [
+    "Games",
+    "Activities",
+    "Interactives"
+   ],
+   "summary": "Students explore all 118 elements, build atoms from scratch, predict chemical bonds, graph periodic trends, and hunt elements by clue - all in one browser-based chemistry activity set with a built-in 35-question quiz and printable materials for any high school chemistry course.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adf83802cefaadbe847fba3"
+    }
+   ],
+   "tags": [
+    "atomic structure and the periodic table activity",
+    "science game",
+    "game",
+    "science",
+    "physical science",
+    "high school",
+    "quiz",
+    "printable"
+   ]
+  },
+  {
+   "id": "biology-jeopardy-middle-school",
+   "title": "Biology Jeopardy Game | Middle School Life Science Review | Grade 7",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "7"
+   ],
+   "grade_band": "7",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A fully interactive Jeopardy-style review game covering the core concepts of middle school life science. Students answer questions across six biology categories, compete in teams, wager on Daily Doubles, and finish with a high-stakes Final Jeopardy clue - all without any app downloads, logins, or...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1349be84fc4062abf1c5b"
+    }
+   ],
+   "tags": [
+    "biology jeopardy game",
+    "science game",
+    "review game",
+    "science",
+    "biology",
+    "middle school",
+    "jeopardy review game",
+    "life science"
+   ]
+  },
+  {
+   "id": "cattle-ranch-simulator",
+   "title": "Cattle Ranch Simulator Game | Rotational Grazing and Sustainable Agriculture | Grades 6-9",
+   "subject": "science",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "6-9",
+   "types": [],
+   "summary": "Put your students in charge of a cattle ranch for one summer. They move 100 cows and their calves through eight fenced paddocks, watch the grass, and decide when to spend on hay, water and repairs. Overgraze the land and the landowner ends the lease.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/CattleRanchSimulator"
+    }
+   ],
+   "tags": [
+    "agriculture",
+    "simulation game",
+    "cattle ranch",
+    "rotational grazing"
+   ]
+  },
+  {
+   "id": "cattle-ranch-grazing-simulator",
+   "title": "Cattle Ranch Simulator Game | Sustainable Agriculture Science | Grades 6-9",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Environment & Ecology",
+    "Economics"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "6-9",
+   "types": [
+    "Games",
+    "Simulations",
+    "Interactives"
+   ],
+   "summary": "Your students run a cattle ranch for one summer. They move 100 cow-calf pairs through eight fenced paddocks on 240 acres, watch the grass, and decide when to spend on hay, water and repairs. Overgraze the land and the landowner ends the lease.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "etsy",
+     "url": "https://www.etsy.com/listing/4592864799"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/Sk7Ny"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/cattle-ranch-simulator-game-sustainable-agriculture-science-grades-6-9/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6aca89e77bc24e27109831e9"
+    }
+   ],
+   "tags": [
+    "cattle ranch simulator game",
+    "science game",
+    "simulation",
+    "science",
+    "ecology",
+    "middle school",
+    "high school",
+    "cattle ranch"
+   ]
+  },
+  {
+   "id": "cell-biology-jeopardy",
+   "title": "Cell Biology Jeopardy",
+   "subject": "science",
+   "topics": [],
+   "grades": [],
+   "grade_band": null,
+   "types": [],
+   "summary": "Review cell biology and life science with this interactive Jeopardy-style game. Students answer 30 questions across six categories as part of a live class competition with team scores and customizable team names. Everything runs in a single HTML file that opens in any web browser.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/Cell-Biology-Jeopardy"
+    }
+   ],
+   "tags": [
+    "science",
+    "classroom",
+    "jeopardy",
+    "high-school",
+    "test-prep",
+    "interactive-game",
+    "cell-biology",
+    "life-science"
+   ]
+  },
+  {
+   "id": "science-slither-cell-organelles",
+   "title": "Cell Organelles Game - Plant and Animal Cell Parts Review | Grades 6-9",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Cell Organelles Game sends students gliding through a living cell, eating only the organelles that match each round: nucleus, mitochondria, chloroplast, ribosome, Golgi, and more.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/CellOrganellesGamePlantAndAnimalCellPartsReview"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/ewhLU"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/science-slither-cell-organelles-plant-and-animal-cell-game-grade-8/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adaa07873ca5de5a251aac7"
+    }
+   ],
+   "tags": [
+    "science slither",
+    "science game",
+    "game",
+    "science",
+    "biology",
+    "middle school",
+    "cell organelles",
+    "plant and animal cell game"
+   ]
+  },
+  {
+   "id": "cells-vocab-trainer",
+   "title": "Cells and Organelles Vocabulary Trainer | Term Cards, Matching, Passage and Exam | Grades 5-8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Printables"
+   ],
+   "summary": "A vocabulary trainer for a unit on Cells and Organelles. Students study 29 term cards, match terms to definitions, fill 12 blanks in a reading passage and finish with an 18-question exam that grades itself and explains every answer.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/bRZqu"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/cells-and-organelles-vocabulary-trainer-term-cards-matching-passage-and-exam-grades-5-8/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad92a4f5a957d280cb62204"
+    }
+   ],
+   "tags": [
+    "cells and organelles vocabulary trainer",
+    "vocabulary",
+    "printable",
+    "science",
+    "biology",
+    "upper elementary",
+    "middle school",
+    "cells vocabulary"
+   ]
+  },
+  {
+   "id": "chemistry-lab-vocab-trainer",
+   "title": "Chemistry Lab Vocab Trainer | Science Vocabulary Game | Grades 6-10",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "grade_band": "6-10",
+   "types": [
+    "Activities",
+    "Printables",
+    "Assessments"
+   ],
+   "summary": "Welcome to the Molecular Science Academy! In this engaging digital vocabulary trainer, students master 24 essential chemistry terms while progressing from Apprentice to certified Lab Scientist.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1a913dce71d9dda80cfe3"
+    }
+   ],
+   "tags": [
+    "chemistry lab vocab trainer",
+    "science game",
+    "game",
+    "science",
+    "physical science",
+    "middle school",
+    "high school",
+    "science vocabulary game"
+   ]
+  },
+  {
+   "id": "chemistry-periodic-table-classroom-learning-resource",
+   "title": "Chemistry Periodic Table Classroom Learning Resource",
+   "subject": "science",
+   "topics": [],
+   "grades": [],
+   "grade_band": null,
+   "types": [],
+   "summary": "A complete, interactive learning resource designed to make the periodic table simple, visual, and practical.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ChemistryPeriodicTableClassroomLearningResource"
+    }
+   ],
+   "tags": [
+    "college",
+    "science",
+    "high school",
+    "learning",
+    "chemistry"
+   ]
+  },
+  {
+   "id": "city-power-manager-simulation-game",
+   "title": "City Power Manager | Energy Grid Simulation | Grades 4-8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science",
+    "Environment & Ecology"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "4-8",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "City Power Manager is a game about keeping a city's lights on. Students spend a budget on power plants, watch supply against demand hour by hour and keep an eye on pollution. It runs from one HTML file.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/CityPowerManager"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad95a1289d562f9ea36cd5e"
+    }
+   ],
+   "tags": [
+    "city power manager energy game",
+    "science game",
+    "game",
+    "science",
+    "physical science",
+    "upper elementary",
+    "middle school",
+    "energy"
+   ]
+  },
+  {
+   "id": "conservation-of-mass-visual-explorer",
+   "title": "Conservation of Mass: Animated Interactive Explorer | Grade 6",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "6"
+   ],
+   "grade_band": "6",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An animated, interactive explorer for the law of conservation of mass. Students watch matter burn, rust, fizz, melt and dissolve on a live laboratory balance, follow the atoms through four reactions, and test their predictions in a scored challenge.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ConservationOfMassVisualExplorer"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/GCSJc"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/conservation-of-mass-animated-interactive-explorer-grade-6/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada93810911a5f2fd2990c0"
+    }
+   ],
+   "tags": [
+    "quiz",
+    "explorer",
+    "science",
+    "physical science",
+    "middle school",
+    "conservation of mass",
+    "animated interactive explorer",
+    "interactive"
+   ]
+  },
+  {
+   "id": "detective-lab",
+   "title": "Detective Lab - Critical Thinking Escape Room | Digital Logic Game | Grades 5-9",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Criminal Justice",
+    "STEM"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "5-9",
+   "types": [
+    "Games",
+    "Activities",
+    "Interactives"
+   ],
+   "summary": "A short digital escape room with a crime lab theme, in one HTML file. The lab is in lockdown, and students solve five forensic science puzzles in order before a 10-minute timer runs out. An internet connection is required.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/DetectiveLabForensicScience"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/bP80s"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad928d141f12697b2120fda"
+    }
+   ],
+   "tags": [
+    "detective lab forensic science escape room",
+    "science game",
+    "escape room",
+    "science",
+    "criminal justice",
+    "upper elementary",
+    "middle school",
+    "high school"
+   ]
+  },
+  {
+   "id": "digestive-discovery",
+   "title": "Digestive System Escape Room - Digestive Discovery Science Game - Grades 4-7",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ],
+   "grade_band": "4-7",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An escape room that follows food from the mouth to the large intestine. Fourteen puzzles, each one a real step in digestion, from salivary amylase and peristalsis to bile and nutrient absorption.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/DigestiveDiscoveryEscapeRoom"
+    }
+   ],
+   "tags": [
+    "digestive system escape room",
+    "science game",
+    "escape room",
+    "science",
+    "biology",
+    "upper elementary",
+    "middle school",
+    "digestion"
+   ]
+  },
+  {
+   "id": "dinosaur-dig-site",
+   "title": "Dinosaur Dig Site - Paleontology Escape Room and Quiz | Grades 4-8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science",
+    "Biology"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "4-8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Exam, Quiz, Tests"
+   ],
+   "summary": "Dinosaur Dig Site is a paleontology resource in one HTML file with four tabs: Learn, Escape Room, Quiz and Teacher HQ. It covers the Mesozoic Era, famous dinosaurs, fossils and the mass extinction. An internet connection is required.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/DinosaurDigSite"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/dinosaur-dig-site-paleontology-escape-room-reading-and-quiz-fossils-and-the-mesozoic-era-grades-4-8/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad92a3dffc03bff537ead73"
+    }
+   ],
+   "tags": [
+    "dinosaur dig site",
+    "science game",
+    "escape room",
+    "science",
+    "earth science",
+    "upper elementary",
+    "middle school",
+    "dinosaurs"
+   ]
+  },
+  {
+   "id": "dna-protein-synthesis-explorer",
+   "title": "DNA Protein Synthesis Activity - Transcription and Translation - Biology Grades 9-12",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "9-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Protein synthesis is where most biology students get lost. This interactive resource walks them through the whole path from DNA to protein one step at a time, letting them build each strand themselves and see instantly whether they got it right.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/DNAProteinSynthesisActivity"
+    }
+   ],
+   "tags": [
+    "dna protein synthesis activity",
+    "quiz",
+    "printable",
+    "science",
+    "biology",
+    "high school",
+    "dna",
+    "genetics"
+   ]
+  },
+  {
+   "id": "earth-life-science-interactive-lab",
+   "title": "Earth & Life Science Lab | Interactive Science Activity | Grades 2-4",
+   "subject": "science",
+   "topics": [
+    "Science"
+   ],
+   "grades": [
+    "2",
+    "3",
+    "4"
+   ],
+   "grade_band": "2-4",
+   "types": [
+    "Games",
+    "Activities",
+    "Interactives"
+   ],
+   "summary": "Bring earth and life science to life with this comprehensive interactive digital lab! Students explore five major science topics through hands-on drag-and-drop activities, sorting games, and interactive explorations - all in one self-contained HTML file that works on any device with a web browser.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/dkfCi"
+    }
+   ],
+   "tags": [
+    "earth and life science lab",
+    "science game",
+    "game",
+    "science",
+    "elementary",
+    "virtual lab",
+    "interactive",
+    "printable"
+   ]
+  },
+  {
+   "id": "earths-surface-changes-elementary",
+   "title": "Earth's Surface Changes Interactive Science Lab | Digital Activity | Grades 3-5",
+   "subject": "science",
+   "topics": [
+    "Science"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "3-5",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Watch your students light up as they explore the powerful forces that shape our planet! This interactive science activity takes learners on a journey through weathering, erosion, deposition, and the dramatic events that change Earths surface.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae15b074b1196ac9192132c"
+    }
+   ],
+   "tags": [
+    "earth's surface changes interactive science lab",
+    "virtual lab",
+    "quiz",
+    "science",
+    "upper elementary",
+    "printable",
+    "interactive",
+    "science activity"
+   ]
+  },
+  {
+   "id": "ecosystem-architect-biome-lab",
+   "title": "Ecosystem Architect: Biome Design & Food Web Simulation Lab | Grades 5-10",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology",
+    "Physical Science"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Games",
+    "Activities",
+    "Interactives"
+   ],
+   "summary": "Hand your students a living ecosystem they can build, break, and rebuild. Ecosystem Architect is a single-file interactive simulation where learners assemble food webs across six real biomes, run the population engine forward in time, and watch trophic cascades ripple through every level when a...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/EcosystemArchitectBiomeLab"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada5aa16d572c594782f20b"
+    }
+   ],
+   "tags": [
+    "ecosystems simulation",
+    "science game",
+    "simulation",
+    "science",
+    "biology",
+    "upper elementary",
+    "middle school",
+    "food webs"
+   ]
+  },
+  {
+   "id": "ecosystems-biomes-advanced-study-guide",
+   "title": "Ecosystems & Biomes | Advanced Interactive Study Guide | Digital Science | Grades 7-9",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Bring ecosystems and biomes to life in your science classroom with this comprehensive digital study guide! Students explore the interconnected world of living organisms and their environments through seven interactive tabs packed with engaging activities.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae17adc766355910df96480"
+    }
+   ],
+   "tags": [
+    "ecosystems and biomes",
+    "printable",
+    "study guide",
+    "science",
+    "biology",
+    "middle school",
+    "high school",
+    "advanced interactive study guide"
+   ]
+  },
+  {
+   "id": "ecosystems-and-adaptations-vocab-trainer",
+   "title": "Ecosystems and Adaptations Vocabulary Trainer | Term Cards, Matching, Passage and Exam | Grades 5-8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Environment & Ecology",
+    "Biology"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Printables"
+   ],
+   "summary": "A vocabulary trainer for a unit on Ecosystems and Adaptations. Students study 30 term cards, match terms to definitions, fill 12 blanks in a reading passage and finish with a 20-question exam that grades itself and explains every answer.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/ecosystems-and-adaptations-vocabulary-trainer-term-cards-matching-passage-and-exam-grades-5-8/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad92b04d9c2d3e38729540f"
+    }
+   ],
+   "tags": [
+    "ecosystems and adaptations vocabulary trainer",
+    "vocabulary",
+    "printable",
+    "science",
+    "ecology",
+    "upper elementary",
+    "middle school",
+    "ecosystems vocabulary"
+   ]
+  },
+  {
+   "id": "electric-field-lines-explorer",
+   "title": "Electric Field Lines: Interactive Lab with Five Guided Challenges",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "9-12",
+   "types": [
+    "Activities",
+    "Interactives"
+   ],
+   "summary": "An interactive electric field explorer for high school physical science and physics. Students place positive and negative point charges on a canvas and see how the field lines, equipotential lines, electric field, potential, and force change in real time.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ElectricFieldLinesExplorer"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/electric-field-lines-explorer-interactive-physics-lab-with-five-guided-challenges-grades-9-12/"
+    }
+   ],
+   "tags": [
+    "electric field explorer",
+    "physics lab",
+    "electrostatics",
+    "science",
+    "physical science",
+    "high school",
+    "college prep",
+    "electric field lines"
+   ]
+  },
+  {
+   "id": "electricity-production-systems-overview-guide",
+   "title": "Electricity Production Systems Guide | Non-Renewable Energy Deep Dive | Coal, Oil, Gas, Nuclear | Grades 6-9",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology",
+    "Physical Science"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "6-9",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "This resource explains how power plants make electricity: a fuel or a moving force spins a turbine, and the turbine spins a generator.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/UA3OR"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/electricity-production-systems-guide-non-renewable-energy-deep-dive-coal-oil-gas-nuclear-grades-6-9/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adabcae197ce9730d8aae17"
+    }
+   ],
+   "tags": [
+    "electricity production systems guide",
+    "quiz",
+    "printable",
+    "science",
+    "biology",
+    "middle school",
+    "high school",
+    "non-renewable energy deep dive"
+   ]
+  },
+  {
+   "id": "energy-and-electricity-vocab-trainer",
+   "title": "Energy and Electricity Vocabulary Trainer | Term Cards, Matching, Passage and Exam | Grades 5-8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science",
+    "Physics"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Printables"
+   ],
+   "summary": "A vocabulary trainer for a unit on Energy and Electricity. Students study 30 term cards, match terms to definitions, fill 12 blanks in a reading passage and finish with a 20-question exam that grades itself and explains every answer.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/energy-and-electricity-vocabulary-trainer-term-cards-matching-passage-and-exam-grades-5-8/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad92b0fd85c161e68462467"
+    }
+   ],
+   "tags": [
+    "energy and electricity vocabulary trainer",
+    "vocabulary",
+    "printable",
+    "science",
+    "physical science",
+    "upper elementary",
+    "middle school",
+    "energy vocabulary"
+   ]
+  },
+  {
+   "id": "energy-flow-simulator",
+   "title": "Energy Flow Explorer - 8 Power Sources Animated Lab | Grades 6-9",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science",
+    "STEM"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "6-9",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Printables"
+   ],
+   "summary": "An interactive explorer that traces electricity from its source to a home for 8 power sources: coal, natural gas, nuclear, wind, hydroelectric, geothermal, biomass and solar.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/EnergyFlowSimulator"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/energy-flow-explorer-8-power-sources-from-source-to-home-renewable-vs-fossil-fuels-grades-6-9/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad92809ba3fd2c3323b440c"
+    }
+   ],
+   "tags": [
+    "energy flow explorer",
+    "quiz",
+    "printable",
+    "science",
+    "physical science",
+    "middle school",
+    "high school",
+    "energy sources"
+   ]
+  },
+  {
+   "id": "energy-forms-transfers-advanced-study-guide",
+   "title": "Energy Forms & Transfers | Advanced Interactive Study Guide | Science | Grades 7-9",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Transform your physical science classroom with this comprehensive digital study guide on energy forms and transfers! Students explore kinetic and potential energy, thermal energy transfer, the law of conservation of energy, and real-world energy transformations through seven interactive tabs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbfed57476f020c28b2d03"
+    }
+   ],
+   "tags": [
+    "energy forms and transfers",
+    "printable",
+    "study guide",
+    "science",
+    "physical science",
+    "middle school",
+    "high school",
+    "advanced interactive study guide"
+   ]
+  },
+  {
+   "id": "energy-raw-materials-explorer",
+   "title": "Energy Raw Materials Explorer | Interactive Science Resource for Earth Science and Energy Education | Grade 7",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "7"
+   ],
+   "grade_band": "7",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Explore the 6 essential raw materials that power modern civilization! This interactive resource takes students on a visual journey through coal, iron ore, uranium, natural gas, rare earth elements, and silicon - the building blocks of energy production, manufacturing, and technology.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1556fcd06549f046c11c3"
+    }
+   ],
+   "tags": [
+    "energy raw materials explorer",
+    "quiz",
+    "printable",
+    "science",
+    "earth science",
+    "middle school",
+    "explorer",
+    "physical science"
+   ]
+  },
+  {
+   "id": "evolution-and-natural-selection-vocab-trainer",
+   "title": "Evolution and Natural Selection Vocabulary Trainer | Term Cards, Matching, Reading Passage and Test | Grades 6 to 10",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "grade_band": "6-10",
+   "types": [
+    "Activities",
+    "Printables",
+    "Assessments"
+   ],
+   "summary": "A vocabulary trainer for a unit on Evolution and Natural Selection. Students read 28 term cards, match terms to definitions, fill 11 blanks in a reading passage and finish with a 19-question test that marks itself and explains every answer.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad7692c53d70024c9e2abbe"
+    }
+   ],
+   "tags": [
+    "evolution and natural selection vocabulary trainer",
+    "vocabulary",
+    "reading passages",
+    "science",
+    "biology",
+    "middle school",
+    "high school",
+    "science vocabulary"
+   ]
+  },
+  {
+   "id": "food-chain-builder",
+   "title": "Food Chain Builder | Interactive Science Activity for Grades 3-5",
+   "subject": "science",
+   "topics": [
+    "Science"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "3-5",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Bring food chains to life with this hands-on digital activity! Students explore the roles of producers, consumers, and decomposers through interactive learning cards, then build their own food chains by placing organisms in the correct order.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae15b0109d9e0c4a2f8d8dd"
+    }
+   ],
+   "tags": [
+    "food chain builder",
+    "quiz",
+    "printable",
+    "science",
+    "producers",
+    "consumers",
+    "decomposers",
+    "upper elementary"
+   ]
+  },
+  {
+   "id": "force-and-motion-explorer",
+   "title": "Force and Motion Explorer | Digital Science Activity | Grade 6",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "6"
+   ],
+   "grade_band": "6",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Get your students excited about physics with this hands-on digital explorer! Students discover pushes, pulls, gravity, friction, and how forces make things move through interactive learning cards, a matching game, and a comprehensive self-grading quiz.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adf838634c56153692e2ec8"
+    }
+   ],
+   "tags": [
+    "force and motion explorer",
+    "quiz",
+    "printable",
+    "science",
+    "physical science",
+    "middle school",
+    "explorer",
+    "interactive"
+   ]
+  },
+  {
+   "id": "forces-and-motion-vocab-trainer",
+   "title": "Forces and Motion Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 5-8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Activities",
+    "Printables",
+    "Assessments"
+   ],
+   "summary": "A vocabulary trainer for a unit on Forces and Motion. Students study 25 term cards, match terms to definitions, fill 11 blanks in a reading passage and finish with a 16 question test that grades itself and explains every answer.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ForcesAndMotionVocabTrainer"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae19c38dad31ea05c1ed2ee"
+    }
+   ],
+   "tags": [
+    "forces and motion vocabulary trainer",
+    "science game",
+    "game",
+    "science",
+    "physical science",
+    "upper elementary",
+    "middle school",
+    "forces and motion"
+   ]
+  },
+  {
+   "id": "fossils-ancient-life-lab-elementary",
+   "title": "Fossils and Ancient Life Interactive Science Lab | Grades 3-5",
+   "subject": "science",
+   "topics": [
+    "Science"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "3-5",
+   "types": [
+    "Games",
+    "Activities",
+    "Interactives"
+   ],
+   "summary": "Take your students on a journey millions of years into the past with this interactive fossil science lab! Students will discover how fossils form, explore different fossil types, and learn what ancient life can teach us about Earths history.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/fossils-and-ancient-life-interactive-science-lab-grades-3-5/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada73c015628fc54932a8fd"
+    }
+   ],
+   "tags": [
+    "fossils and ancient life interactive science lab",
+    "science game",
+    "game",
+    "science",
+    "upper elementary",
+    "virtual lab",
+    "quiz",
+    "printable"
+   ]
+  },
+  {
+   "id": "fossil-evidence-investigation",
+   "title": "Fossils as Evidence - Interactive Investigation | Grades 6-8",
+   "subject": "science",
+   "topics": [
+    "Science"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "6-8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assessments"
+   ],
+   "summary": "Turn your fossils unit into a real investigation. Instead of just naming fossil types, students work like paleontologists: they look at real fossil specimens, separate what they can observe (the evidence) from what they can conclude (the interpretation), and build up to one of the biggest ideas in...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/FossilsAsEvidence"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada68a95d819f6dbabea3e6"
+    }
+   ],
+   "tags": [
+    "fossils as evidence",
+    "investigation",
+    "interactive",
+    "science",
+    "middle school",
+    "fossil record and continental drift",
+    "science activity",
+    "science review"
+   ]
+  },
+  {
+   "id": "frog-lifecycle-explorer",
+   "title": "Frog Life Cycle Explorer | Interactive Metamorphosis Activity with Quiz and Printable Worksheet | Grades 2-5",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "2-5",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Take your students on a visual journey through the five stages of frog metamorphosis with this interactive digital learning resource!",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6acaae180b792eeb5b3a8af2"
+    }
+   ],
+   "tags": [
+    "frog life cycle explorer",
+    "quiz",
+    "worksheet",
+    "science",
+    "biology",
+    "early elementary",
+    "upper elementary",
+    "printable"
+   ]
+  },
+  {
+   "id": "gasoline-engine-anatomy",
+   "title": "Gasoline Engine: How Four Strokes Turn Fuel into a Spinning Shaft | Grades 5-8",
+   "subject": "science",
+   "topics": [],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [],
+   "summary": "An interactive cutaway of a single-cylinder four-stroke gasoline engine for grades 5 to 8. Students run the engine one stroke at a time and watch the valves, piston, connecting rod, crankshaft, camshafts and spark plug move together, then place the engine in its history from Lenoir's 1860 gas...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/GasolineEngineAnatomy"
+    }
+   ],
+   "tags": [
+    "engines",
+    "machines",
+    "physical science",
+    "grades 5-8",
+    "gasoline engine"
+   ]
+  },
+  {
+   "id": "genetics-heredity-advanced-study-guide",
+   "title": "Genetics & Heredity | Advanced Interactive Study Guide | Science | Grades 7-9",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Turn your science classroom into a genetics lab with this comprehensive interactive study guide covering heredity, Punnett squares, DNA, and genetic disorders.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/jAabZ"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/genetics-heredity-advanced-interactive-study-guide-science-grades-7-9/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adac5a77101bfdf5d5068fe"
+    }
+   ],
+   "tags": [
+    "genetics and heredity",
+    "printable",
+    "study guide",
+    "science",
+    "biology",
+    "middle school",
+    "high school",
+    "advanced interactive study guide"
+   ]
+  },
+  {
+   "id": "genetics-and-heredity-vocab-trainer",
+   "title": "Genetics and Heredity Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 6-9",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "6-9",
+   "types": [
+    "Activities",
+    "Printables",
+    "Assessments"
+   ],
+   "summary": "A vocabulary trainer for a unit on Genetics and Heredity. Students study 26 term cards, match terms to definitions, fill 12 blanks in a reading passage and finish with a 16 question test that grades itself and explains every answer.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/GeneticsAndHeredityVocabularyTrainer"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0ef66527f2d25548893e6"
+    }
+   ],
+   "tags": [
+    "genetics and heredity vocabulary trainer",
+    "science game",
+    "game",
+    "science",
+    "biology",
+    "middle school",
+    "high school",
+    "genetics"
+   ]
+  },
+  {
+   "id": "genetics-heredity-jeopardy",
+   "title": "Genetics Jeopardy | Heredity Review Game | Grades 6-12",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Games",
+    "Interactives"
+   ],
+   "summary": "Turn the genetics and heredity unit review into a fast, competitive class period. Teams pick categories and point values from a jeopardy board covering DNA, Punnett squares, mutations and genetic engineering.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/GeneticsJeopardy"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/l0Tka"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/genetics-jeopardy-heredity-and-dna-review-game-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6acaae269c7d5e395e27c5d2"
+    }
+   ],
+   "tags": [
+    "genetics jeopardy",
+    "science game",
+    "review game",
+    "science",
+    "biology",
+    "middle school",
+    "high school",
+    "genetics"
+   ]
+  },
+  {
+   "id": "great-plains-farm-simulator",
+   "title": "Great Plains Farm Simulator Game | Soil, Water and Crop Rotation | Grades 6-9",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science",
+    "Environment & Ecology"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "6-9",
+   "types": [
+    "Games",
+    "Simulations",
+    "Interactives"
+   ],
+   "summary": "Put your students in charge of a Great Plains family farm for nine growing seasons in this farming simulator game. They plant four fields, rotate crops, run the center pivot, and decide when to spend on seed, nitrogen and repairs. Farm the land hard and the bank forecloses.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/GreatPlainsFarmSimulator"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/OQ5Mv"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/farming-the-great-plains-simulator-game-crop-rotation-and-soil-science-grades-6-9/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6aca89effc715347d3f34163"
+    }
+   ],
+   "tags": [
+    "farming the great plains simulator game",
+    "science game",
+    "simulation",
+    "science",
+    "earth science",
+    "middle school",
+    "high school",
+    "farming simulator"
+   ]
+  },
+  {
+   "id": "greenhouse-getaway",
+   "title": "Greenhouse Getaway Escape Room | Grades 4-8",
+   "subject": "science",
+   "topics": [],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "4-8",
+   "types": [],
+   "summary": "The greenhouse climate control is malfunctioning! Students must use their knowledge of plants, photosynthesis, and growing conditions to save the plants and escape.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/GreenhouseGetaway"
+    }
+   ],
+   "tags": [
+    "escape room",
+    "plants",
+    "botany",
+    "photosynthesis",
+    "biology",
+    "life science",
+    "science game",
+    "digital escape room"
+   ]
+  },
+  {
+   "id": "heredity-traits-explorer-elementary",
+   "title": "Heredity and Traits Interactive Science Explorer | Digital Activity | Grades 3-5",
+   "subject": "science",
+   "topics": [
+    "Science"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "3-5",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Make genetics fun and accessible for your elementary students! This interactive science explorer guides learners through the fascinating world of heredity, inherited traits, and learned behaviors.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae15b0ec0fbbe0b5747de4e"
+    }
+   ],
+   "tags": [
+    "heredity and traits interactive science explorer",
+    "quiz",
+    "printable",
+    "science",
+    "upper elementary",
+    "explorer",
+    "interactive",
+    "science activity"
+   ]
+  },
+  {
+   "id": "hydroelectric-dam-anatomy",
+   "title": "How a Hydroelectric Dam Works | Interactive Cutaway Diagram with Questions | Grades 5-8",
+   "subject": "science",
+   "topics": [
+    "Physical Science",
+    "Engineering",
+    "Environment & Ecology"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Multimedia"
+   ],
+   "summary": "An interactive cutaway diagram of a concrete dam and its powerhouse. Students play it one step at a time and follow the water from the lake, down through the turbine, and out as electricity on the power lines. It answers one question: how does a dam turn falling water into electricity?",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/how-a-hydroelectric-dam-works-interactive-cutaway-diagram-with-questions-grades-5-8/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad7bf4902749b532c595f7b"
+    }
+   ],
+   "tags": [
+    "how a hydroelectric dam works",
+    "printable",
+    "interactive",
+    "physical science",
+    "science",
+    "upper elementary",
+    "middle school",
+    "hydroelectric power"
+   ]
+  },
+  {
+   "id": "panama-canal-lock-anatomy",
+   "title": "How a Panama Canal Lock Works | Interactive Cutaway Diagram with Questions | Grades 5-8",
+   "subject": "science",
+   "topics": [
+    "US History",
+    "Engineering",
+    "Physical Science"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Multimedia"
+   ],
+   "summary": "An interactive cutaway diagram of one chamber of the Gatun Locks on the Panama Canal, as built in 1914. Students play it one step at a time and watch a ship lifted from the chamber below up to Gatun Lake with no pumps, only lake water running downhill.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/how-a-panama-canal-lock-works-interactive-cutaway-diagram-with-questions-grades-5-8/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad7bf3fd3437f8a7108fbe7"
+    }
+   ],
+   "tags": [
+    "how a panama canal lock works",
+    "printable",
+    "interactive",
+    "us history",
+    "american history",
+    "upper elementary",
+    "middle school",
+    "panama canal"
+   ]
+  },
+  {
+   "id": "human-body-systems-advanced-study-guide",
+   "title": "Human Body Systems | Advanced Interactive Study Guide | Science | Grades 7-9",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Take your students on an incredible journey through the human body with this comprehensive digital study guide! Students explore the major organ systems -- from the skeletal and muscular systems to the nervous and immune systems -- through seven interactive tabs packed with engaging activities.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbe9525617035e898aad8b"
+    }
+   ],
+   "tags": [
+    "human body systems",
+    "printable",
+    "study guide",
+    "science",
+    "biology",
+    "middle school",
+    "high school",
+    "advanced interactive study guide"
+   ]
+  },
+  {
+   "id": "human-body-bingo-game",
+   "title": "Human Body Systems Bingo Review Game",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ],
+   "grade_band": "4-7",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Turn your human body systems unit into a game the whole class gets excited about. The teacher calls the job a body part does, and students cover the matching organ, tissue, or system. It is a fast, low prep way to check whether the science vocabulary from your unit has actually stuck.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/HumanBodyBingoGame"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1a8ef9ac1a1035d0b06cf"
+    }
+   ],
+   "tags": [
+    "human body systems bingo review game",
+    "science game",
+    "bingo",
+    "science",
+    "biology",
+    "upper elementary",
+    "middle school",
+    "anatomy"
+   ]
+  },
+  {
+   "id": "human-body-hospital",
+   "title": "Human Body Systems Escape Room - Human Body Hospital Science Game - Grades 4-7",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ],
+   "grade_band": "4-7",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An escape room set in a hospital. Students work out which body system a patient needs, and each correct diagnosis opens the next room, from the skeleton through to the nervous system.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/HumanBodyHospitalEscapeRoom"
+    }
+   ],
+   "tags": [
+    "human body systems escape room",
+    "science game",
+    "escape room",
+    "science",
+    "biology",
+    "upper elementary",
+    "middle school",
+    "anatomy"
+   ]
+  },
+  {
+   "id": "human-body-systems-jeopardy",
+   "title": "Human Body Systems Jeopardy",
+   "subject": "science",
+   "topics": [],
+   "grades": [],
+   "grade_band": null,
+   "types": [],
+   "summary": "An interactive Jeopardy-style review game for grades 5 to 8 covering human body systems, anatomy, and physiology. Thirty clues across six categories with a built-in scoreboard and Daily Doubles.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/Human-Body-Systems-Jeopardy"
+    }
+   ],
+   "tags": [
+    "anatomy",
+    "high school",
+    "biology",
+    "middle school",
+    "human body",
+    "physiology",
+    "body systems",
+    "jeopardy"
+   ]
+  },
+  {
+   "id": "body-systems-jeopardy",
+   "title": "Human Body Systems Jeopardy Review Game | Anatomy and Physiology | Grades 6-9",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology",
+    "Anatomy and Physiology"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "6-9",
+   "types": [
+    "Games",
+    "Interactives",
+    "Exam, Quiz, Tests"
+   ],
+   "summary": "Body Systems Jeopardy is a Jeopardy-style review game on the human body systems. It runs from one web file: add your teams and project it.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/gj6GX"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6acaae1f3ca72f53c0cb47e6"
+    }
+   ],
+   "tags": [
+    "body systems",
+    "anatomy",
+    "physiology",
+    "jeopardy review",
+    "human body",
+    "science review",
+    "jeopardy",
+    "review game"
+   ]
+  },
+  {
+   "id": "human-body-systems-runner-game",
+   "title": "Human Body Systems Runner | Anatomy Quiz Game | Grades 4-8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology",
+    "Anatomy and Physiology"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "4-8",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A three-lane runner game that reviews the human body systems. A question appears at the top of the screen, three answer gates come down the road, and the student steers into the gate with the right answer.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/HumanBodySystemsRunner"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad928db8e52cdd77994adb5"
+    }
+   ],
+   "tags": [
+    "human body systems",
+    "anatomy game",
+    "body systems review",
+    "science review game",
+    "life science",
+    "runner game",
+    "circulatory system",
+    "respiratory system"
+   ]
+  },
+  {
+   "id": "human-body-systems-vocab-trainer",
+   "title": "Human Body Systems Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 5-8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Activities",
+    "Printables",
+    "Assessments"
+   ],
+   "summary": "A vocabulary trainer for a unit on Human Body Systems. Students study 30 term cards, match terms to definitions, fill 12 blanks in a reading passage and finish with a 20 question test that grades itself and explains every answer.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/HumanBodySystemsVocabularyTrainer"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae19c87f1b4a24b66a6966b"
+    }
+   ],
+   "tags": [
+    "human body systems vocabulary trainer",
+    "science game",
+    "game",
+    "science",
+    "biology",
+    "upper elementary",
+    "middle school",
+    "human body systems"
+   ]
+  },
+  {
+   "id": "hurricane-tracking-simulator",
+   "title": "Hurricane Tracking Simulator - Weather Simulation Game | Grades 5-8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "4-8",
+   "types": [
+    "Games",
+    "Simulations",
+    "Interactives"
+   ],
+   "summary": "Your students take charge of the National Storm Forecast Office for a full Atlantic hurricane season. They read live storm data, issue watches and warnings, order evacuations, and discover that every forecast is a balance between saving lives and keeping the public's trust.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/HurricaneTrackingSimulator",
+     "free_here": true
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/hurricane-tracking-simulator-weather-simulation-game-grades-4-8/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada93614d4b275c8e403c97"
+    }
+   ],
+   "tags": [
+    "hurricane tracking simulator",
+    "science game",
+    "simulation",
+    "science",
+    "earth science",
+    "upper elementary",
+    "middle school",
+    "weather simulation game"
+   ]
+  },
+  {
+   "id": "hurricanes-that-changed-america",
+   "title": "Hurricanes That Changed America | Interactive Weather Study | Historical Storm Analysis | Grades 6-10",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science",
+    "US History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "grade_band": "6-10",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Explore the most devastating and historically significant hurricanes in American history with this comprehensive interactive resource!",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/ltkOX"
+    }
+   ],
+   "tags": [
+    "hurricanes that changed america",
+    "quiz",
+    "interactive",
+    "science",
+    "earth science",
+    "middle school",
+    "high school",
+    "historical storm analysis"
+   ]
+  },
+  {
+   "id": "hydroelectric-dam-tour",
+   "title": "Hydroelectric Dam Digital Field Trip | 3D Interactive Tour with Lesson and Assessment | Grades 4-8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "4-8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Take your students on a digital field trip inside a working hydroelectric dam! This immersive 3D interactive tour lets students orbit, zoom, and explore every component of a hydroelectric power station - from the reservoir and dam wall to the turbine hall, generator, and spillway.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adf7e2cbf387c2506f09114"
+    }
+   ],
+   "tags": [
+    "hydroelectric dam digital field trip",
+    "lesson",
+    "interactive",
+    "science",
+    "physical science",
+    "upper elementary",
+    "middle school",
+    "geography"
+   ]
+  },
+  {
+   "id": "ib-chemistry-study-guide",
+   "title": "IB Chemistry HL Review | Interactive Study Guide and Quiz | Grades 11-12",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "11",
+    "12"
+   ],
+   "grade_band": "11-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Give your IB Chemistry HL students one place to review the whole course. Students work through drawn diagrams of the hardest concepts, drag a live temperature slider to watch reaction rates change, flip energy profiles, highlight key lines, and quiz themselves with instant feedback across Topics...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae17fd5ca23f6d4190549a8"
+    }
+   ],
+   "tags": [
+    "ib chemistry hl review",
+    "quiz",
+    "study guide",
+    "science",
+    "physical science",
+    "high school",
+    "interactive",
+    "science activity"
+   ]
+  },
+  {
+   "id": "insect-investigation",
+   "title": "Insects Escape Room - Insect Investigation Life Science Game - Grades 3-6",
+   "subject": "science",
+   "topics": [],
+   "grades": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "grade_band": "3-6",
+   "types": [],
+   "summary": "An escape room about insects, fourteen rooms long. Students answer a puzzle on anatomy, life cycles, metamorphosis or social insects to open each door, so the vocabulary sticks because they need it to get out.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/InsectInvestigationEscapeRoom",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "science",
+    "insects",
+    "escape room",
+    "life science",
+    "review game"
+   ]
+  },
+  {
+   "id": "ring-of-fire-earthquake-explorer",
+   "title": "Interactive Earthquake Map of the Ring of Fire | Plate Tectonics | Earth Science Grades 8-12",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science"
+   ],
+   "grades": [
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "8-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An interactive earthquake map for teaching plate tectonics. It draws every magnitude 6 and greater earthquake recorded since 1900, plus every magnitude 2.5 and greater quake from the last 30 days, on a world map.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/RingOfFireEarthquakeExplorer"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/interactive-earthquake-map-of-the-ring-of-fire-plate-tectonics-earth-science-grades-8-12/"
+    }
+   ],
+   "tags": [
+    "interactive earthquake map of the ring of fire",
+    "interactive map",
+    "interactive",
+    "science",
+    "earth science",
+    "middle school",
+    "high school",
+    "earthquakes"
+   ]
+  },
+  {
+   "id": "chemistry-periodic-table-explorer",
+   "title": "Interactive Periodic Table Explorer | Chemistry Element Study Tool | Digital Lab Activity | Grades 6-12",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Every element opens to its properties, an electron shell model and its discovery date, and 17 common elements, such as hydrogen, carbon, oxygen and iron, add their real-world uses and where they come from, all in one clean, easy-to-use format.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/hFi2c"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/interactive-periodic-table-explorer-chemistry-element-study-tool-digital-lab-activity-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adac7fe88ae4fb521a32a7f"
+    }
+   ],
+   "tags": [
+    "interactive periodic table explorer",
+    "virtual lab",
+    "explorer",
+    "science",
+    "physical science",
+    "middle school",
+    "high school",
+    "college"
+   ]
+  },
+  {
+   "id": "ecosystems-food-webs-jeopardy",
+   "title": "Jeopardy Review Game: Ecosystems, Food Webs and Energy Flow | Life Science | Grades 5-8",
+   "subject": "science",
+   "topics": [],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [],
+   "summary": "Review ecosystems, food webs, and energy flow with this interactive Jeopardy-style game. Students answer 30 questions across six categories as part of a live class competition with team scores and customizable team names. Everything runs in a single HTML file that opens in any web browser.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/Ecosystems-Food-Webs-Jeopardy"
+    }
+   ],
+   "tags": [
+    "ecology",
+    "middle school",
+    "ecosystems",
+    "biodiversity",
+    "energy flow",
+    "food webs",
+    "jeopardy",
+    "life science"
+   ]
+  },
+  {
+   "id": "landforms-and-bodies-of-water-vocab-trainer",
+   "title": "Landforms and Bodies of Water Vocabulary Trainer | Term Cards, Matching, Reading Passage and Test | Grades 3 to 6",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "grade_band": "3-6",
+   "types": [
+    "Activities",
+    "Printables",
+    "Assessments"
+   ],
+   "summary": "A vocabulary trainer for a unit on Landforms and Bodies of Water. Students read 27 term cards, match terms to definitions, fill 12 blanks in a reading passage and finish with a 16-question test that marks itself and explains every answer.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/landforms-and-bodies-of-water-vocabulary-trainer-term-cards-matching-reading-passage-and-test-grades-3-to-6/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad769353afa46af579b2d97"
+    }
+   ],
+   "tags": [
+    "landforms and bodies of water vocabulary trainer",
+    "vocabulary",
+    "reading passages",
+    "science",
+    "earth science",
+    "upper elementary",
+    "middle school",
+    "science vocabulary"
+   ]
+  },
+  {
+   "id": "light-and-sound-explorer",
+   "title": "Light and Sound Explorer | Digital Science Activity | Grade 5",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "5"
+   ],
+   "grade_band": "5",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Bring light and sound science to life with this interactive digital explorer! Students discover how light travels, what makes shadows, how sound is created by vibrations, and much more through engaging learning cards, a matching game, and a self-grading quiz.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae15b149e867ec486b63d95"
+    }
+   ],
+   "tags": [
+    "light and sound explorer",
+    "quiz",
+    "printable",
+    "science",
+    "physical science",
+    "upper elementary",
+    "explorer",
+    "interactive"
+   ]
+  },
+  {
+   "id": "magnets-magnetism-lab-elementary",
+   "title": "Magnets and Magnetism Lab - Interactive Science Exploration | Grade 4",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "4"
+   ],
+   "grade_band": "4",
+   "types": [
+    "Games",
+    "Activities",
+    "Interactives"
+   ],
+   "summary": "Spark curiosity about the invisible forces all around us! This interactive science lab takes students on a hands-on digital exploration of magnets, magnetic fields, poles, and the science behind attraction and repulsion.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MagnetsMagnetismLabElementary"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/magnets-magnetism-science-lab-magnetic-fields-poles-activity-4th-grade/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adab3436d50c9df6ee08404"
+    }
+   ],
+   "tags": [
+    "magnets and magnetism science lab",
+    "science game",
+    "game",
+    "science",
+    "physical science",
+    "upper elementary",
+    "virtual lab",
+    "quiz"
+   ]
+  },
+  {
+   "id": "map-skills-navigator",
+   "title": "Map Skills Navigator | Interactive Geography Activity for Grades 3-5",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Geography"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "3-5",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Turn your students into expert map readers! This interactive digital activity teaches compass directions, grid coordinates, and map legends through hands-on exploration and games.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/tW1UE"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/map-skills-navigator-interactive-geography-activity-for-grades-3-5/"
+    }
+   ],
+   "tags": [
+    "map skills navigator",
+    "interactive map",
+    "quiz",
+    "science",
+    "geography",
+    "upper elementary",
+    "map skills",
+    "printable"
+   ]
+  },
+  {
+   "id": "mars-mission-vocab-trainer",
+   "title": "Mission: Mars Vocab Trainer | Space Science Vocabulary Game | Grades 5-8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Astronomy"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Activities",
+    "Printables",
+    "Assessments"
+   ],
+   "summary": "Blast off on a vocabulary mission to the Red Planet! In this exciting digital vocabulary trainer, students take on the role of cadets preparing for a Mars mission by mastering 24 essential space and astronomy terms.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adc07c576f4dde8ed8e0aab"
+    }
+   ],
+   "tags": [
+    "mission",
+    "science game",
+    "game",
+    "science",
+    "astronomy",
+    "upper elementary",
+    "middle school",
+    "space science vocabulary game"
+   ]
+  },
+  {
+   "id": "moon-phases-explorer",
+   "title": "Moon Phases Interactive Explorer | Astronomy Activity | Science | Grade 5",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Astronomy"
+   ],
+   "grades": [
+    "5"
+   ],
+   "grade_band": "5",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Help your students finally understand why the Moon looks different every night, and clear up the number-one misconception in one lesson: phases are NOT Earth's shadow.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbe7fb5ff3a42ec872d8f9"
+    }
+   ],
+   "tags": [
+    "moon phases interactive explorer",
+    "quiz",
+    "printable",
+    "science",
+    "astronomy",
+    "upper elementary",
+    "astronomy activity",
+    "explorer"
+   ]
+  },
+  {
+   "id": "mountain-biomes-3d-explorer",
+   "title": "Mountain Biomes 3D Explorer | Interactive Map | Science Activity 5th Grade",
+   "subject": "science",
+   "topics": [
+    "Science"
+   ],
+   "grades": [
+    "5"
+   ],
+   "grade_band": "5",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Mountain Biomes 3D Explorer turns the Colorado Rockies into a hands-on lesson in how elevation shapes life. Students orbit a real 3-D model of the range, built from actual satellite elevation data, and watch four biomes stack up the slopes: grassland foothills, montane forest, subalpine forest, and...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbe86ce65a5aa642a4e2c3"
+    }
+   ],
+   "tags": [
+    "mountain biomes 3d explorer",
+    "interactive map",
+    "quiz",
+    "science",
+    "upper elementary",
+    "explorer",
+    "interactive",
+    "science activity"
+   ]
+  },
+  {
+   "id": "laws-of-motion-visual-explorer",
+   "title": "Newtons Laws of Motion Assessment and Activity | Middle School Science | Grades 5-8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Push, kick, launch, and collide - then explain every one of those motions with three short rules. Students explore Newton's laws of motion through animated force demonstrations, a hands-on force workbench, and a predict-and-test challenge that puts their physics reasoning on the line.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adf837037ff587b61c6b85f"
+    }
+   ],
+   "tags": [
+    "newtons laws of motion assessment and activity",
+    "interactive",
+    "science",
+    "physical science",
+    "upper elementary",
+    "middle school",
+    "science activity",
+    "science review"
+   ]
+  },
+  {
+   "id": "north-american-biomes",
+   "title": "North American Biomes Interactive Map & Wildlife Explorer | Self-Grading Quiz | Life Science",
+   "subject": "science",
+   "topics": [],
+   "grades": [],
+   "grade_band": null,
+   "types": [],
+   "summary": "North American biomes on a clickable map, with the climate data behind each one. Students compare temperature and precipitation, work out how animals are adapted to each environment, and check themselves with a quiz that grades itself.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/NorthAmericanBiomes"
+    }
+   ],
+   "tags": [
+    "science",
+    "wildlife",
+    "earth science",
+    "interactive map",
+    "biomes"
+   ]
+  },
+  {
+   "id": "nutrition-station",
+   "title": "Nutrition Station | Health Science | Interactive Learning Resource | Grades 4-8",
+   "subject": "science",
+   "topics": [
+    "Science"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "4-8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Fuel your body right! Students explore food groups, nutritional values, and healthy eating habits through interactive activities at the Nutrition Station.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae15b57bd4a1b6fa498fd2e"
+    }
+   ],
+   "tags": [
+    "nutrition station",
+    "interactive",
+    "science",
+    "upper elementary",
+    "middle school",
+    "health science",
+    "science activity"
+   ]
+  },
+  {
+   "id": "nyc-hurricane-sandy-climate-risk-explorer",
+   "title": "NYC Hurricane Sandy Climate Risk Explorer | Interactive GIS Map Activity for Sea Level Rise and Coastal Flooding | Grades 6-10",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science",
+    "War & Conflict"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "grade_band": "6-10",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Bring the real data behind Hurricane Sandy into your classroom. This interactive map explorer uses live government datasets from NYC to let students investigate coastal flood zones, evacuation routes, sea level rise projections, and compounding environmental risks - all from the comfort of their...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada5ab6ff5c8e033d1a60d7"
+    }
+   ],
+   "tags": [
+    "nyc hurricane sandy climate risk explorer",
+    "interactive map",
+    "explorer",
+    "science",
+    "earth science",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "ocean-deep-dive",
+   "title": "Ocean Deep Dive - Marine Science Exploration | Grades 4-8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "4-8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Dive into the ocean depths! Students explore ocean zones, marine life, and underwater ecosystems through an interactive deep-sea exploration experience.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/OceanDeepDiveMarineScienceExploration"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/ocean-deep-dive-marine-science-interactive-learning-resource-grades-4-8/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adad34f7d05eaa2dec396bf"
+    }
+   ],
+   "tags": [
+    "ocean deep dive",
+    "interactive",
+    "science",
+    "earth science",
+    "upper elementary",
+    "middle school",
+    "marine science",
+    "science general"
+   ]
+  },
+  {
+   "id": "ocean-science-vocab-trainer",
+   "title": "Ocean Science Vocabulary Trainer | Term Cards, Matching, Reading Passage and Test | Grades 5 to 8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Activities",
+    "Printables",
+    "Assessments"
+   ],
+   "summary": "A vocabulary trainer for a unit on Ocean Science. Students read 28 term cards, match terms to definitions, fill 12 blanks in a reading passage and finish with a 20-question test that marks itself and explains every answer.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/ocean-science-vocabulary-trainer-term-cards-matching-reading-passage-and-test-grades-5-to-8/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad7693ede38f03d4ebb1f1b"
+    }
+   ],
+   "tags": [
+    "ocean science vocabulary trainer",
+    "vocabulary",
+    "reading passages",
+    "science",
+    "earth science",
+    "upper elementary",
+    "middle school",
+    "ocean science vocabulary"
+   ]
+  },
+  {
+   "id": "plate-boundaries-photo-jeopardy",
+   "title": "Photo Jeopardy Review Game: Plate Boundaries and Plate Tectonics | Earth Science | Grades 5-8",
+   "subject": "science",
+   "topics": [],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [],
+   "summary": "Plate Boundaries Photo Jeopardy is a picture review game for plate tectonics and Earth science, for grades 5 to 8. Each of its 12 clues is a public-domain photograph, space-station image or map, 11 of them from NASA, USGS and NOAA, with one short question under it.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/Plate-Boundaries-Photo-Jeopardy"
+    }
+   ],
+   "tags": [
+    "middle school",
+    "geology",
+    "earth science",
+    "earthquakes",
+    "plate tectonics",
+    "volcanoes",
+    "jeopardy",
+    "review game"
+   ]
+  },
+  {
+   "id": "physical-and-chemical-changes-vocab-trainer",
+   "title": "Physical and Chemical Changes Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 5-8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Activities",
+    "Printables",
+    "Assessments"
+   ],
+   "summary": "A vocabulary trainer for a unit on Physical and Chemical Changes. Students study 25 term cards, match terms to definitions, fill 11 blanks in a reading passage and finish with a 16 question test that grades itself and explains every answer.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/PhysicalAndChemicalChangesVocabularyTrainer"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0ef5eb03f644acad206bb"
+    }
+   ],
+   "tags": [
+    "physical and chemical changes vocabulary trainer",
+    "science game",
+    "game",
+    "science",
+    "physical science",
+    "upper elementary",
+    "middle school",
+    "physical"
+   ]
+  },
+  {
+   "id": "plant-parts-life-cycles-lab",
+   "title": "Plant Parts & Life Cycles Lab | Interactive Digital Science Activity | Grades 3-5",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "3-5",
+   "types": [
+    "Games",
+    "Activities",
+    "Interactives"
+   ],
+   "summary": "Help your students explore the fascinating world of plants with this hands-on digital activity! Students discover the six main plant parts (roots, stems, leaves, flowers, fruits, seeds), learn about photosynthesis, and follow the stages of a flowering plant life cycle.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0c7b0bea57a7bfc8810a3"
+    }
+   ],
+   "tags": [
+    "plant parts and life cycles lab",
+    "science game",
+    "game",
+    "science",
+    "biology",
+    "upper elementary",
+    "virtual lab",
+    "life science"
+   ]
+  },
+  {
+   "id": "plants-and-photosynthesis-vocab-trainer",
+   "title": "Plants and Photosynthesis Vocabulary Trainer | Term Cards, Matching, Reading Passage and Test | Grades 4 to 7",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ],
+   "grade_band": "4-7",
+   "types": [
+    "Activities",
+    "Printables",
+    "Assessments"
+   ],
+   "summary": "A vocabulary trainer for a unit on Plants and Photosynthesis. Students read 28 term cards, match terms to definitions, fill 12 blanks in a reading passage and finish with a 19-question test that marks itself and explains every answer.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/plants-and-photosynthesis-vocabulary-trainer-term-cards-matching-reading-passage-and-test-grades-4-to-7/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad769485df77a9eac1824c9"
+    }
+   ],
+   "tags": [
+    "plants and photosynthesis vocabulary trainer",
+    "vocabulary",
+    "reading passages",
+    "science",
+    "biology",
+    "upper elementary",
+    "middle school",
+    "plants and photosynthesis vocabulary"
+   ]
+  },
+  {
+   "id": "pangaea-supercontinent-explorer",
+   "title": "Plate Tectonics Continental Drift Activity - Earth Science 8th Grade - Pangaea",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Students run the world map backwards through 400 million years and watch the continents reassemble into Pangaea. The positions are computed from a published plate model, so the reconstruction is accurate at every age instead of being a slideshow of drawings.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/PangaeaContinentalDrift",
+     "free_here": true
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/plate-tectonics-continental-drift-activity-earth-science-8th-grade-pangaea/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada73b92debebc33b299313"
+    }
+   ],
+   "tags": [
+    "plate tectonics continental drift activity",
+    "printable",
+    "interactive",
+    "science",
+    "earth science",
+    "middle school",
+    "plate tectonics",
+    "pangaea"
+   ]
+  },
+  {
+   "id": "plate-tectonics-explorer",
+   "title": "Plate Tectonics Explorer - Complete Interactive Digital Lesson",
+   "subject": "science",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "6-9",
+   "types": [],
+   "summary": "Plate Tectonics Interactive Explorer is a web page that puts a global tectonic plate map, a guided geology lab and a scored knowledge check in front of the class.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/PlateTectonicsExplorer",
+     "free_here": true
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad924f9fc54f78567c9a218"
+    }
+   ],
+   "tags": [
+    "plate tectonics",
+    "plate boundaries",
+    "earth science",
+    "earthquakes",
+    "volcanoes",
+    "geology",
+    "interactive map",
+    "continental drift"
+   ]
+  },
+  {
+   "id": "plate-tectonics-vocab-trainer",
+   "title": "Plate Tectonics, Earthquakes and Volcanoes Vocabulary Trainer | Term Cards, Matching, Reading Passage and Test | Grades 6 to 8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "6-8",
+   "types": [
+    "Activities",
+    "Printables",
+    "Assessments"
+   ],
+   "summary": "A vocabulary trainer for a unit on Plate Tectonics, Earthquakes and Volcanoes. Students read 30 term cards, match terms to definitions, fill 13 blanks in a reading passage and finish with a 19-question test that marks itself and explains every answer.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad769519a9bd801856c9948"
+    }
+   ],
+   "tags": [
+    "plate tectonics earthquakes and volcanoes vocabulary trainer",
+    "vocabulary",
+    "reading passages",
+    "science",
+    "earth science",
+    "middle school",
+    "plate tectonics vocabulary",
+    "plate tectonics vocabulary trainer"
+   ]
+  },
+  {
+   "id": "rainforest-rescue",
+   "title": "Rainforest Ecosystems Escape Room - Rainforest Rescue Science Game - Grades 3-6",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "grade_band": "3-6",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An escape room about the rainforest. Students solve a puzzle to open each part of the forest, working up through the layers from the floor to the canopy and learning what lives in each one and why the forest matters.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/RainforestRescueEscapeRoom"
+    }
+   ],
+   "tags": [
+    "rainforest ecosystems escape room",
+    "science game",
+    "escape room",
+    "science",
+    "biology",
+    "upper elementary",
+    "middle school",
+    "rainforest"
+   ]
+  },
+  {
+   "id": "renewable-energy-power-grid-simulation",
+   "title": "Renewable Energy Game: Power Grid Simulation | Solar, Wind & Fossil Fuels | Grades 6-8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Astronomy",
+    "Physical Science"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "6-8",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Teaching the energy unit and tired of students thinking we can just switch to solar and wind tomorrow? This no-prep digital simulation puts them in charge of a real power grid so they discover, on their own, why the clean-energy transition is genuinely hard. Every turn is one year.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/renewable-energy-game-power-grid-simulation-solar-wind-fossil-fuels-grades-6-8/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada738e45787804c77c1882"
+    }
+   ],
+   "tags": [
+    "renewable energy game",
+    "science game",
+    "simulation",
+    "science",
+    "astronomy",
+    "middle school",
+    "solar",
+    "wind and fossil fuels"
+   ]
+  },
+  {
+   "id": "river-city-flood-defense",
+   "title": "River City Flood Defense | Dams, Levees and Wetlands Builder | Environmental Science | Grades 5-9",
+   "subject": "science",
+   "topics": [],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "5-9",
+   "types": [],
+   "summary": "River City Flood Defense is an interactive flood defense builder for grades 5 to 9. Students place dams, levees and wetlands on a map of a river town, spend a $1,500 budget, then start the rain and watch the water spread to see whether the houses stay dry. It is one file that opens in a web browser.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/RiverCityFloodDefense"
+    }
+   ],
+   "tags": [
+    "earth science",
+    "natural hazards",
+    "environmental sci",
+    "stem activity",
+    "flood defense"
+   ]
+  },
+  {
+   "id": "river-city-flood-risk-game-sim",
+   "title": "River City Flood Defense | Environmental Science Simulation | STEM Game | Grades 5-9",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "5-9",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "River City: Flood Defense is a simulation game where students act as mayor of a river town with a fixed budget and decide how to hold back the water. One file, opened in a browser, with no install.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/r4RT6"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/river-city-flood-defense-environmental-science-simulation-stem-game-grades-5-9/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada5a8f8eb4958e9c1f0a2c"
+    }
+   ],
+   "tags": [
+    "river city flood defense",
+    "science game",
+    "simulation",
+    "science",
+    "earth science",
+    "upper elementary",
+    "middle school",
+    "high school"
+   ]
+  },
+  {
+   "id": "rock-cycle-interactive-lab",
+   "title": "Rock Cycle Interactive Lab | Earth Science | Interactive Learning Resource | Grades 5-9",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "5-9",
+   "types": [
+    "Games",
+    "Activities",
+    "Interactives"
+   ],
+   "summary": "Explore the rock cycle through interactive activities! Students sort rock samples, build cycle diagrams, and discover how igneous, sedimentary, and metamorphic rocks transform over time.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae15b1a46edb46bc8e8f050"
+    }
+   ],
+   "tags": [
+    "rock cycle interactive lab",
+    "science game",
+    "game",
+    "science",
+    "earth science",
+    "upper elementary",
+    "middle school",
+    "high school"
+   ]
+  },
+  {
+   "id": "rocks-minerals-advanced-study-guide",
+   "title": "Rocks & Minerals | Advanced Interactive Study Guide | Earth Science | Grades 7-9",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Turn your Earth science classroom into a geology lab with this comprehensive digital study guide on rocks, minerals, the rock cycle, and mineral identification.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/S50Xe"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/rocks-minerals-advanced-interactive-study-guide-earth-science-grades-7-9/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adac5ae5a153c6e9781fada"
+    }
+   ],
+   "tags": [
+    "rocks and minerals",
+    "quiz",
+    "printable",
+    "science",
+    "earth science",
+    "middle school",
+    "high school",
+    "advanced interactive study guide"
+   ]
+  },
+  {
+   "id": "rocks-and-minerals-vocab-trainer",
+   "title": "Rocks and Minerals Vocabulary Trainer | Term Cards, Matching, Reading Passage and Test | Grades 4 to 7",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Geology"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ],
+   "grade_band": "4-7",
+   "types": [
+    "Activities",
+    "Printables",
+    "Assessments"
+   ],
+   "summary": "A vocabulary trainer for a unit on Rocks and Minerals. Students read 29 term cards, match terms to definitions, fill 12 blanks in a reading passage and finish with a 20-question test that marks itself and explains every answer.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/rocks-and-minerals-vocabulary-trainer-term-cards-matching-reading-passage-and-test-grades-4-to-7/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad92be0e706d7de30a37527"
+    }
+   ],
+   "tags": [
+    "rocks and minerals vocabulary trainer",
+    "vocabulary",
+    "reading passages",
+    "science",
+    "geology",
+    "upper elementary",
+    "middle school",
+    "rocks and minerals vocabulary"
+   ]
+  },
+  {
+   "id": "satellite-networks-3d-data-explorer",
+   "title": "Satellite Networks 3D Explorer - GPS, Landsat and GOES Orbits - Earth Science Grades 6-9",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science",
+    "Astronomy"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "6-9",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Most students have never been told the simplest thing about the satellites they use every day: a GPS satellite carries no camera. Students fly three real satellite networks around a 3D Earth and find out what each one does, what it sends back, and why its orbit decided both.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/SatelliteNetworks3DExplorer"
+    }
+   ],
+   "tags": [
+    "satellite networks 3d explorer",
+    "quiz",
+    "printable",
+    "science",
+    "earth science",
+    "middle school",
+    "high school",
+    "satellites"
+   ]
+  },
+  {
+   "id": "science-simulation-games-bundle",
+   "title": "Science Simulation Games Bundle - 5 Simulators - Grades 6-12",
+   "subject": "science",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [],
+   "summary": "Five science simulation games in which students run the system and live with the results. They farm the Great Plains, graze a cattle ranch, operate a town's water treatment plant, keep fish alive in an aquaponics greenhouse and test claims as a natural philosopher in the age of Galileo.",
+   "free": false,
+   "price_usd": 16.99,
+   "bundle": true,
+   "includes": [
+    "Great Plains Farm Simulator Game | Soil, Water and Crop Rotation | Grades 6-9",
+    "Cattle Ranch Simulator Game | Rotational Grazing and Sustainable Agriculture | Grades 6-9",
+    "Water Treatment Plant Simulator Game | Water Pollution and Drinking Water | Grades 6-9",
+    "Aquaponics Farm 3D Simulator | Nitrogen Cycle and Water Chemistry Lab | Grades 6-12",
+    "Scientific Revolution Lab | Galileo and Kepler Experiment Game | Grades 6-10"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ScienceSimulationGamesBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "stem",
+    "agriculture",
+    "simulation games",
+    "science games"
+   ]
+  },
+  {
+   "id": "science-slither-body-systems",
+   "title": "Science Slither: Body Systems Game | All 11 Human Body Systems Vocabulary Review | Grade 6",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "6"
+   ],
+   "grade_band": "6",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Make body systems vocabulary stick with a fast-paced slither-style game. Students steer a snake through a science arena, eating organs and structures that belong to a target body system while avoiding enemy slither-bots. Covers all 11 major human body systems with built-in answer feedback.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/science-slither-body-systems/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1a9259abdb7b8475af6a0"
+    }
+   ],
+   "tags": [
+    "science slither",
+    "science game",
+    "game",
+    "science",
+    "biology",
+    "middle school",
+    "science slither body systems",
+    "vocabulary"
+   ]
+  },
+  {
+   "id": "scientific-method-vocabulary-builder",
+   "title": "Scientific Method Vocabulary Builder | Interactive Digital Science Activity Grade 5-9",
+   "subject": "science",
+   "topics": [
+    "Science"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "5-9",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Build mastery of scientific method vocabulary with this interactive Scientific Method Vocabulary Builder! Students explore 19 essential terms with definitions and examples, walk through the inquiry process, and practice through sorting, matching, and scenario activities.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/scientific-method-vocabulary-builder/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1a93fe9eb2dcdb993aa7f"
+    }
+   ],
+   "tags": [
+    "scientific method vocabulary builder",
+    "vocabulary",
+    "printable",
+    "science",
+    "upper elementary",
+    "middle school",
+    "high school",
+    "interactive"
+   ]
+  },
+  {
+   "id": "geoflip-seas-oceans",
+   "title": "Seas and Oceans Map Quiz Game - World Geography Activity - Grades 4-8",
+   "subject": "science",
+   "topics": [],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "4-8",
+   "types": [],
+   "summary": "Turn world geography into something students actually want to play. GeoFlip: Seas and Oceans puts 61 of the world's seas, oceans, gulfs, bays, and straits on one interactive world map, so students build a real mental map of the planet's water.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/GeoFlipSeasAndOceans"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbfef67e3358a32326aa6d"
+    }
+   ],
+   "tags": [
+    "science",
+    "geography",
+    "social studies",
+    "oceans",
+    "map quiz"
+   ]
+  },
+  {
+   "id": "simple-machines-workshop",
+   "title": "Simple Machines Workshop - Interactive Science Activity | Grades 3-5",
+   "subject": "science",
+   "topics": [
+    "Science"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "3-5",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Discover the 6 simple machines that make work easier! This interactive digital activity lets students explore levers, inclined planes, wheels and axles, pulleys, wedges, and screws through clickable cards and problem-solving games.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/SimpleMachinesWorkshop"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/iYrF4"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adac5682e2fbb70b073544e"
+    }
+   ],
+   "tags": [
+    "simple machines workshop",
+    "quiz",
+    "printable",
+    "science",
+    "upper elementary",
+    "interactive",
+    "science activity",
+    "science review"
+   ]
+  },
+  {
+   "id": "solar-system-space-advanced-study-guide",
+   "title": "Solar System & Space | Advanced Interactive Study Guide | Science | Grades 7-9",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Astronomy"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Launch your students into an exploration of our solar system and beyond with this comprehensive digital study guide! Students journey through the planets, moons, asteroids, the Sun, and the vastness of space through seven interactive tabs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbe95aa60ba7af73ed9a1a"
+    }
+   ],
+   "tags": [
+    "solar system and space",
+    "printable",
+    "study guide",
+    "science",
+    "astronomy",
+    "middle school",
+    "high school",
+    "advanced interactive study guide"
+   ]
+  },
+  {
+   "id": "solar-system-space-jeopardy",
+   "title": "Solar System & Space Jeopardy | Space Edition | Grade 6",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Astronomy"
+   ],
+   "grades": [
+    "6"
+   ],
+   "grade_band": "6",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Engage Your Students with a Fast-Paced Solar System & Space Review Game They Will Love!",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/solar-system-space-jeopardy-space-edition-grade-6/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adaa0864f629898ea7c5643"
+    }
+   ],
+   "tags": [
+    "solar system and space jeopardy",
+    "science game",
+    "review game",
+    "science",
+    "astronomy",
+    "middle school",
+    "space edition",
+    "solar system"
+   ]
+  },
+  {
+   "id": "solar-system-picture-flashcards-and-image-investigation",
+   "title": "Solar System and Space Picture Flashcards with Image Investigation Printable | 28 NASA Picture Cards, Quiz and Worksheets | Grades 4-8",
+   "subject": "science",
+   "topics": [],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "4-8",
+   "types": [],
+   "summary": "Solar System and Space Exploration Picture Flashcards plus an eight-sheet Image Investigation printable with its own teacher answer key. Students study NASA pictures on interactive flashcards, then examine eight NASA images on worksheets and answer evidence questions about each one.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/SolarSystemPictureFlashcardsImageInvestigation"
+    }
+   ],
+   "tags": [
+    "flashcards",
+    "solar system",
+    "image analysis",
+    "space science",
+    "nasa images"
+   ]
+  },
+  {
+   "id": "solar-system-jeopardy",
+   "title": "Solar System Jeopardy",
+   "subject": "science",
+   "topics": [],
+   "grades": [],
+   "grade_band": null,
+   "types": [],
+   "summary": "An interactive Jeopardy-style review game covering the solar system, planets, moons, stars, space exploration, and astronomy vocabulary. Thirty clues across six categories, with an automatic scoreboard and two Daily Doubles.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/Solar-System-Jeopardy"
+    }
+   ],
+   "tags": [
+    "sun",
+    "planets",
+    "solar system",
+    "astronomy",
+    "middle school",
+    "elementary",
+    "space science",
+    "jeopardy"
+   ]
+  },
+  {
+   "id": "solar-system-reading-comprehension",
+   "title": "Solar System Reading Comprehension Passages | 6th Grade Science Solar System Project",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Astronomy"
+   ],
+   "grades": [
+    "6"
+   ],
+   "grade_band": "6",
+   "types": [
+    "Reading Passages",
+    "Printables",
+    "Interactives"
+   ],
+   "summary": "Ten illustrated reading passages that carry students through the history of solar system exploration - one discovery per passage - told through diaries, newspaper reports, historical fiction, and personal letters.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbb40b6bc1549534e750b3"
+    }
+   ],
+   "tags": [
+    "solar system reading comprehension passages",
+    "reading comprehension",
+    "reading passages",
+    "science",
+    "astronomy",
+    "middle school",
+    "solar system",
+    "printable"
+   ]
+  },
+  {
+   "id": "space-exploration-vocab-trainer",
+   "title": "Space Exploration Vocab Trainer | Astronomy Vocabulary Game | Grades 5-8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Astronomy"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Activities",
+    "Printables",
+    "Assessments"
+   ],
+   "summary": "Blast off to the Astronaut Training Academy! In this engaging digital vocabulary trainer, students master 24 essential space exploration and astronomy terms while progressing from Cadet to certified Mission Specialist.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae19c8fc4475f857a5b27a0"
+    }
+   ],
+   "tags": [
+    "space exploration vocab trainer",
+    "science game",
+    "game",
+    "science",
+    "astronomy",
+    "upper elementary",
+    "middle school",
+    "astronomy vocabulary game"
+   ]
+  },
+  {
+   "id": "rocket-science-jeopardy",
+   "title": "Space Jeopardy: Rocket Science Edition | Interactive Space Science Review Game | Grade 6",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Astronomy"
+   ],
+   "grades": [
+    "6"
+   ],
+   "grade_band": "6",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Blast Off with an Epic Space Science Review Game Your Students Will Love!",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbb3e0c3bf11774c572f75"
+    }
+   ],
+   "tags": [
+    "space jeopardy",
+    "science game",
+    "review game",
+    "science",
+    "astronomy",
+    "middle school",
+    "jeopardy review game",
+    "space science"
+   ]
+  },
+  {
+   "id": "states-of-matter-explorer",
+   "title": "States of Matter Explorer | Interactive Digital Science Activity | Grades 2-4",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "2",
+    "3",
+    "4"
+   ],
+   "grade_band": "2-4",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Bring science to life with this interactive States of Matter Explorer! Students discover solids, liquids, and gases through engaging learning cards with particle diagrams, explore how matter changes states (melting, freezing, evaporation, condensation), and test their knowledge with a practice game...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbe881e803b84a370664c0"
+    }
+   ],
+   "tags": [
+    "states of matter explorer",
+    "quiz",
+    "printable",
+    "science",
+    "physical science",
+    "early elementary",
+    "upper elementary",
+    "states of matter"
+   ]
+  },
+  {
+   "id": "states-of-matter-particle-lab",
+   "title": "States of Matter Particle Lab | Solids Liquids Gases | Grades 3-5",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "3-5",
+   "types": [
+    "Games",
+    "Activities",
+    "Interactives"
+   ],
+   "summary": "States of Matter Particle Lab is an interactive lesson on solids, liquids, gases and phase changes in one file. Students read about particle behavior, change the temperature of five materials and watch the particles respond, then apply what they saw in scenario questions, a quiz and a printable...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/StatesOfMatterParticleLab"
+    }
+   ],
+   "tags": [
+    "states of matter particle lab",
+    "science game",
+    "simulation",
+    "science",
+    "physical science",
+    "upper elementary",
+    "science simulation solids",
+    "liquids"
+   ]
+  },
+  {
+   "id": "states-of-matter-vocab-trainer",
+   "title": "States of Matter Vocabulary Trainer | Term Cards, Matching, Reading Passage and Test | Grades 4 to 7",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ],
+   "grade_band": "4-7",
+   "types": [
+    "Activities",
+    "Printables",
+    "Assessments"
+   ],
+   "summary": "A vocabulary trainer for a unit on States of Matter. Students read 28 term cards, match terms to definitions, fill 12 blanks in a reading passage and finish with a 20-question test that marks itself and explains every answer.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/states-of-matter-vocabulary-trainer-term-cards-matching-reading-passage-and-test-grades-4-to-7/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad92beae882d5ae57557439"
+    }
+   ],
+   "tags": [
+    "states of matter vocabulary trainer",
+    "vocabulary",
+    "reading passages",
+    "science",
+    "physical science",
+    "upper elementary",
+    "middle school",
+    "states of matter vocabulary"
+   ]
+  },
+  {
+   "id": "survive-on-an-island",
+   "title": "Survive on an Island | 3D Project Game | Grades 4-7",
+   "subject": "science",
+   "topics": [],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ],
+   "grade_band": "4-7",
+   "types": [],
+   "summary": "Explore Lookout ridge and spend materials to raise the signal flag.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/SurviveOnAnIsland"
+    }
+   ],
+   "tags": [
+    "stem project",
+    "science game",
+    "project based",
+    "grades 4-7",
+    "island survival"
+   ]
+  },
+  {
+   "id": "tampa-bay-climate-risk-explorer",
+   "title": "Tampa Bay Climate Risk Explorer | Interactive GIS Storm Surge Mapping Activity | Grades 6-10",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science",
+    "War & Conflict"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "grade_band": "6-10",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Bring real-world climate science into your classroom! This interactive GIS mapping activity lets students explore Tampa Bay's vulnerability to hurricanes and storm surge using actual LiDAR terrain data from Hillsborough County, Florida.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/tampa-bay-climate-risk-explorer-interactive-gis-storm-surge-mapping-activity-grades-6-10/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada68d181922d78c76481f3"
+    }
+   ],
+   "tags": [
+    "tampa bay climate risk explorer",
+    "explorer",
+    "interactive",
+    "science",
+    "earth science",
+    "middle school",
+    "high school",
+    "military history"
+   ]
+  },
+  {
+   "id": "ten-animal-life-cycles-field-guide",
+   "title": "Ten Animal Life Cycles Field Guide | Illustrated Posters and Worksheets | Grades 3-5",
+   "subject": "science",
+   "topics": [],
+   "grades": [
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "3-5",
+   "types": [],
+   "summary": "Ten Animal Life Cycles is a printable, illustrated field guide for students in Grades 3 to 5. It pairs natural-history posters with student field sheets so children can observe, sequence, and compare how different animals grow and change.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/TenAnimalLifeCyclesFieldGuide"
+    }
+   ],
+   "tags": [
+    "science worksheets",
+    "grades 3-5",
+    "field guide",
+    "animal science",
+    "life cycles"
+   ]
+  },
+  {
+   "id": "life-of-a-star",
+   "title": "The Life of a Star - Interactive Astronomy Lab and Star Classification - Science Grades 6-10",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Astronomy"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "grade_band": "6-10",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "The Life of a Star lets students explore a real catalogue of 117,621 stars and discover for themselves why the night sky looks the way it does.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/LifeOfAStar"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0e245256004766c40e8d5"
+    }
+   ],
+   "tags": [
+    "the life of a star",
+    "virtual lab",
+    "interactive",
+    "science",
+    "astronomy",
+    "middle school",
+    "high school",
+    "stars"
+   ]
+  },
+  {
+   "id": "tornado-destruction-simulator",
+   "title": "Tornado Destruction Simulator - Interactive 3D Weather Science Activity | Grades 6-12",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science",
+    "Physical Science"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assessments"
+   ],
+   "summary": "A 3D tornado activity for weather science. A tornado crosses a small town while students set its strength on the Enhanced Fujita scale, from EF0 to EF5, and watch which buildings, cars and trees it damages. Learn, assessment, teacher and printable tabs come with it.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/TornadoDestructionSimulator"
+    },
+    {
+     "store": "etsy",
+     "url": "https://www.etsy.com/listing/4602625822"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/tornado-destruction-3d-explorer-ef-scale-weather-science-activity-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad9298f79b726e351239ff0"
+    }
+   ],
+   "tags": [
+    "tornado destruction 3d explorer",
+    "printable",
+    "explorer",
+    "science",
+    "earth science",
+    "middle school",
+    "high school",
+    "tornadoes"
+   ]
+  },
+  {
+   "id": "triceratops-3d-explorer",
+   "title": "Triceratops 3D Explorer | Dinosaur Anatomy and Fossils | Grades 4-8",
+   "subject": "science",
+   "topics": [],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "4-8",
+   "types": [],
+   "summary": "Triceratops 3D Explorer is an interactive dinosaur anatomy and fossil resource for grades 4-8. Students turn and zoom a three-dimensional life model, examine a scan of the Smithsonian's mounted composite cast, and use the accompanying pages to study body parts, scale, and fossil evidence.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/Triceratops3DExplorer"
+    }
+   ],
+   "tags": [
+    "dinosaurs",
+    "fossils",
+    "triceratops",
+    "grades 4-8",
+    "dinosaur anatomy"
+   ]
+  },
+  {
+   "id": "united-states-ecosystems-learning-resource",
+   "title": "United States Ecosystems Learning Resource",
+   "subject": "science",
+   "topics": [],
+   "grades": [],
+   "grade_band": null,
+   "types": [],
+   "summary": "The major ecological regions of the United States on a map students can explore: deserts, forests, wetlands, tundra and grasslands, with what lives in each one and why it can.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/UnitedStatesEcosystemsLearningResource"
+    }
+   ],
+   "tags": [
+    "learning",
+    "teachers",
+    "classroom",
+    "environment",
+    "teaching resources"
+   ]
+  },
+  {
+   "id": "energy-production-systems-map-resource",
+   "title": "US Energy Production Hubs Map | Interactive Power Plant Geography | Coal, Gas, Nuclear, Oil Locations | Grades 6-10",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology",
+    "Physical Science"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "grade_band": "6-10",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Explore the geography of American energy production with this interactive map resource! Students discover where our electricity comes from by clicking on real power plants and extraction hubs across the United States, connecting location to energy type and understanding regional energy patterns.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbbc0598528559097519af"
+    }
+   ],
+   "tags": [
+    "us energy production hubs map",
+    "interactive map",
+    "interactive",
+    "science",
+    "biology",
+    "middle school",
+    "high school",
+    "coal"
+   ]
+  },
+  {
+   "id": "green-energy-across-the-us-resource",
+   "title": "US Renewable Energy Map | Green Power Geography Explorer | Grades 6-10",
+   "subject": "science",
+   "topics": [
+    "Earth Science",
+    "Environment & Ecology",
+    "Geography"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "grade_band": "6-10",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Exam, Quiz, Tests"
+   ],
+   "summary": "An interactive renewable energy resource in one HTML file, with five energy-type lessons, a map of 30 US renewable energy sites, a 17-event history timeline, a quiz, a Teacher HQ lesson plan and a printable assessment with an answer key. An internet connection is required.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/USRenewableEnergyMapGreenPowerGeographyExplorer"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/cH82Q"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/us-renewable-energy-map-green-power-geography-explorer-solar-wind-hydro-geothermal-grades-6-10/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad928c03a17b68a49570f95"
+    }
+   ],
+   "tags": [
+    "us renewable energy map",
+    "interactive map",
+    "quiz",
+    "earth science",
+    "science",
+    "middle school",
+    "high school",
+    "renewable energy"
+   ]
+  },
+  {
+   "id": "water-rocket-engineering-project",
+   "title": "Water Rocket Engineering Project - Forces and Motion Digital Activity | Grades 3-6",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physics",
+    "Engineering"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "grade_band": "3-6",
+   "types": [
+    "Interactives",
+    "Laboratory",
+    "Printables"
+   ],
+   "summary": "Students become rocket engineers. They research, design, build, launch and analyze water rockets, and they learn Newton's Laws of Motion by testing their own rocket designs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/WaterRocketEngineeringProject"
+    },
+    {
+     "store": "etsy",
+     "url": "https://www.etsy.com/listing/4602613730"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/water-rocket-engineering-project-forces-and-motion-grades-3-6/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6acaae1034e0a54429cf41c1"
+    }
+   ],
+   "tags": [
+    "water rocket engineering project",
+    "virtual lab",
+    "printable",
+    "science",
+    "physics",
+    "upper elementary",
+    "middle school",
+    "water rocket"
+   ]
+  },
+  {
+   "id": "water-treatment-plant-simulator",
+   "title": "Water Treatment Plant Simulator Game | Water Pollution and Drinking Water | Grades 6-9",
+   "subject": "science",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "6-9",
+   "types": [],
+   "summary": "Put your students in charge of a town's drinking water for seven days. They run a 3D water treatment plant, read real water quality numbers, and set six controls. When they get it wrong, the town gets a boil water notice.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/WaterTreatmentPlantSimulator"
+    }
+   ],
+   "tags": [
+    "middle school",
+    "simulation",
+    "water treatment",
+    "water pollution",
+    "science game",
+    "environmental sci"
+   ]
+  },
+  {
+   "id": "waves-sound-and-light-vocab-trainer",
+   "title": "Waves, Sound and Light Vocabulary Trainer | Term Cards, Matching, Reading Passage and Test | Grades 6 to 8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Physics"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "6-8",
+   "types": [
+    "Activities",
+    "Printables",
+    "Assessments"
+   ],
+   "summary": "A vocabulary trainer for a unit on Waves, Sound and Light. Students read 30 term cards, match terms to definitions, fill 12 blanks in a reading passage and finish with a 20-question test that marks itself and explains every answer.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/waves-sound-and-light-vocabulary-trainer-term-cards-matching-reading-passage-and-test-grades-6-to-8/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad92c8bf0134ef8136ec3e5"
+    }
+   ],
+   "tags": [
+    "waves sound and light vocabulary trainer",
+    "vocabulary",
+    "reading passages",
+    "science",
+    "physics",
+    "middle school",
+    "waves sound and light vocabulary",
+    "science vocabulary"
+   ]
+  },
+  {
+   "id": "weather-climate-advanced-study-guide",
+   "title": "Weather & Climate | Advanced Interactive Study Guide | Earth Science | Grades 7-9",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Bring the atmosphere to life in your science classroom with this comprehensive digital study guide on weather and climate! Students explore atmospheric layers, weather patterns, cloud types, severe weather, climate zones, and the water cycle through seven interactive tabs.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbfec9a309133becb38baf"
+    }
+   ],
+   "tags": [
+    "weather and climate",
+    "printable",
+    "study guide",
+    "science",
+    "earth science",
+    "middle school",
+    "high school",
+    "advanced interactive study guide"
+   ]
+  },
+  {
+   "id": "weather-climate-vocab-trainer",
+   "title": "Weather & Climate Vocab Trainer | Earth Science Vocabulary Game | Grades 4-8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "4-8",
+   "types": [
+    "Activities",
+    "Printables",
+    "Assessments"
+   ],
+   "summary": "Step into the Meteorology Academy! In this engaging digital vocabulary trainer, students master 24 essential weather and climate terms while progressing from Observer to certified Meteorologist.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae19c969b6f711a10f9f453"
+    }
+   ],
+   "tags": [
+    "weather and climate vocab trainer",
+    "science game",
+    "game",
+    "science",
+    "earth science",
+    "upper elementary",
+    "middle school",
+    "earth science vocabulary game"
+   ]
+  },
+  {
+   "id": "weather-climate-bingo-game",
+   "title": "Weather and Climate Bingo Review Game",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "grade_band": "3-6",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Review a weather and climate unit with a bingo game built around the instruments, processes, and storms your students need to know. The teacher screen reads a clue, students work out the answer, and they cover the matching square on their card.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/WeatherClimateBingoGame"
+    }
+   ],
+   "tags": [
+    "weather and climate bingo review game",
+    "science game",
+    "bingo",
+    "science",
+    "earth science",
+    "upper elementary",
+    "middle school",
+    "weather"
+   ]
+  },
+  {
+   "id": "weather-and-climate-vocab-trainer",
+   "title": "Weather and Climate Vocabulary Trainer | Term Cards, Matching, Reading Passage and Test | Grades 4 to 7",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ],
+   "grade_band": "4-7",
+   "types": [
+    "Activities",
+    "Printables",
+    "Assessments"
+   ],
+   "summary": "A vocabulary trainer for a unit on Weather and Climate. Students read 29 term cards, match terms to definitions, fill 12 blanks in a reading passage and finish with an 18-question test that marks itself and explains every answer.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad92c9fc4f19fe8eb41bf34"
+    }
+   ],
+   "tags": [
+    "weather and climate vocabulary trainer",
+    "vocabulary",
+    "reading passages",
+    "science",
+    "earth science",
+    "upper elementary",
+    "middle school",
+    "weather and climate vocabulary"
+   ]
+  },
+  {
+   "id": "weather-matching-cards",
+   "title": "Weather Matching Cards - Vocabulary Card Games and Print and Cut Packet - Grades 1-4",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science"
+   ],
+   "grades": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "grade_band": "1-4",
+   "types": [
+    "Games",
+    "Activities",
+    "Printables"
+   ],
+   "summary": "A weather card game your class can play on a screen and again on paper. Four card sets move from the weather you can see, to the instruments forecasters use, to the storms that make the news, to the words behind all of it. Every activity uses the same cards, so practice carries into the next game.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/WeatherMatchingCards"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/eTSmj"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/weather-matching-cards-weather-tools-storms-and-vocabulary-grades-1-4/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0ef6caa2362e53f2680a9"
+    }
+   ],
+   "tags": [
+    "weather matching cards",
+    "science game",
+    "game",
+    "science",
+    "earth science",
+    "early elementary",
+    "upper elementary",
+    "weather cards"
+   ]
+  },
+  {
+   "id": "tahoe-wildfire-risk-explorer",
+   "title": "Wildfire Map Activity - Lake Tahoe Caldor Fire - Earth Science Grades 8-12",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science"
+   ],
+   "grades": [
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "8-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Give your students a real wildfire map and let them work out why this place burns. This explorer opens on the Sierra Nevada with every recorded fire perimeter drawn on the terrain, so students play the fire seasons forward from 2000 to the latest season and see the pattern for themselves.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/LakeTahoeWildfireRiskExplorer"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/wildfire-map-activity-lake-tahoe-caldor-fire-earth-science-grades-8-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada68a03d1bed1a819a161a"
+    }
+   ],
+   "tags": [
+    "wildfire map activity",
+    "interactive map",
+    "interactive",
+    "science",
+    "earth science",
+    "middle school",
+    "high school",
+    "wildfire"
+   ]
+  },
+  {
+   "id": "yellowstone-trophic-cascades",
+   "title": "Yellowstone: Trophic Cascades | Grades 9-12",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "9-12",
+   "types": [
+    "Simulations",
+    "Interactives",
+    "Printables"
+   ],
+   "summary": "Step into the role of a park ranger and see how apex predators restore a whole ecosystem. Students experience the real story of wolves returning to Yellowstone National Park and the cascading effects that followed, from controlling elk populations to restoring river systems.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/YellowstoneTrophicCascades",
+     "free_here": true
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/8QpV7"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad784afb283e31fea8a2b8d"
+    }
+   ],
+   "tags": [
+    "yellowstone",
+    "simulation",
+    "printable",
+    "science",
+    "biology",
+    "high school",
+    "trophic cascades",
+    "wolves"
+   ]
+  }
+ ]
+}

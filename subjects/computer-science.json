@@ -1,0 +1,746 @@
+{
+ "subject": "computer-science",
+ "name": "Computer science and technology",
+ "count": 18,
+ "products": [
+  {
+   "id": "histogram-mastery12-levels",
+   "title": "12 Levels of Histogram Mastery | Data Distribution Analysis | Grades 7-12 Statistics",
+   "subject": "computer-science",
+   "topics": [],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [],
+   "summary": "Histograms in twelve steps, starting with what separates a histogram from a bar chart and ending with what the shape of a distribution actually tells you. Each level puts the same data in front of students and asks them to read it.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/HistogramMastery12Levels"
+    }
+   ],
+   "tags": [
+    "math",
+    "charts",
+    "middle school",
+    "statistics",
+    "data literacy"
+   ]
+  },
+  {
+   "id": "chart-chooser-challenge-data-visualization-practice-game",
+   "title": "Chart Chooser Challenge - Data Visualization Practice Game",
+   "subject": "computer-science",
+   "topics": [],
+   "grades": [],
+   "grade_band": null,
+   "types": [],
+   "summary": "The Chart Chooser Challenge is a hands-on, browser-based activity that helps students learn how to match the right type of graph to different kinds of data. Students are shown realistic scenarios - like survey results or measurement tables - and asked to choose the best visual representation.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ChartChooserChallengeDataVisualizationPracticeGame"
+    }
+   ],
+   "tags": [
+    "resources",
+    "game",
+    "teaching resources",
+    "learning resources",
+    "data literacy"
+   ]
+  },
+  {
+   "id": "data-literacy12-levels-bundle",
+   "title": "Data Literacy in 12 Levels Bundle - 8 Activities - Grades 5-12",
+   "subject": "computer-science",
+   "topics": [],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "5-12",
+   "types": [],
+   "summary": "Eight data literacy activities, each built as twelve levels that take students from the basic idea to the ways it can mislead. In six of them students flip between a weak and a strong version of the same data and read the rule that explains the difference.",
+   "free": false,
+   "price_usd": 26.99,
+   "bundle": true,
+   "includes": [
+    "Scatter Plots in 12 Levels | Correlation and Data Analysis | Grades 7-12",
+    "Line Charts in 12 Levels | Trend and Data Literacy Activity | Grades 6-12",
+    "Pie and Donut Charts in 12 Levels | Data Literacy Activity | Grades 5-12",
+    "12 Levels of Histogram Mastery | Data Distribution Analysis | Grades 7-12 Statistics",
+    "Master Heatmaps in 12 Progressive Levels | Data Literacy Visual Guide | Grades 6-12",
+    "Sankey Diagrams in 12 Levels | Flow and Data Literacy | Grades 8-12",
+    "Machine Learning in 12 Levels | Model Behavior and Data Literacy | Grades 8-12",
+    "How the Internet Works in 12 Levels | Computer Science | Grades 6-12"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/DataLiteracy12LevelsBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "computer science",
+    "statistics",
+    "data literacy",
+    "graphs and charts"
+   ]
+  },
+  {
+   "id": "deck-builder-construction-math-simulator",
+   "title": "Deck Builder Construction Math Simulator | The Henderson Project | Measurement, Fractions, Pythagorean Theorem | CTE Construction Math | Interactive Learning Resource | Grades 7-12",
+   "subject": "computer-science",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Games",
+    "Simulations",
+    "Interactives"
+   ],
+   "summary": "Take your students through 6 lessons of authentic deck-building work. They will measure, cut, and assemble for the Henderson family across six chapters: a tutorial deck to learn the saw, a picture-frame border that introduces 45 degree miters, a stair stringer that puts the Pythagorean theorem on a...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/fix-deck-builder-construction-math-simulator-the-henderson-project-measurement-fractions-pythagorean-theorem-cte-construction-math-interactive-learning-resource-grades-7-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada699936355af6cc39bfc6"
+    }
+   ],
+   "tags": [
+    "deck builder construction math simulator",
+    "math game",
+    "simulation",
+    "math",
+    "middle school",
+    "high school",
+    "the henderson project",
+    "measurement"
+   ]
+  },
+  {
+   "id": "eyes-on-earth-modisexplorer",
+   "title": "Eyes on Earth: MODIS Satellite Data Explorer - 19 NASA Datasets and a Live Map - Earth Science Grades 6-8",
+   "subject": "computer-science",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "6-8",
+   "types": [],
+   "summary": "Two NASA satellites have been photographing the whole planet, over and over, since the year 2000. The camera is called MODIS, and it does not just take pictures. It measures how green the forests are, how hot the ground is, where the snow sits and where the fires burn.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/EyesOnEarthMODISExplorer"
+    }
+   ],
+   "tags": [
+    "science",
+    "middle school",
+    "earth science",
+    "data literacy",
+    "satellite data"
+   ]
+  },
+  {
+   "id": "12-levels-of-the-internet-explained",
+   "title": "How the Internet Works in 12 Levels | Computer Science | Grades 6-12",
+   "subject": "computer-science",
+   "topics": [
+    "Science"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Students think the internet is in the air. It is mostly glass cable lying on the floor of the Atlantic. Twelve levels take a class from that everyday illusion down to the machinery underneath, one idea at a time.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/HowTheInternetWorks12Levels"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/how-the-internet-works-in-12-levels-computer-science-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adaa09d8caa211a01b7e365"
+    }
+   ],
+   "tags": [
+    "how the internet works in 12 levels",
+    "interactive",
+    "science",
+    "computer science",
+    "middle school",
+    "high school",
+    "networking",
+    "internet"
+   ]
+  },
+  {
+   "id": "12-levels-of-line-charts-data-literacy",
+   "title": "Line Charts in 12 Levels | Trend and Data Literacy Activity | Grades 6-12",
+   "subject": "computer-science",
+   "topics": [
+    "Reading & Literacy",
+    "Science"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A student can read the numbers off a line chart and still be fooled by it. This activity walks through twelve things a line chart can do to the truth, one level at a time.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/LineCharts12Levels"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0c7a3f6ca553da74ffab5"
+    }
+   ],
+   "tags": [
+    "line charts in 12 levels",
+    "interactive",
+    "reading",
+    "literacy",
+    "middle school",
+    "high school",
+    "data analysis",
+    "statistics"
+   ]
+  },
+  {
+   "id": "machine-learning-concepts-resource-pack",
+   "title": "Machine Learning Concepts Resource Pack",
+   "subject": "computer-science",
+   "topics": [],
+   "grades": [],
+   "grade_band": null,
+   "types": [],
+   "summary": "A list of 16 resources for learning machine learning, grouped in the order to work through them, each with a line on what it is good for and what it costs.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MachineLearningConceptsResourcePack",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "data science",
+    "free resources",
+    "computer science",
+    "ai",
+    "machine learning"
+   ]
+  },
+  {
+   "id": "machine-learning-in-12-levels",
+   "title": "Machine Learning in 12 Levels | Model Behavior and Data Literacy | Grades 8-12",
+   "subject": "computer-science",
+   "topics": [
+    "Science"
+   ],
+   "grades": [
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "8-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Machine Learning in 12 Levels teaches how machine learning actually works by putting students at the controls. Instead of reading slides about overfitting or gradient descent, students drag a slider and watch a real model recompute in front of them, with a live data readout showing exactly what...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MachineLearning12Levels"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae5f71869d6db59ccc76ad0"
+    }
+   ],
+   "tags": [
+    "machine learning in 12 levels",
+    "interactive",
+    "science",
+    "middle school",
+    "high school",
+    "data science",
+    "statistics",
+    "machine learning"
+   ]
+  },
+  {
+   "id": "12-levels-of-heatmaps",
+   "title": "Master Heatmaps in 12 Progressive Levels | Data Literacy Visual Guide | Grades 6-12",
+   "subject": "computer-science",
+   "topics": [
+    "Science"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Heatmaps in twelve steps, from why colour encodes a number better than a table does to the choices that make a heatmap mislead. Each level shows the same data and asks students to read it.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MasterHeatmaps12Levels"
+    }
+   ],
+   "tags": [
+    "master heatmaps in 12 progressive levels",
+    "quiz",
+    "printable",
+    "science",
+    "middle school",
+    "high school",
+    "visualization",
+    "statistics"
+   ]
+  },
+  {
+   "id": "12-levels-of-pie-charts",
+   "title": "Pie and Donut Charts in 12 Levels | Data Literacy Activity | Grades 5-12",
+   "subject": "computer-science",
+   "topics": [
+    "Science"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "5-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Everyone knows how to make a pie chart. Almost nobody knows when not to. This activity works through twelve decisions behind a part-to-whole chart, one level at a time.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/PieCharts12Levels"
+    }
+   ],
+   "tags": [
+    "pie and donut charts in 12 levels",
+    "interactive",
+    "science",
+    "upper elementary",
+    "middle school",
+    "high school",
+    "data analysis",
+    "statistics"
+   ]
+  },
+  {
+   "id": "revolutionary-war-themed-typing-game",
+   "title": "Revolutionary War Typing Game | American History Vocabulary | Keyboarding Practice | Grades 5-9",
+   "subject": "computer-science",
+   "topics": [
+    "Typing",
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "5-9",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Travel through the American Revolution while building typing skills! This unique educational game combines keyboarding practice with Revolutionary War vocabulary. Students type historical terms to defend their position as they progress through the years 1775-1787.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adad2e64b9ff2e3ba50399f"
+    }
+   ],
+   "tags": [
+    "revolutionary war typing game",
+    "typing game",
+    "typing practice",
+    "typing",
+    "keyboarding",
+    "upper elementary",
+    "middle school",
+    "high school"
+   ]
+  },
+  {
+   "id": "robot-factory-malfunction",
+   "title": "Robot Factory Malfunction | Computer Science | Digital Escape Room | Grades 4-8",
+   "subject": "computer-science",
+   "topics": [
+    "Math",
+    "Science"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "4-8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Emergency at the robot factory! Students must use their programming and robotics knowledge to fix malfunctioning robots and restore production.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbbb72a82a9843a4e7ae09"
+    }
+   ],
+   "tags": [
+    "robot factory malfunction",
+    "math game",
+    "escape room",
+    "math",
+    "science",
+    "upper elementary",
+    "middle school",
+    "game"
+   ]
+  },
+  {
+   "id": "12-levels-of-sankey-diagrams",
+   "title": "Sankey Diagrams in 12 Levels | Flow and Data Literacy | Grades 8-12",
+   "subject": "computer-science",
+   "topics": [
+    "Math",
+    "Science"
+   ],
+   "grades": [
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "8-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A budget, an energy system and a sales funnel are all the same picture: something goes in, and less of it comes out somewhere else. This activity teaches the diagram that shows exactly where it went.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/SankeyDiagrams12Levels"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/zsB1t"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adabca6dd03300c6f5dee17"
+    }
+   ],
+   "tags": [
+    "sankey diagrams in 12 levels",
+    "interactive",
+    "math",
+    "science",
+    "middle school",
+    "high school",
+    "data analysis",
+    "statistics"
+   ]
+  },
+  {
+   "id": "12-levels-of-scatter-plots-data-literacy",
+   "title": "Scatter Plots in 12 Levels | Correlation and Data Analysis | Grades 7-12",
+   "subject": "computer-science",
+   "topics": [
+    "Science"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Correlation does not imply causation is easy to say and hard to feel. This activity makes students see it. Twelve levels build from two variables on a grid up to the four datasets that share the same summary statistics and look nothing alike.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ScatterPlots12Levels"
+    }
+   ],
+   "tags": [
+    "scatter plots in 12 levels",
+    "interactive",
+    "science",
+    "middle school",
+    "high school",
+    "statistics",
+    "data literacy",
+    "correlation"
+   ]
+  },
+  {
+   "id": "space-science-themed-typing-practice-game",
+   "title": "Space Science Typing Game | Astronomy Vocabulary Practice | Keyboarding Skills | Grades 4-9",
+   "subject": "computer-science",
+   "topics": [
+    "Typing",
+    "Science",
+    "Astronomy"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "4-9",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Galactic Typer: Deep Space Edition is a keyboarding game with an astronomy vocabulary list. Students type each word correctly to destroy the debris falling toward their station. One file, opened in a browser, with no install.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/lWEme"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/space-science-typing-game-astronomy-vocabulary-practice-keyboarding-skills-grades-4-9-3/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad9250a4be486b2815c6ff4"
+    }
+   ],
+   "tags": [
+    "space science typing game",
+    "typing game",
+    "typing practice",
+    "typing",
+    "keyboarding",
+    "upper elementary",
+    "middle school",
+    "high school"
+   ]
+  },
+  {
+   "id": "sql-learning-hub",
+   "title": "SQL Learning Hub | Interactive Diagrams and Curated Video Library | Professional Development",
+   "subject": "computer-science",
+   "topics": [
+    "Science"
+   ],
+   "grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "9-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Give yourself or your students a head start with SQL - the universal language of data. This SQL Learning Hub is a familiarization resource that combines original interactive diagrams with a curated library of expert videos and links, all in one convenient file.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/SQLLearningHub"
+    }
+   ],
+   "tags": [
+    "sql learning hub",
+    "interactive",
+    "science",
+    "high school",
+    "coding",
+    "sql",
+    "data literacy",
+    "professional development"
+   ]
+  },
+  {
+   "id": "the-learning-machine-neural-network",
+   "title": "The Learning Machine | Build a Neural Network Step by Step | Grades 9-12",
+   "subject": "computer-science",
+   "topics": [
+    "Science"
+   ],
+   "grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "9-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Students do not read about neural networks here, they build one. The Learning Machine starts with a single artificial neuron and works all the way up to a digit classifier the student trains and then writes into by hand, watching the network read their handwriting live.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/TheLearningMachine"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae5f721daae4d8e1e3d82da"
+    }
+   ],
+   "tags": [
+    "the learning machine",
+    "printable",
+    "interactive",
+    "science",
+    "high school",
+    "coding",
+    "machine learning",
+    "neural network"
+   ]
+  }
+ ]
+}

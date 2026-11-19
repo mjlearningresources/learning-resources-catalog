@@ -1,0 +1,659 @@
+{
+ "subject": "geography",
+ "name": "Geography and maps",
+ "count": 17,
+ "products": [
+  {
+   "id": "bible-study-maps-bundle",
+   "title": "Bible Study Maps Bundle - 8 Interactive Maps - Grades 7-12",
+   "subject": "geography",
+   "topics": [],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [],
+   "summary": "Eight interactive study maps of the Bible, in Bible order, from the road out of Egypt to the seven churches of Revelation. Each map opens in a browser on a computer, a Chromebook or a tablet.",
+   "free": false,
+   "price_usd": 9.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/BibleStudyMapsBundle"
+    }
+   ],
+   "tags": [
+    "christian school",
+    "new testament",
+    "sunday school",
+    "old testament",
+    "scripture study",
+    "printable guide",
+    "bible curriculum",
+    "bible geography"
+   ]
+  },
+  {
+   "id": "australia-biomes-explorer",
+   "title": "Biomes of Australia | Interactive Map Explorer | Geography | Grades 4-8",
+   "subject": "geography",
+   "topics": [
+    "Science",
+    "Biology",
+    "Geography"
+   ],
+   "grades": [
+    "5"
+   ],
+   "grade_band": "5",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Biomes of Australia is a no-prep, single-file interactive map that brings the continent's natural regions to life. Every colored area is a real biome, drawn straight from open scientific ecoregion data, so students see exactly where each ecosystem sits across Australia.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/BiomesOfAustralia"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/ktzrd"
+    }
+   ],
+   "tags": [
+    "interactive map",
+    "quiz",
+    "science",
+    "biology",
+    "upper elementary",
+    "explorer",
+    "life science",
+    "interactive"
+   ]
+  },
+  {
+   "id": "geoflip-asia-countries-capitals",
+   "title": "GeoFlip Asia Countries & Capitals | Map Quiz Game | Geography Activity | Grades 5-8",
+   "subject": "geography",
+   "topics": [
+    "Geography"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Interactives",
+    "Exam, Quiz, Tests",
+    "Activities"
+   ],
+   "summary": "Can your students find Mongolia on a blank map of Asia, or name the capital of Vietnam? GeoFlip: Asia Countries and Capitals turns all 49 Asian countries and their capital cities into a geography game students actually want to keep playing.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/GeoFlipAsiaCountriesCapitals"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada6988fff0ea46d0959d8b"
+    }
+   ],
+   "tags": [
+    "geoflip asia countries and capitals",
+    "geography game",
+    "game",
+    "geography",
+    "social studies",
+    "upper elementary",
+    "middle school",
+    "asia"
+   ]
+  },
+  {
+   "id": "geo-flip-usstates-map-quiz-game",
+   "title": "GeoFlip: U.S. States Map Quiz Game",
+   "subject": "geography",
+   "topics": [],
+   "grades": [],
+   "grade_band": null,
+   "types": [],
+   "summary": "An interactive geography game designed to sharpen U.S. map skills, boost memory, and make learning fun. GeoFlip: U.S. States is a downloadable HTML file you can run instantly in your browser - no setup, no installs. Perfect for classrooms, homeschoolers, or self-learners.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/GeoFlipUSStatesMapQuizGame"
+    }
+   ],
+   "tags": [
+    "game",
+    "geography",
+    "usa",
+    "resource",
+    "teaching resource"
+   ]
+  },
+  {
+   "id": "hawaiian-islands-biome-atlas",
+   "title": "Hawaiian Islands: A Biome Atlas | Printable Relief Map | Grades 5-9",
+   "subject": "geography",
+   "topics": [
+    "Geography"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "5-9",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Take your students on a journey across the Hawaiian archipelago, where wind meets mountain to shape the islands' climate. This printable biome atlas maps real satellite elevation data across five island portraits, showing how trade winds create rainforest on one side of a ridge and golden dry...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada73ca895fa5460c34d283"
+    }
+   ],
+   "tags": [
+    "hawaiian islands",
+    "interactive map",
+    "printable",
+    "geography",
+    "social studies",
+    "upper elementary",
+    "middle school",
+    "high school"
+   ]
+  },
+  {
+   "id": "italy-land-and-table-relief-map",
+   "title": "Land and Table Italy's Regions - Interactive Relief Map of Food Geography - Grades 6-12",
+   "subject": "geography",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [],
+   "summary": "Land and Table: Italy's Regions pairs Italy's real terrain with the food each region grows, so students see why geography decides what ends up on the plate. A relief map of eight central and southern regions flies down onto each one, and a dossier explains how the land shaped the food.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ItalyLandAndTableReliefMap"
+    }
+   ],
+   "tags": [
+    "map",
+    "italy",
+    "geography",
+    "world cultures",
+    "food geography"
+   ]
+  },
+  {
+   "id": "geography-of-brazil",
+   "title": "Map of Brazil Geography Game | States, the Amazon, Rivers and Landmarks | Grades 6-12",
+   "subject": "geography",
+   "topics": [
+    "Geography"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Take your students on a tour of Brazil on a real interactive map, one state at a time. They explore all 26 states and the Federal District with true borders, flip a card on each to see its capital, population, languages, and a memorable fact, then trace the Amazon and the great rivers, cross the...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MapOfBrazilGeographyGame"
+    }
+   ],
+   "tags": [
+    "map of brazil geography game",
+    "geography game",
+    "game",
+    "geography",
+    "social studies",
+    "middle school",
+    "high school",
+    "brazil"
+   ]
+  },
+  {
+   "id": "geography-of-canada",
+   "title": "Map of Canada Geography Game | Provinces, Territories, Rivers and Landmarks | Grades 6-12",
+   "subject": "geography",
+   "topics": [
+    "Geography"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Take your students on a tour of Canada on a real interactive map, one province and territory at a time. They explore all 13 provinces and territories with true borders, flip a card on each to see its capital, population, languages, and a memorable fact, then trace the rivers, cross the mountains,...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MapOfCanadaGeographyGame"
+    }
+   ],
+   "tags": [
+    "map of canada geography game",
+    "geography game",
+    "game",
+    "geography",
+    "social studies",
+    "middle school",
+    "high school",
+    "canada"
+   ]
+  },
+  {
+   "id": "geography-of-germany",
+   "title": "Map of Germany Geography Game | States, Rivers, Mountains and Landmarks | Grades 6-12",
+   "subject": "geography",
+   "topics": [
+    "Geography"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Take your students on a tour of Germany on a real interactive map, one state at a time. They explore all 16 states with true borders, flip a card on each to see its capital, population, languages, and a memorable fact, then trace the great rivers, climb the mountain ranges, and visit dozens of...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MapOfGermanyGeographyGame"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbbb9431eb64b697bf4b2d"
+    }
+   ],
+   "tags": [
+    "map of germany geography game",
+    "geography game",
+    "game",
+    "geography",
+    "social studies",
+    "middle school",
+    "high school",
+    "germany"
+   ]
+  },
+  {
+   "id": "geography-of-mexico",
+   "title": "Map of Mexico Geography Game | States, Rivers, Mountains and Landmarks | World Geography | Grade 6",
+   "subject": "geography",
+   "topics": [
+    "Geography"
+   ],
+   "grades": [
+    "6"
+   ],
+   "grade_band": "6",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Map of Mexico: States, Rivers, Mountains and Landmarks is a no-prep, single-file interactive geography game. Students explore all 32 Mexican states on a real map with true borders, then test themselves in four game modes.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbbbf09482cc970c12408d"
+    }
+   ],
+   "tags": [
+    "map of mexico geography game",
+    "geography game",
+    "game",
+    "geography",
+    "social studies",
+    "middle school",
+    "states",
+    "rivers"
+   ]
+  },
+  {
+   "id": "geography-of-poland",
+   "title": "Map of Poland Geography Game | Voivodeships, Rivers and Landmarks | World Geography | Grade 6",
+   "subject": "geography",
+   "topics": [
+    "Geography"
+   ],
+   "grades": [
+    "6"
+   ],
+   "grade_band": "6",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Take your students on a tour of Poland on a real interactive map, one voivodeship at a time. They explore all 16 voivodeships with true borders, flip a card on each to see its capital, population, languages, and a memorable fact, then trace the rivers, climb the Tatra Mountains, and visit dozens of...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae2fcbedb2a72322e9d0514"
+    }
+   ],
+   "tags": [
+    "map of poland geography game",
+    "geography game",
+    "game",
+    "geography",
+    "social studies",
+    "middle school",
+    "voivodeships",
+    "rivers and landmarks"
+   ]
+  },
+  {
+   "id": "geography-of-portugal",
+   "title": "Map of Portugal Geography Game | Districts, the Douro and Tagus, the Algarve Coast and Landmarks | World Geography | Grade 6",
+   "subject": "geography",
+   "topics": [
+    "Geography"
+   ],
+   "grades": [
+    "6"
+   ],
+   "grade_band": "6",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Your students will master Portugal's 18 mainland districts plus the Azores and Madeira in one class period by exploring a real map, not memorizing a list.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbbb5edd1d5d8ed954b6ca"
+    }
+   ],
+   "tags": [
+    "map of portugal geography game",
+    "geography game",
+    "game",
+    "geography",
+    "social studies",
+    "middle school",
+    "districts",
+    "the douro and tagus"
+   ]
+  },
+  {
+   "id": "spain-map-regions-landmarks",
+   "title": "Map of Spain with Regions and Landmarks | Geography Map Quiz | Grades 4-8",
+   "subject": "geography",
+   "topics": [
+    "Geography"
+   ],
+   "grades": [
+    "4"
+   ],
+   "grade_band": "4",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An interactive map of Spain your students will actually explore.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MapOfSpainRegionsAndLandmarks"
+    }
+   ],
+   "tags": [
+    "map of spain with regions and landmarks",
+    "interactive map",
+    "interactive",
+    "geography",
+    "social studies",
+    "upper elementary",
+    "geography activity",
+    "geography review"
+   ]
+  },
+  {
+   "id": "us-geoflip-mega-bundle",
+   "title": "US GeoFlip Mega Bundle - 55 Interactive Geography Map Quizzes (All 50 States, Landmarks, Parks, Rivers, Lakes and Mountains)",
+   "subject": "geography",
+   "topics": [],
+   "grades": [],
+   "grade_band": null,
+   "types": [],
+   "summary": "Most geography resources cover one state or one topic. This is the whole set. Fifty-five interactive GeoFlip map quizzes that walk students through every US state, its counties, and the country's landmarks, national parks, rivers, lakes and mountains.",
+   "free": false,
+   "price_usd": 14.99,
+   "bundle": true,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/USGeoFlipMegaBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "geography",
+    "social studies",
+    "map quiz",
+    "us geography"
+   ]
+  },
+  {
+   "id": "geoflip-world-flags",
+   "title": "World Flags Map Quiz Game - Flags of the World Geography - Grades 5-8",
+   "subject": "geography",
+   "topics": [
+    "Geography"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Interactives",
+    "Exam, Quiz, Tests",
+    "Activities"
+   ],
+   "summary": "Can your students match the flag of Kenya to its country on a world map, or name the country behind the flag of Brazil? GeoFlip: World Flags turns all 197 country flags into a geography game students actually want to keep playing.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/GeoFlipWorldFlags"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/world-flags-map-quiz-game-flags-of-the-world-geography-grades-5-8/"
+    }
+   ],
+   "tags": [
+    "world flags map quiz game",
+    "geography game",
+    "game",
+    "geography",
+    "social studies",
+    "upper elementary",
+    "middle school",
+    "countries"
+   ]
+  },
+  {
+   "id": "world-geography-map-games-bundle",
+   "title": "World Geography Map Games Bundle - 10 Games - Grades 3-12",
+   "subject": "geography",
+   "topics": [],
+   "grades": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "3-12",
+   "types": [],
+   "summary": "Ten world geography map games on real interactive maps: world flags, seas and oceans, world landmarks, the countries and capitals of Europe, Asia and Africa, and country maps of Canada, Brazil, Germany and Japan.",
+   "free": false,
+   "price_usd": 33.99,
+   "bundle": true,
+   "includes": [
+    "World Flags Map Quiz Game - Flags of the World Geography - Grades 5-8",
+    "Seas and Oceans Map Quiz Game - World Geography Activity - Grades 4-8",
+    "World Landmarks Map Quiz Game | GeoFlip | Continents Geography Activity | Grades 3-7",
+    "GeoFlip Europe Countries & Capitals | Map Quiz Game | Geography Activity | Grades 5-8",
+    "GeoFlip Asia Countries & Capitals | Map Quiz Game | Geography Activity | Grades 5-8",
+    "GeoFlip Africa Countries & Capitals | Map Quiz Game | Geography Activity | Grades 5-8",
+    "Map of Canada Geography Game | Provinces, Territories, Rivers and Landmarks | Grades 6-12",
+    "Map of Brazil Geography Game | States, the Amazon, Rivers and Landmarks | Grades 6-12",
+    "Map of Germany Geography Game | States, Rivers, Mountains and Landmarks | Grades 6-12",
+    "Map of Japan Geography Game | Prefectures, Rivers, Mountains and Landmarks | Grades 6-12"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/WorldGeographyMapGamesBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "geography",
+    "world geography",
+    "map games",
+    "countries capitals"
+   ]
+  },
+  {
+   "id": "worldle-classroom-guide",
+   "title": "Worldle Classroom Guide | Geography Lessons and Printables | Grades 4-12",
+   "subject": "geography",
+   "topics": [],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "4-12",
+   "types": [],
+   "summary": "An independent classroom lesson guide for using Worldle, the daily country shape geography game made by Teuteuf Games. This resource teaches students to use the real game's outline, distance, and direction clues. It does not include or provide access to the game.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/WorldleClassroomGuide",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "geography",
+    "printables",
+    "map skills",
+    "classroom guide",
+    "worldle"
+   ]
+  }
+ ]
+}

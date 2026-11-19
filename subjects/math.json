@@ -1,0 +1,3293 @@
+{
+ "subject": "math",
+ "name": "Math",
+ "count": 86,
+ "products": [
+  {
+   "id": "2d-and-3d-shapes-explorer",
+   "title": "2D and 3D Shapes Activity | Faces, Edges & Vertices | Geometry | Grades 2-5",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "2-5",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Make geometry hands-on with this interactive 2D and 3D Shapes Explorer! Students discover flat shapes (circles, triangles, squares, rectangles, pentagons, hexagons) and solid shapes (spheres, cubes, cylinders, cones, rectangular prisms, pyramids) through clickable learning cards, a matching game,...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae15b2eeaa0daee42202abc"
+    }
+   ],
+   "tags": [
+    "2d and 3d shapes activity",
+    "quiz",
+    "printable",
+    "math",
+    "geometry",
+    "early elementary",
+    "upper elementary",
+    "faces"
+   ]
+  },
+  {
+   "id": "grade3-general-jeopardy",
+   "title": "3rd Grade Jeopardy Review Game All Subjects End of Year | No Prep Activity",
+   "subject": "math",
+   "topics": [
+    "Games"
+   ],
+   "grades": [
+    "3"
+   ],
+   "grade_band": "3",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Review the whole year in one ready-to-play Jeopardy-style game built for 3rd grade. Just open one web file, add your teams, and project it.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0c79d701ced9a070b4fad"
+    }
+   ],
+   "tags": [
+    "math",
+    "reading",
+    "science",
+    "social studies",
+    "review game",
+    "upper elementary",
+    "no prep activity",
+    "jeopardy review game"
+   ]
+  },
+  {
+   "id": "5th-grade-divide-unit-fractions-path-game",
+   "title": "5th Grade Dividing Unit Fractions Game | Divide Unit Fractions Path | 72 On-Screen Questions",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "5"
+   ],
+   "grade_band": "5",
+   "types": [],
+   "summary": "Divide Unit Fractions Path is a Grade 5 review game for 5.NF.7. Two teams answer dividing-with-unit-fractions questions and race to connect their sides of a hexagon board. It includes 72 on-screen questions across 6 skills, and every question card has a drawn model of the math.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/5thGradeDivideUnitFractionsPathGame",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "review games",
+    "math games",
+    "printable math",
+    "math centers",
+    "dividing fractions",
+    "fraction models",
+    "unit fractions",
+    "5.nf.7"
+   ]
+  },
+  {
+   "id": "5th-grade-math-curriculum-bundle",
+   "title": "5th Grade Math Curriculum Bundle | 17 Skill Workbooks, 21 Review Games and 21 Team Flash Card Games | All 26 Common Core Standards",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "5"
+   ],
+   "grade_band": "5",
+   "types": [],
+   "summary": "5th Grade Math Curriculum Bundle brings the full Grade 5 math curriculum into one organized download. It combines 17 skill workbooks covering all 26 Common Core Grade 5 math standards with 21 review games and 21 team flash card games.",
+   "free": false,
+   "price_usd": 29.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/5thGradeMathCurriculumBundle"
+    }
+   ],
+   "tags": [
+    "common core",
+    "review games",
+    "math games",
+    "math worksheets",
+    "fractions",
+    "decimals",
+    "order of operations",
+    "teacher resources"
+   ]
+  },
+  {
+   "id": "math-jeopardy-grade5",
+   "title": "5th Grade Math Jeopardy Review Game | Multiplication, Fractions & Decimals",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "5"
+   ],
+   "grade_band": "5",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Make end-of-year and unit math review the highlight of the week with this ready-to-play Jeopardy-style game built for 5th grade. Just open one web file, add your teams, and project it.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae13b6bed9ace9b540b5b8b"
+    }
+   ],
+   "tags": [
+    "math game",
+    "review game",
+    "math",
+    "upper elementary",
+    "multiplication",
+    "fractions and decimals",
+    "fractions",
+    "decimals"
+   ]
+  },
+  {
+   "id": "5th-grade-convert-units-workbook",
+   "title": "5th Grade Measurement Conversion Workbook | Convert Units | Worked Examples and Practice",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "5"
+   ],
+   "grade_band": "5",
+   "types": [],
+   "summary": "Convert Units is a Grade 5 measurement conversion workbook for 5.MD.1. It teaches with 10 worked examples that use drawn models, sentences and calculations across their steps, then moves into guided and independent practice.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/5thGradeConvertUnitsWorkbook",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "measurement",
+    "convert units",
+    "math workbook",
+    "teacher guide",
+    "printable math",
+    "math practice",
+    "worked examples",
+    "unit conversion"
+   ]
+  },
+  {
+   "id": "addition-subtraction-bingo-game",
+   "title": "Addition and Subtraction to 20 Bingo Game - Math Facts Review",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "K",
+    "1",
+    "2"
+   ],
+   "grade_band": "K-2",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A bingo review game for addition and subtraction facts to 20, with a teacher caller screen and a student card file. Every answer from 0 to 20 is a square.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/AdditionSubtractionBingoGame"
+    }
+   ],
+   "tags": [
+    "addition and subtraction to 20 bingo game",
+    "math game",
+    "bingo",
+    "math",
+    "kindergarten",
+    "early elementary",
+    "math facts",
+    "subtraction facts"
+   ]
+  },
+  {
+   "id": "algebra-integers-jeopardy",
+   "title": "Algebra and Integers Jeopardy Review Game | Middle School Math Test Prep",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "6-8",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An interactive review game that opens in a web browser. The whole game is one HTML file: a six-category board with 30 clues on integer operations, solving equations, expressions and the coordinate plane, written for middle school.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/AlgebraIntegersJeopardy"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae5f6dc54b31472963de2b5"
+    }
+   ],
+   "tags": [
+    "algebra and integers jeopardy review game",
+    "math game",
+    "review game",
+    "math",
+    "integers",
+    "middle school math",
+    "jeopardy game",
+    "negative numbers"
+   ]
+  },
+  {
+   "id": "algebra-island-math-survival-escape",
+   "title": "Algebra Island Math Survival Escape Room | Interactive Algebra Game | Grades 6-9",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "6-9",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Wash ashore and use algebra to survive! Students play a 5-stage island escape adventure where every challenge is a real algebra problem.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adf7db70b662a2c6c429b3f"
+    }
+   ],
+   "tags": [
+    "algebra island math survival escape room",
+    "math game",
+    "escape room",
+    "math",
+    "middle school",
+    "high school",
+    "mental math",
+    "game"
+   ]
+  },
+  {
+   "id": "area-perimeter-deep-dive",
+   "title": "Area and Perimeter Deep Dive | Interactive Geometry | Grades 6-8",
+   "subject": "math",
+   "topics": [
+    "Math",
+    "Geometry"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "6-8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Lesson Plans"
+   ],
+   "summary": "An interactive geometry lesson in one HTML file with 10 tabs, one for each shape or skill. Students drag points and sliders and watch area, perimeter and the formula update as they go.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/AreaPerimeterDeepDive"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/area-activity-grades-6-8/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad925a91fb26f61800b12de"
+    }
+   ],
+   "tags": [
+    "area and perimeter deep dive",
+    "quiz",
+    "lesson",
+    "math",
+    "geometry",
+    "middle school",
+    "area and perimeter",
+    "area of triangles"
+   ]
+  },
+  {
+   "id": "area-perimeter-jeopardy-grade3",
+   "title": "Area and Perimeter Jeopardy Game | 3rd 4th Grade Math Review",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "4"
+   ],
+   "grade_band": "4",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Make area and perimeter practice something students actually look forward to - this interactive Jeopardy-style review game challenges 3rd and 4th graders to count unit squares, calculate with formulas, find missing sides, and decide when each measurement applies, all while competing for points in a...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae134a144b5c5ef89b9d9bb"
+    }
+   ],
+   "tags": [
+    "area and perimeter jeopardy game",
+    "math game",
+    "review game",
+    "math",
+    "upper elementary",
+    "area and perimeter",
+    "jeopardy review game",
+    "trivia game"
+   ]
+  },
+  {
+   "id": "area-perimeter-jeopardy-grade5",
+   "title": "Area and Perimeter Jeopardy Review Game | Math Game Grade 5",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "5"
+   ],
+   "grade_band": "5",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Make area and perimeter review genuinely fun with this ready-to-play Jeopardy-style game built for 5th grade. Just open one web file, add your teams, and project it.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae783470c567724edda1f5f"
+    }
+   ],
+   "tags": [
+    "area and perimeter jeopardy review game",
+    "math game",
+    "review game",
+    "math",
+    "upper elementary",
+    "area and perimeter",
+    "jeopardy review game",
+    "trivia game"
+   ]
+  },
+  {
+   "id": "area-perimeter-jeopardy-grade4",
+   "title": "Area and Perimeter Jeopardy Test Review Game | No Prep Activity for 4th Grade",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "4"
+   ],
+   "grade_band": "4",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Make area and perimeter review genuinely fun with this ready-to-play Jeopardy-style game built for 4th grade. Just open one web file, add your teams, and project it.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae134a8ab32f36077028fed"
+    }
+   ],
+   "tags": [
+    "area and perimeter jeopardy test review game",
+    "math game",
+    "review game",
+    "math",
+    "upper elementary",
+    "area and perimeter",
+    "jeopardy review game",
+    "trivia game"
+   ]
+  },
+  {
+   "id": "area-of-parallelogram-animated-proof",
+   "title": "Area of a Parallelogram | Animated Visual Proof | Grades 6-10",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "grade_band": "6-10",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An animated visual proof of the area formula for a parallelogram, A = base x height. Students watch a triangle cut from one side of a parallelogram slide across to form a rectangle with the same base, height and area.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/PDxrz"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adabcb597af82bdf612ae82"
+    }
+   ],
+   "tags": [
+    "area of a parallelogram",
+    "interactive",
+    "math",
+    "middle school",
+    "high school",
+    "animated visual proof",
+    "math activity"
+   ]
+  },
+  {
+   "id": "chart-chooser",
+   "title": "Chart Chooser Challenge | Data Visualization Practice Game | Grades 5-9",
+   "subject": "math",
+   "topics": [
+    "Math",
+    "Civics",
+    "American Government"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "5-9",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "The Chart Chooser Challenge is a hands-on, browser-based activity that helps students learn how to match the right type of graph to different kinds of data. Students are shown realistic scenarios - like survey results or measurement tables - and asked to choose the best visual representation.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/chart-chooser-challenge-data-visualization-practice-game-teaching-resource-grades-5-9/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada9379757b84bc188dd8b5"
+    }
+   ],
+   "tags": [
+    "chart chooser challenge",
+    "math game",
+    "game",
+    "math",
+    "civics",
+    "upper elementary",
+    "middle school",
+    "high school"
+   ]
+  },
+  {
+   "id": "circle-circumference-animated-proof",
+   "title": "Circle Circumference Animated Visual Proof | Interactive Math Activity",
+   "subject": "math",
+   "topics": [],
+   "grades": [],
+   "grade_band": null,
+   "types": [],
+   "summary": "",
+   "free": false,
+   "price_usd": null,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae14eae9489586958ca3f63"
+    }
+   ],
+   "tags": []
+  },
+  {
+   "id": "consecutive-triangular-animated-proof",
+   "title": "Consecutive Triangular Numbers Animated Visual Proof | Interactive Math Activity",
+   "subject": "math",
+   "topics": [],
+   "grades": [],
+   "grade_band": null,
+   "types": [],
+   "summary": "",
+   "free": false,
+   "price_usd": null,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae14eb56f40015bac1f4f73"
+    }
+   ],
+   "tags": []
+  },
+  {
+   "id": "coordinate-geometry-real-world",
+   "title": "Coordinate Geometry Real World Math | Interactive Geometry Activity | Math | Grade 8",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Show your students where coordinate geometry actually lives: in city streets, drone routes, mountain roads, cell phone coverage, and supply-and-demand charts.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae155335947fc1b40f4d736"
+    }
+   ],
+   "tags": [
+    "coordinate geometry real world math",
+    "interactive",
+    "math",
+    "middle school",
+    "math activity",
+    "math review",
+    "digital activity",
+    "no prep"
+   ]
+  },
+  {
+   "id": "cross-sections-of-solids-v2",
+   "title": "Cross Sections Interactive Visual Proof | Slicing Solids | Grade 8",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Show your students what really happens when a plane slices through a solid. In this interactive visual proof, a cutting plane sweeps through cubes, prisms, cylinders, cones, pyramids, and spheres.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae148415d49a75bf77566ba"
+    }
+   ],
+   "tags": [
+    "cross sections interactive visual proof",
+    "interactive",
+    "math",
+    "middle school",
+    "slicing solids",
+    "math activity",
+    "math review",
+    "digital activity"
+   ]
+  },
+  {
+   "id": "decimals-percents-bingo-game",
+   "title": "Decimals and Percents Bingo Review Game",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6"
+   ],
+   "grade_band": "4-6",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A bingo review game for decimals and percents, with a teacher caller screen and a student card file. Each square is a decimal, and each call is a fraction, a percent or an amount of money to convert.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/DecimalsPercentsBingoGame"
+    }
+   ],
+   "tags": [
+    "decimals and percents bingo review game",
+    "math game",
+    "bingo",
+    "math",
+    "upper elementary",
+    "middle school",
+    "decimals",
+    "percents"
+   ]
+  },
+  {
+   "id": "decimals-jeopardy",
+   "title": "Decimals Jeopardy Review Game | Place Value and Operations | Grades 4-6",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6"
+   ],
+   "grade_band": "4-6",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An interactive review game that opens in a web browser. The whole game is one HTML file: a six-category board with 30 clues on decimal place value, comparing, rounding, and decimal operations, written for grades 4-6.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/DecimalsJeopardy"
+    }
+   ],
+   "tags": [
+    "decimals jeopardy review game",
+    "math game",
+    "review game",
+    "math",
+    "upper elementary",
+    "middle school",
+    "decimals",
+    "place value"
+   ]
+  },
+  {
+   "id": "distance-formula-v2",
+   "title": "Distance Formula Visual Proof | Pythagorean Theorem on Grid | Algebra 9th Grade",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "9"
+   ],
+   "grade_band": "9",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Show your students where the distance formula actually comes from. In this interactive visual proof, the horizontal and vertical separations between two points become the legs of a right triangle, and the straight-line distance is its hypotenuse.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1484800219ce7da56d4b1"
+    }
+   ],
+   "tags": [
+    "distance formula visual proof",
+    "interactive",
+    "math",
+    "high school",
+    "pythagorean theorem on grid",
+    "pythagorean theorem",
+    "math activity",
+    "math review"
+   ]
+  },
+  {
+   "id": "division-facts-bingo-game",
+   "title": "Division Facts Bingo Review Game - Math Fact Fluency",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "3-5",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A bingo review game for division facts, with a teacher caller screen and a student card file. Each square is a quotient, and each call is a division problem.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/DivisionFactsBingoGame"
+    }
+   ],
+   "tags": [
+    "division facts bingo review game",
+    "math game",
+    "bingo",
+    "math",
+    "upper elementary",
+    "math facts",
+    "division facts",
+    "fact fluency"
+   ]
+  },
+  {
+   "id": "emoji-math-bundle",
+   "title": "Emoji Math Bundle - 4 Activities - Grades 1-5",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "1-5",
+   "types": [],
+   "summary": "Four whole-class word problem activities for elementary math, all run from the classroom projector. Emojis act out each story while you read it, the question waits until the class has thought it through, and the reveal shows the equation.",
+   "free": false,
+   "price_usd": 12.99,
+   "bundle": true,
+   "includes": [
+    "Emoji Math Cards - Word Problems for All Four Operations - Math Grades 1-5",
+    "Emoji Math Machine - Multiplication Arrays, Equal Groups, Division - Math Grades 1-5",
+    "Emoji Math Story Theater - Whole Class Math Warm Ups, Number Talks - Math Grades 1-5",
+    "Emoji Math Carnival - Word Problem Story Cards - Math Grades 1-5"
+   ],
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/EmojiMathBundle"
+    }
+   ],
+   "tags": [
+    "bundle",
+    "word problems",
+    "number talks",
+    "elementary math",
+    "math warm ups"
+   ]
+  },
+  {
+   "id": "emoji-math-cards",
+   "title": "Emoji Math Cards - Word Problems for All Four Operations - Math Grades 1-5",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "1-5",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Emoji Math Cards is a deck of picture word problems for grades 1 to 5, in adding, subtracting, multiplying and dividing, shown one card at a time on the classroom projector. The pictures act the story out while you read it aloud, and the card holds at the question until the class answers.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/EmojiMathCards"
+    }
+   ],
+   "tags": [
+    "emoji math cards",
+    "interactive",
+    "math",
+    "early elementary",
+    "upper elementary",
+    "subtraction",
+    "addition",
+    "word problems"
+   ]
+  },
+  {
+   "id": "emoji-math-carnival",
+   "title": "Emoji Math Carnival - Word Problem Story Cards - Math Grades 1-5",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "1-5",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Emoji Math Carnival turns daily math practice into a whole-class game your students play together on the projector. Every card tells a short story with emojis that act it out on screen, so the class can see the math happening before anyone writes a number down.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/EmojiMathCarnival"
+    }
+   ],
+   "tags": [
+    "emoji math carnival",
+    "interactive",
+    "math",
+    "early elementary",
+    "upper elementary",
+    "word problems",
+    "elementary math",
+    "word problem story cards"
+   ]
+  },
+  {
+   "id": "emoji-math-machine",
+   "title": "Emoji Math Machine - Multiplication Arrays, Equal Groups, Division - Math Grades 1-5",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "1-5",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "The Emoji Math Machine is a projector activity for grades 1 to 5 that builds one word problem at a time and draws the math underneath it: multiplication as arrays, division as equal sharing, and bigger numbers as bundles of ten.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/EmojiMathMachine"
+    }
+   ],
+   "tags": [
+    "emoji math machine",
+    "interactive",
+    "math",
+    "early elementary",
+    "upper elementary",
+    "multiplication",
+    "division",
+    "arrays"
+   ]
+  },
+  {
+   "id": "emoji-math-story-theater",
+   "title": "Emoji Math Story Theater - Whole Class Math Warm Ups, Number Talks - Math Grades 1-5",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "1-5",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Emoji Math Story Theater is a set of short math story problems for grades 1 to 5, acted out on a stage on the classroom projector.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/EmojiMathStoryTheater"
+    }
+   ],
+   "tags": [
+    "emoji math story theater",
+    "interactive",
+    "math",
+    "early elementary",
+    "upper elementary",
+    "word problems",
+    "number talks",
+    "elementary math"
+   ]
+  },
+  {
+   "id": "equivalent-fractions-v2",
+   "title": "Equivalent Fractions Visual Proof | Area Models | Math 4th Grade",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "4"
+   ],
+   "grade_band": "4",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Show your students that equivalent fractions are the same amount with different size pieces. In this interactive visual proof, area models drawn as bars and circles get sliced into more and more pieces while the shaded amount visibly never moves - a dashed outline of the original shade stays on...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1484fd61387eb602ac758"
+    }
+   ],
+   "tags": [
+    "equivalent fractions visual proof",
+    "interactive",
+    "math",
+    "upper elementary",
+    "area models",
+    "fractions",
+    "math activity",
+    "math review"
+   ]
+  },
+  {
+   "id": "exterior-angle-theorem-animated-proof",
+   "title": "Exterior Angle Theorem | Animated Visual Proof | Grades 6-10",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "grade_band": "6-10",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Watch the exterior angle of a triangle equal the sum of the two remote interior angles -- animated step by step! The proof builds visually as angles rotate and combine, making this fundamental theorem impossible to forget.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1551789e31ab9fdb26774"
+    }
+   ],
+   "tags": [
+    "exterior angle theorem",
+    "interactive",
+    "math",
+    "middle school",
+    "high school",
+    "animated visual proof",
+    "angles"
+   ]
+  },
+  {
+   "id": "factors-multiples-jeopardy",
+   "title": "Factors and Multiples Jeopardy Review Game | GCF, LCM, Prime Numbers | Grades 4-6",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6"
+   ],
+   "grade_band": "4-6",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An interactive review game that opens in a web browser. The whole game is one HTML file: a six-category board with 30 clues on factors, multiples, prime and composite numbers, greatest common factor and least common multiple, written for grades 4-6.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/FactorsMultiplesJeopardy"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae5f075b1b8aa215da7e977"
+    }
+   ],
+   "tags": [
+    "factors and multiples jeopardy review game",
+    "math game",
+    "review game",
+    "math",
+    "upper elementary",
+    "middle school",
+    "prime numbers",
+    "lcm"
+   ]
+  },
+  {
+   "id": "fractions-bingo-game",
+   "title": "Fractions Bingo Review Game",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "3-5",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Turn fractions review into a game your students actually want to play. The teacher screen reads a clue about a fraction, students find and cover the matching fraction on their own card, and the first to complete a winning pattern calls bingo.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/FractionsBingoGame"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1a8fab5b83ea17db6abc8"
+    }
+   ],
+   "tags": [
+    "fractions bingo review game",
+    "math game",
+    "bingo",
+    "math",
+    "upper elementary",
+    "fractions bingo",
+    "fractions review",
+    "math bingo game"
+   ]
+  },
+  {
+   "id": "fractions-jeopardy",
+   "title": "Fractions Jeopardy Review Game | Equivalent Fractions and Operations | Grades 3-5",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "3-5",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An interactive review game that opens in a web browser. The whole game is one HTML file: a six-category board with 30 clues on equivalent fractions, comparing fractions, and fraction operations, written for grades 3-5.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/FractionsJeopardy"
+    }
+   ],
+   "tags": [
+    "fractions jeopardy review game",
+    "math game",
+    "review game",
+    "math",
+    "upper elementary",
+    "fractions",
+    "jeopardy game",
+    "equivalent"
+   ]
+  },
+  {
+   "id": "fractions-matching-card-game",
+   "title": "Fractions Matching Cards - Equivalent Fractions and Shaded Bars for Grades 2-5",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "2-5",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Teach fractions with a card game your class can play on a screen and again on paper. Four card sets move students from reading a shaded bar, to reading a shaded circle, to spotting two fractions that name the same amount, to matching a fraction with its words.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/FractionsMatchingCards"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0cf0adebf8a315b0481d9"
+    }
+   ],
+   "tags": [
+    "fractions matching cards",
+    "math game",
+    "game",
+    "math",
+    "early elementary",
+    "upper elementary",
+    "card game",
+    "fractions"
+   ]
+  },
+  {
+   "id": "geometry-measurement-bingo-game",
+   "title": "Geometry and Measurement Bingo Review Game - Math Vocabulary",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "grade_band": "3-6",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A bingo review game for geometry and measurement vocabulary, with a teacher caller screen and a student card file. Each square is a term, and each call is its definition.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/GeometryMeasurementBingoGame"
+    }
+   ],
+   "tags": [
+    "geometry and measurement bingo review game",
+    "math game",
+    "bingo",
+    "math",
+    "upper elementary",
+    "middle school",
+    "measurement",
+    "math vocabulary"
+   ]
+  },
+  {
+   "id": "geometry-basics-jeopardy",
+   "title": "Geometry Basics Jeopardy Review Game | Angles, Area, Volume | Grades 5-7",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7"
+   ],
+   "grade_band": "5-7",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An interactive review game that opens in a web browser. The whole game is one HTML file: a six-category board with 30 clues on lines and angles, triangles, quadrilaterals, perimeter, area and volume, written for grades 5-7.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/GeometryBasicsJeopardy"
+    }
+   ],
+   "tags": [
+    "geometry basics jeopardy review game",
+    "math game",
+    "review game",
+    "math",
+    "upper elementary",
+    "middle school",
+    "anglès",
+    "area"
+   ]
+  },
+  {
+   "id": "geometry-transformations-game-learning-resource",
+   "title": "Geometry Transformations Game: Reflections & Rotations",
+   "subject": "math",
+   "topics": [],
+   "grades": [],
+   "grade_band": null,
+   "types": [],
+   "summary": "Reflections and rotations on a grid, as a game with challenges. Built for grades 4 to 8, it asks students to predict where a shape lands and then shows them, which is how the rules stop being arbitrary.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/GeometryTransformationsGameLearningResource"
+    }
+   ],
+   "tags": [
+    "math",
+    "middle school",
+    "geometry",
+    "transformations",
+    "review game"
+   ]
+  },
+  {
+   "id": "geometry-transformation-reflection-and-rotation-game",
+   "title": "Geometry Transformations Puzzles | Reflections, Rotations and Translations | Coordinate Plane | Grades 7-10",
+   "subject": "math",
+   "topics": [
+    "Math",
+    "Geometry"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "grade_band": "7-10",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Coordinate plane puzzles for practicing rigid transformations: translations, reflections across the x-axis and y-axis, and 90 degree rotations about the origin. Open one web file and students start moving shapes.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "etsy",
+     "url": "https://www.etsy.com/listing/4593328680"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/geometry-transformations-puzzles-reflections-rotations-and-translations-coordinate-plane-grades-7-10/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada9bf44bcab059c76b916d"
+    }
+   ],
+   "tags": [
+    "geometry transformations puzzles",
+    "math game",
+    "game",
+    "math",
+    "geometry",
+    "middle school",
+    "high school",
+    "transformations"
+   ]
+  },
+  {
+   "id": "house-framing-geometry-guide",
+   "title": "House Framing 3D Interactive Geometry Guide | Roof Pitch, Stairs & Rafters | Grades 8-12",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "8-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Bring real-world geometry to life with this interactive 3D house framing guide! Students explore how carpenters use Pythagorean theorem, trigonometry, and rise/run ratios every day to build houses.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbe802e930523ac5a82253"
+    }
+   ],
+   "tags": [
+    "house framing 3d interactive geometry guide",
+    "interactive",
+    "math",
+    "middle school",
+    "high school",
+    "roof pitch",
+    "stairs and rafters"
+   ]
+  },
+  {
+   "id": "inequality-explorer",
+   "title": "Inequality Explorer - Interactive Algebra Lesson",
+   "subject": "math",
+   "topics": [],
+   "grades": [],
+   "grade_band": null,
+   "types": [],
+   "summary": "The five rules of algebraic inequalities, taught as challenges students work through. They learn when the sign flips, how to justify each step, and why an inequality has a range of answers where an equation has one.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/InequalityExplorer"
+    }
+   ],
+   "tags": [
+    "high school",
+    "math",
+    "middle school",
+    "algebra",
+    "inequalities"
+   ]
+  },
+  {
+   "id": "pythagoras-explorer",
+   "title": "Interactive Pythagorean Theorem Learning Resource",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "grade_band": "7-10",
+   "types": [],
+   "summary": "The Pythagorean theorem, with triangles students drag and resize until the relationship is obvious. They enter their own values and watch the calculation update, work through real uses like ladders and screens, and finish with a twenty-question quiz that grades itself.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/InteractivePythagoreanTheoremLearningResource"
+    }
+   ],
+   "tags": [
+    "teaching",
+    "learning",
+    "resource",
+    "teaching resources",
+    "learning activities"
+   ]
+  },
+  {
+   "id": "jungle-temple-explorer",
+   "title": "Jungle Temple Explorer - Volume and 3D Shapes Escape Room | Digital Math Game | Grades 4-7",
+   "subject": "math",
+   "topics": [
+    "Math",
+    "Geometry"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ],
+   "grade_band": "4-7",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A timed digital escape room on volume. Five locked chambers each ask one volume question, and a chamber opens only after the one before it is answered correctly.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/JungleTempleExplorerVolume3DShapes"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/0P1S6"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/jungle-temple-explorer-volume-and-3d-shapes-escape-room-math-activity-grades-4-7/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad9297f503f9eaa36b2aa10"
+    }
+   ],
+   "tags": [
+    "jungle temple explorer",
+    "math game",
+    "escape room",
+    "math",
+    "geometry",
+    "upper elementary",
+    "middle school",
+    "volume escape room"
+   ]
+  },
+  {
+   "id": "functions-linear-nonlinear-visualizer",
+   "title": "Linear and Nonlinear Functions Interactive Activity | Algebra 8th Grade",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Activities",
+    "Interactives",
+    "Learning Centers"
+   ],
+   "summary": "Your 8th graders can recite \"one input, one output\" and still miss it on a graph. In this interactive functions activity, students feed numbers into a function machine and watch each output land on a mapping diagram, a table and a graph at once.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae5f728d40479d7cad08955"
+    }
+   ],
+   "tags": [
+    "linear and nonlinear functions interactive activity",
+    "interactive",
+    "math",
+    "middle school",
+    "math activity",
+    "math review",
+    "digital activity",
+    "no prep"
+   ]
+  },
+  {
+   "id": "long-multiplication-teaching-bundle",
+   "title": "Long Multiplication Teaching Bundle | Animated Lessons & Worksheets | Grades 4-6",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "4",
+    "5",
+    "6"
+   ],
+   "grade_band": "4-6",
+   "types": [],
+   "summary": "A long multiplication teaching bundle for Grades 4 to 6 with animated walkthroughs, lesson slides, a comparison visualizer, and printable practice. The 16 original examples show multiplication with three or four digit top factors and two or three digit multipliers.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/LongMultiplicationTeachingBundle"
+    }
+   ],
+   "tags": [
+    "multiplication",
+    "math worksheets",
+    "place value",
+    "elementary math",
+    "regrouping"
+   ]
+  },
+  {
+   "id": "math-slither-integers",
+   "title": "Math Slither | Integer Ice | Grades 5-8",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Turn integer practice into an icy adventure! In this engaging snake-style math game, students guide their slithering snake across a frozen landscape, collecting the correct answers to addition and subtraction problems with positive and negative numbers.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/nQjai"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adaa0801c3a4f00b56d37e2"
+    }
+   ],
+   "tags": [
+    "math slither",
+    "math game",
+    "game",
+    "math",
+    "upper elementary",
+    "middle school",
+    "integer ice",
+    "integers"
+   ]
+  },
+  {
+   "id": "math-slither-one-step-equations",
+   "title": "Math Slither Algebra | One-Step Equations Game | Digital Math Activity | Grades 6-8",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "6-8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Math Slither is a snake-style game for practicing one-step equations. An equation such as 9x = 81 appears at the top of the screen, and the student steers a snake to the number bubble that holds the value of x.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/d4t0g"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/math-slither-algebra-one-step-equations-game-digital-math-activity-grades-6-8/"
+    }
+   ],
+   "tags": [
+    "math slither algebra",
+    "math game",
+    "game",
+    "math",
+    "middle school",
+    "one-step equations game",
+    "digital math activity",
+    "equations"
+   ]
+  },
+  {
+   "id": "math-slither-comparing-decimals",
+   "title": "Math Slither Comparing Decimals - Decimal Comparison Game | Digital Math Activity | Grades 4-6",
+   "subject": "math",
+   "topics": [
+    "Math",
+    "Decimals",
+    "Basic Math"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6"
+   ],
+   "grade_band": "4-6",
+   "types": [
+    "Games",
+    "Interactives",
+    "Math Centers"
+   ],
+   "summary": "A snake game for comparing decimals. A rule sits at the top of the screen, such as Greater Than 0.5 or Less Than 0.75. The student steers a snake with the mouse and eats only the numbers that fit the rule.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MathSlitherComparingDecimals"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/BWPEF"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/math-slither-decimal-dash-comparing-decimals-game-grades-4-6/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad9299722272884f1349ec0"
+    }
+   ],
+   "tags": [
+    "math slither decimal dash",
+    "math game",
+    "game",
+    "math",
+    "decimals",
+    "upper elementary",
+    "middle school",
+    "comparing decimals"
+   ]
+  },
+  {
+   "id": "math-slither-missing-factors",
+   "title": "Math Slither Missing Factors | Multiplication & Division Game | Digital Math Activity | Grades 3-5",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "3-5",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Build multiplication fluency with this exciting snake-style math game! Students guide their slithering snake to find the missing factor in multiplication equations.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbbb7e17f821d99a1ce576"
+    }
+   ],
+   "tags": [
+    "math slither missing factors",
+    "math game",
+    "game",
+    "math",
+    "upper elementary",
+    "multiplication and division game",
+    "multiplication",
+    "multiplication facts"
+   ]
+  },
+  {
+   "id": "math-slither-multiplication",
+   "title": "Math Slither Multiplication | Times Tables Practice Game | Digital Math Activity | Grades 2-5",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "2-5",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Make multiplication practice irresistible with this exciting snake-style math game! Students guide their slithering snake to collect the correct products of multiplication problems.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbbb84b7315f00ebdfbe90"
+    }
+   ],
+   "tags": [
+    "math slither multiplication",
+    "math game",
+    "game",
+    "math",
+    "early elementary",
+    "upper elementary",
+    "times tables practice game",
+    "multiplication"
+   ]
+  },
+  {
+   "id": "math-slither-exponents",
+   "title": "Math Slither Power Up | Exponents Practice Game | Digital Math Activity | Grades 5-8",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Power up your students' exponent skills with this electrifying snake-style math game! Students guide their slithering snake to collect the correct values of exponential expressions.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbbb8afd501f60e4e504d5"
+    }
+   ],
+   "tags": [
+    "math slither power up",
+    "math game",
+    "game",
+    "math",
+    "upper elementary",
+    "middle school",
+    "exponents practice game",
+    "exponents"
+   ]
+  },
+  {
+   "id": "math-test-prep-jeopardy",
+   "title": "Math Test Prep Jeopardy Review Game | Standardized Test Strategies | Grades 4-5",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "4",
+    "5"
+   ],
+   "grade_band": "4-5",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An interactive review game that opens in a web browser. The whole game is one HTML file: a six-category board with 30 clues on mixed math review: place value, rounding, fractions, decimals, geometry, multiplication and division, written for grades 4-5.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MathTestPrepJeopardy"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae5f75956968369fbccd20e"
+    }
+   ],
+   "tags": [
+    "math test prep jeopardy review game",
+    "math game",
+    "review game",
+    "math",
+    "upper elementary",
+    "jeopardy game",
+    "math strategies",
+    "standardized tests"
+   ]
+  },
+  {
+   "id": "math-visual-proofs24-one-file",
+   "title": "Math Visual Proofs Bundle - 24 Animated and Interactive Proofs, Geometry and Algebra, Grades 5-12",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "5-12",
+   "types": [],
+   "summary": "Math Visual Proofs is a collection of 24 animated and interactive explanations for grades 5-12. Each proof builds a diagram alongside the related formula or theorem so learners can follow the reasoning one step at a time.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MathVisualProofs24OneFile"
+    }
+   ],
+   "tags": [
+    "math bundle",
+    "geometry proofs",
+    "algebra identities",
+    "math proofs",
+    "visual proofs"
+   ]
+  },
+  {
+   "id": "money-jeopardy-grades-3-6",
+   "title": "Money Jeopardy Review Game | Currency and Financial Literacy | Grades 3-6",
+   "subject": "math",
+   "topics": [
+    "Math",
+    "Economics",
+    "History/Social Studies"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "grade_band": "3-6",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An interactive review game that opens in a web browser. The whole game is one HTML file: a six-category board with 30 clues on money, currency, making change and personal finance basics, written for grades 3-6.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MoneyJeopardy"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/NPp1f"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae5ef0cc864263b1a4ab95a"
+    }
+   ],
+   "tags": [
+    "money jeopardy review game",
+    "math game",
+    "review game",
+    "math",
+    "economics",
+    "upper elementary",
+    "middle school",
+    "money"
+   ]
+  },
+  {
+   "id": "multiplication-facts-bingo-game",
+   "title": "Multiplication Facts Bingo - Math Fact Bingo Game - 4th Grade Review",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "3-5",
+   "types": [],
+   "summary": "Build multiplication fluency with a bingo game that turns fact practice into a competitive, fast-paced review. Students mark their cards as multiplication facts are called across the 2s through 12s times tables and work out the matching product on their card.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MultiplicationFactsBingo",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "multiplication",
+    "bingo game",
+    "math facts",
+    "review game"
+   ]
+  },
+  {
+   "id": "number-sense-bingo-game",
+   "title": "Number Sense Bingo Game",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3"
+   ],
+   "grade_band": "K-3",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Strengthen number sense with a bingo game your youngest students will love. The teacher screen gives a clue about place value, ten more or ten less, doubles, or skip counting within 1 to 120, and students work out the number and cover the matching square on their card.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/NumberSenseBingoGame"
+    }
+   ],
+   "tags": [
+    "number sense bingo game",
+    "math game",
+    "bingo",
+    "math",
+    "kindergarten",
+    "early elementary",
+    "upper elementary",
+    "bingo game"
+   ]
+  },
+  {
+   "id": "order-of-operations-jeopardy",
+   "title": "Order of Operations Jeopardy Review Game | PEMDAS Practice | Grades 4-6",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6"
+   ],
+   "grade_band": "4-6",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An interactive review game that opens in a web browser. The whole game is one HTML file: a six-category board with 30 clues on order of operations, parentheses and PEMDAS, written for grades 4-6.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/OrderOfOperationsJeopardy"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae5ef8e29a236b9a61e5ab2"
+    }
+   ],
+   "tags": [
+    "order of operations jeopardy review game",
+    "math game",
+    "review game",
+    "math",
+    "upper elementary",
+    "middle school",
+    "order of operations",
+    "pemdas"
+   ]
+  },
+  {
+   "id": "order-of-operations-learning-resource",
+   "title": "Order of Operations Learning Resource",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "6-8",
+   "types": [],
+   "summary": "A visual, interactive Order of Operations learning tool designed to help students finally understand PEMDAS without confusion.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/OrderofOperationsLearningResource"
+    }
+   ],
+   "tags": [
+    "resources",
+    "math",
+    "learning materials",
+    "learning activities",
+    "teacher"
+   ]
+  },
+  {
+   "id": "parallel-lines-transversals-angles-visualizer",
+   "title": "Parallel Lines and Transversals | Angle Relationships Activity | Grades 7-9",
+   "subject": "math",
+   "topics": [
+    "Geometry",
+    "Math"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [
+    "Activities",
+    "Interactives",
+    "Learning Centers"
+   ],
+   "summary": "A parallel lines and transversals activity where the angle relationships prove themselves on screen. Students turn the transversal and watch the eight angles split into two matching families.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ParallelLinesTransversals"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/merXu"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/parallel-lines-and-transversals-angles-activity-angle-relationships-grades-7-9/"
+    }
+   ],
+   "tags": [
+    "parallel lines and transversals angles activity",
+    "interactive",
+    "geometry",
+    "math",
+    "middle school",
+    "high school",
+    "parallel lines and transversals",
+    "angle relationships"
+   ]
+  },
+  {
+   "id": "perimeter-vs-area-v2",
+   "title": "Perimeter vs Area Visual Proof | Fence and Tiles | Math 4th Grade",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "4"
+   ],
+   "grade_band": "4",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Show your students the real difference between perimeter and area. In this interactive visual proof, each field first traces its fence and unrolls it into one straight strip students can count, then fills with unit tiles that get counted one by one.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae14856eebcd21e5eae7a8f"
+    }
+   ],
+   "tags": [
+    "perimeter vs area visual proof",
+    "interactive",
+    "math",
+    "upper elementary",
+    "fence and tiles",
+    "area and perimeter",
+    "math activity",
+    "math review"
+   ]
+  },
+  {
+   "id": "pirate-treasure-quest",
+   "title": "Pirate's Treasure Quest - Navigation Escape Room | Grades 3-6",
+   "subject": "math",
+   "topics": [
+    "Geography",
+    "Math"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "grade_band": "3-6",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A timed digital escape room on map and compass skills. Five puzzles unlock one after another, and the last one reveals the treasure.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/PiratesTreasureQuestNavigationEscapeRoom"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/pirates-treasure-quest-navigation-escape-room-map-and-compass-skills-grades-3-6/"
+    }
+   ],
+   "tags": [
+    "pirate's treasure quest",
+    "geography game",
+    "escape room",
+    "geography",
+    "social studies",
+    "upper elementary",
+    "middle school",
+    "pirate escape room"
+   ]
+  },
+  {
+   "id": "polygon-area-decomposition-v2",
+   "title": "Polygon Area Interactive Visual Proof | Cut Into Triangles | Grades 6-8",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "6-8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Show your students where polygon area formulas actually come from. In this interactive visual proof, any polygon is cut into triangles by cut lines that fan out from one corner, each triangle's area is base times height divided by two, and the pieces stack up to the whole.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1485c3fd6d1f9521ec5d5"
+    }
+   ],
+   "tags": [
+    "polygon area interactive visual proof",
+    "interactive",
+    "math",
+    "middle school",
+    "cut into triangles",
+    "math activity",
+    "math review",
+    "digital activity"
+   ]
+  },
+  {
+   "id": "pythagorean-theorem-animated-proof",
+   "title": "Pythagorean Theorem | Visual Proof | Grade 8",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "This animated visual proof takes students inside the most important theorem in geometry. Instead of memorizing a² + b² = c², students watch it happen - squares literally grow on each side of a right triangle, and the areas add up before their eyes.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/IdTkX"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/pythagorean-theorem-visual-proof-grade-8/"
+    }
+   ],
+   "tags": [
+    "pythagorean theorem",
+    "interactive",
+    "math",
+    "middle school",
+    "visual proof",
+    "math activity",
+    "math review",
+    "digital activity"
+   ]
+  },
+  {
+   "id": "pythagorean-theorem-deep-dive",
+   "title": "Pythagorean Theorem Deep Dive | Interactive Math Lesson & Activity | Grade 8",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Bring the Pythagorean Theorem to life with this immersive, 10-tab interactive lesson! Students don't just memorize a² + b² = c² - they drag triangle vertices and watch the equation update in real time, explore a visual area proof, solve for missing sides with step-by-step guidance, and apply the...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adbe80a8b331fd84b4c6342"
+    }
+   ],
+   "tags": [
+    "pythagorean theorem deep dive",
+    "lesson",
+    "interactive",
+    "math",
+    "middle school",
+    "pythagorean theorem",
+    "math activity",
+    "math review"
+   ]
+  },
+  {
+   "id": "pythagorean-theorem-jeopardy",
+   "title": "Pythagorean Theorem Jeopardy Review Game | a² + b² = c² | Grades 8-9",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "8",
+    "9"
+   ],
+   "grade_band": "8-9",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An interactive review game that opens in a web browser. The whole game is one HTML file: a six-category board with 30 clues on right triangles and the Pythagorean Theorem (a² + b² = c²), written for grades 8-9.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/PythagoreanTheoremJeopardy"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae781b91fc846de963c3296"
+    }
+   ],
+   "tags": [
+    "pythagorean theorem jeopardy review game",
+    "math game",
+    "review game",
+    "math",
+    "middle school",
+    "high school",
+    "pythagorean theorem",
+    "jeopardy game"
+   ]
+  },
+  {
+   "id": "pythagorean-theorem-visual-lab",
+   "title": "Pythagorean Theorem Visual Lab | Interactive Proof and Distance on a Grid | Grades 7-9",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [],
+   "summary": "A Pythagorean theorem lesson students can see and touch. They drag the legs of a right triangle, count the squares on each side, watch the rearrangement proof slide into place, and use the theorem to find distance on a coordinate grid.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/PythagoreanTheoremVisualLab",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "geometry",
+    "pythagorean theorem",
+    "visual proof",
+    "distance formula"
+   ]
+  },
+  {
+   "id": "pythagorean-theorem-v2",
+   "title": "Pythagorean Theorem Visual Proof | Squares on the Sides | Geometry 8th Grade",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Give your students the Pythagorean Theorem the way it actually makes sense: as areas they can see. This interactive visual proof builds the square on each side of a right triangle right in front of the class, then shows the two leg squares combining to exactly fill the hypotenuse square.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae148632d20298d7c1fe1e9"
+    }
+   ],
+   "tags": [
+    "pythagorean theorem visual proof",
+    "interactive",
+    "math",
+    "middle school",
+    "squares on the sides",
+    "pythagorean theorem",
+    "math activity",
+    "math review"
+   ]
+  },
+  {
+   "id": "rational-irrational-numbers-visualizer",
+   "title": "Rational and Irrational Numbers Visualizer | Repeating Decimals and Square Roots | Grades 7-9",
+   "subject": "math",
+   "topics": [
+    "Math",
+    "Pre-Algebra",
+    "Decimals"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [
+    "Activities",
+    "Interactives",
+    "Learning Centers"
+   ],
+   "summary": "Most 8th graders can recite that an irrational number never ends or repeats. Few can tell you why 3/7 has to repeat and √2 never does. In this rational and irrational numbers activity they watch it happen, one digit at a time.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/RationalIrrationalNumbers"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/5uiR0"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/rational-and-irrational-numbers-activity-estimating-square-roots-grades-7-9/"
+    }
+   ],
+   "tags": [
+    "rational and irrational numbers activity",
+    "interactive",
+    "math",
+    "pre-algebra",
+    "middle school",
+    "high school",
+    "rational and irrational numbers",
+    "square root activity"
+   ]
+  },
+  {
+   "id": "ratios-proportions-jeopardy",
+   "title": "Ratios Rates and Proportions Jeopardy Review Game | Unit Rate Practice | Grades 6-7",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "6",
+    "7"
+   ],
+   "grade_band": "6-7",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An interactive review game that opens in a web browser. The whole game is one HTML file: a six-category board with 30 clues on ratios, unit rates, proportions, percents and scale, written for grades 6-7.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/RatiosProportionsJeopardy"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae5f6e49d59bf17cf7982da"
+    }
+   ],
+   "tags": [
+    "ratios rates and proportions jeopardy review game",
+    "math game",
+    "review game",
+    "math",
+    "middle school",
+    "proportions",
+    "ratios",
+    "jeopardy game"
+   ]
+  },
+  {
+   "id": "roman-numerals-visual-workshop",
+   "title": "Roman Numerals Practice Game | Interactive Number Sense | 4th Grade Math",
+   "subject": "math",
+   "topics": [
+    "Math",
+    "World History",
+    "History"
+   ],
+   "grades": [
+    "4"
+   ],
+   "grade_band": "4",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Roman numerals stop being a mystery when students can SEE how they work. This all-in-one interactive workshop turns I, V, X, L, C, D, and M into something kids build, decode, and play with.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adf9f80e776075923eff75e"
+    }
+   ],
+   "tags": [
+    "roman numerals practice game",
+    "math game",
+    "game",
+    "math",
+    "world history",
+    "upper elementary",
+    "quiz",
+    "social studies"
+   ]
+  },
+  {
+   "id": "scale-factor-area-volume-v2",
+   "title": "Scale Factor Interactive Visual Proof | k, k Squared, k Cubed | Grade 8",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Show your students why scaling a shape does not scale its area and volume by the same amount. In this interactive visual proof, three panels sit side by side - a length ruler, a grid of area tiles, and a stack of unit cubes - and every claim is counted live on screen.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1486a390874e95ae95428"
+    }
+   ],
+   "tags": [
+    "scale factor interactive visual proof",
+    "interactive",
+    "math",
+    "middle school",
+    "k squared",
+    "k cubed",
+    "math activity",
+    "math review"
+   ]
+  },
+  {
+   "id": "scatter-plots-line-of-best-fit-visualizer",
+   "title": "Scatter Plots and Line of Best Fit Visualizer | Least Squares and Two-Way Tables | Grades 7-9",
+   "subject": "math",
+   "topics": [
+    "Math",
+    "Algebra"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [
+    "Activities",
+    "Interactives"
+   ],
+   "summary": "A scatter plots lesson students can see. They drag a line through the data and watch every miss turn into a square. A meter adds up the square area, and the line with the smallest total is the line of best fit.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ScatterPlotsLineOfBestFit"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/4tR3j"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/scatter-plots-and-line-of-best-fit-activity-two-way-tables-grades-7-9/"
+    }
+   ],
+   "tags": [
+    "scatter plots and line of best fit activity",
+    "interactive",
+    "math",
+    "algebra",
+    "middle school",
+    "high school",
+    "scatter plots",
+    "line of best fit"
+   ]
+  },
+  {
+   "id": "scientific-notation-powers-of-ten-visualizer",
+   "title": "Scientific Notation Activity | Powers of Ten and Exponent Rules | 8th Grade",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Activities",
+    "Interactives",
+    "Learning Centers"
+   ],
+   "summary": "Your students zoom from a hydrogen atom out to Neptune on one ruler, and every step up the ladder is ten times bigger than the one below. When one unit is 10⁻⁶ m, a red blood cell reaches 7.5 units, so 7.5 × 10⁻⁶ m becomes a size they have seen.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae5f6d506c3b1ad85e5f495"
+    }
+   ],
+   "tags": [
+    "scientific notation activity",
+    "interactive",
+    "math",
+    "middle school",
+    "exponents",
+    "math activity",
+    "math review",
+    "digital activity"
+   ]
+  },
+  {
+   "id": "secret-agent-training",
+   "title": "Secret Agent Training | Logic Escape Room | Deduction and Number Patterns | Grades 4-8",
+   "subject": "math",
+   "topics": [
+    "Critical Reasoning",
+    "Math",
+    "Number Patterns"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "4-8",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A timed digital escape room of five logic exercises. Each exercise unlocks only after the one before it is cleared.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/secret-agent-training-logic-escape-room-deduction-and-number-patterns-grades-4-8/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada84de027774bb20123208"
+    }
+   ],
+   "tags": [
+    "secret agent training",
+    "math game",
+    "escape room",
+    "critical reasoning",
+    "math",
+    "upper elementary",
+    "middle school",
+    "logic escape room"
+   ]
+  },
+  {
+   "id": "shape-blaster",
+   "title": "Shape Blaster | Boss Battle Math Game Geometry Vocabulary Builder | Grades 4-9",
+   "subject": "math",
+   "topics": [
+    "ELA",
+    "Spelling & Vocabulary",
+    "Math"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "4-9",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Defeat shape-shifting bosses by hitting the correct geometric shape! A fast-paced arcade game that drills geometry vocabulary recognition - perfect for review, sub plans, early finishers, and brain breaks that actually teach.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/shape-blaster/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1a932ab4a8ffbf4fe7055"
+    }
+   ],
+   "tags": [
+    "shape blaster",
+    "ela game",
+    "game",
+    "ela",
+    "english language arts",
+    "upper elementary",
+    "middle school",
+    "high school"
+   ]
+  },
+  {
+   "id": "slope-rate-of-change-visualizer",
+   "title": "Slope and Rate of Change Visualizer | Graph, Table, Equation and Story | Grades 7-9",
+   "subject": "math",
+   "topics": [
+    "Algebra",
+    "Pre-Algebra",
+    "Math"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [
+    "Activities",
+    "Interactives",
+    "Learning Centers"
+   ],
+   "summary": "Students drag a line and watch a water tank fill or drain at exactly that rate. This slope and rate of change activity links the graph, the table, the equation and a real story on one screen.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/SlopeRateOfChangeVisualizer",
+     "free_here": true
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/ZrsIb"
+    }
+   ],
+   "tags": [
+    "slope and rate of change",
+    "linear functions",
+    "slope triangles",
+    "graphing activity",
+    "real world math",
+    "slope and rate of ch",
+    "algebra",
+    "slope"
+   ]
+  },
+  {
+   "id": "slope-of-a-line-v2",
+   "title": "Slope of a Line Visual Proof | Rise Over Run on Grid | Algebra 8th Grade",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Show your students where slope actually comes from. In this interactive visual proof, two points sit on a coordinate grid and the rise and run appear as the two legs of a right triangle, so students see slope as the honest ratio of a vertical length to a horizontal length.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1487096db7f53cf83e1fd"
+    }
+   ],
+   "tags": [
+    "slope of a line visual proof",
+    "interactive",
+    "math",
+    "middle school",
+    "rise over run on grid",
+    "integers",
+    "negative numbers",
+    "integer operations"
+   ]
+  },
+  {
+   "id": "statistics-probability-jeopardy",
+   "title": "Statistics and Probability Jeopardy",
+   "subject": "math",
+   "topics": [],
+   "grades": [],
+   "grade_band": null,
+   "types": [],
+   "summary": "Review statistics, data, and probability with this interactive Jeopardy-style game. Students answer 30 questions across six categories as part of a live class competition with team scores and customizable team names. Everything runs in a single HTML file that opens in any web browser.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/Statistics-Probability-Jeopardy"
+    }
+   ],
+   "tags": [
+    "data analysis",
+    "middle school",
+    "statistics",
+    "algebra",
+    "probability",
+    "math game",
+    "jeopardy",
+    "math review"
+   ]
+  },
+  {
+   "id": "sum-of-squares-animated-proof",
+   "title": "Sum of Squares | Animated Visual Proof | Grades 8-10",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "8",
+    "9",
+    "10"
+   ],
+   "grade_band": "8-10",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Bring the sum of squares formula to life! Students watch colorful staircase blocks combine into a rectangle, proving n(n+1)(2n+1)/6. 8-phase animation, 10 examples, interactive scrubber. Grades 6-10. No prep - just open in any browser.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1551e246a8f4eba53059c"
+    }
+   ],
+   "tags": [
+    "sum of squares",
+    "interactive",
+    "math",
+    "middle school",
+    "high school",
+    "animated visual proof",
+    "math activity",
+    "math review"
+   ]
+  },
+  {
+   "id": "systems-of-equations-race-visualizer",
+   "title": "Systems of Equations Race | Solving Systems by Graphing Activity | Grades 7-9",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [],
+   "summary": "A solving systems of equations by graphing activity built around a race. Each racer is one equation, and the moment they run side by side is the point where the two lines cross.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/SystemsOfEquationsRace",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "algebra",
+    "graphing",
+    "linear equations",
+    "solving systems"
+   ]
+  },
+  {
+   "id": "systems-of-equations-visualizer",
+   "title": "Systems of Equations Visualizer | Interactive Digital Algebra Activity Grade 8-11",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "8",
+    "9",
+    "10",
+    "11"
+   ],
+   "grade_band": "8-11",
+   "types": [
+    "Activities",
+    "Interactives",
+    "Learning Centers"
+   ],
+   "summary": "Make systems of linear equations visual and intuitive with this interactive Systems of Equations Visualizer! Students adjust slopes and intercepts on a live coordinate plane, watch substitution and elimination work side by side, and apply systems to real-world break-even, mixture, and distance...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae15af0b54a943e096392f1"
+    }
+   ],
+   "tags": [
+    "systems of equations visualizer",
+    "printable",
+    "interactive",
+    "math",
+    "middle school",
+    "high school",
+    "equations",
+    "math activity"
+   ]
+  },
+  {
+   "id": "telling-time-nearest-5-minutes",
+   "title": "Telling Time to the Nearest 5 Minutes - 2nd Grade Math Activity and Worksheets",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "2"
+   ],
+   "grade_band": "2",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Students stop guessing at the clock and start reading it. This activity teaches telling time to the nearest 5 minutes on analog and digital clocks, and it targets the two mistakes that trip second graders up: reading the hour hand as the nearest number, and reading the minute hand as the number it...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/TellingTimeNearest5Minutes"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0e23b4b3b716572700da8"
+    }
+   ],
+   "tags": [
+    "telling time to the nearest 5 minutes",
+    "worksheet",
+    "printable",
+    "math",
+    "early elementary",
+    "measurement",
+    "elementary math",
+    "telling time"
+   ]
+  },
+  {
+   "id": "chart-doctor-misleading-graphs",
+   "title": "The Chart Doctor - Misleading Graphs Data Literacy Activity",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "grade_band": "6-10",
+   "types": [],
+   "summary": "Put your students in the newsroom and hand them the same honest data twice. The Chart Doctor is a data-literacy activity where students diagnose what makes a real-looking chart mislead, without a single number ever being falsified.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ChartDoctorMisleadingGraphs"
+    }
+   ],
+   "tags": [
+    "statistics",
+    "media literacy",
+    "graphing",
+    "data literacy",
+    "misleading graphs"
+   ]
+  },
+  {
+   "id": "transformations-coordinate-plane-visualizer",
+   "title": "Transformations on the Coordinate Plane | Reflections, Rotations and Dilations | Grades 7-9",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [],
+   "summary": "A transformations activity for the coordinate plane. Students translate, reflect, rotate and dilate a flag and watch every corner move by its rule, then chain moves together and solve target puzzles.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/TransformationsCoordinatePlane",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "geometry",
+    "transformations",
+    "coordinate plane",
+    "dilations"
+   ]
+  },
+  {
+   "id": "venn-diagram-learning-resource",
+   "title": "Venn Diagram Learning Resource",
+   "subject": "math",
+   "topics": [],
+   "grades": [],
+   "grade_band": null,
+   "types": [],
+   "summary": "Give your students a clear, visual, and interactive understanding of Venn diagrams with the Venn Diagram Logic Guide - a fully self-contained learning resource designed for real classroom use.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/VennDiagramLearningResource"
+    }
+   ],
+   "tags": [
+    "resources",
+    "math",
+    "teaching",
+    "visual learning",
+    "venndiagram"
+   ]
+  },
+  {
+   "id": "volume-3d-shapes-v2",
+   "title": "Volume of 3D Shapes Visual Proof | Base Times Height Layers | Math 7th Grade",
+   "subject": "math",
+   "topics": [
+    "Math"
+   ],
+   "grades": [
+    "7"
+   ],
+   "grade_band": "7",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Show your students where volume actually comes from. In this interactive visual proof, volume is built as layers of a base: the base holds B square units, an identical layer is stacked h times, and V = B times h for any prism or cylinder - even when the height is a fraction and the top layer is...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1487672366cc03c4ff3cf"
+    }
+   ],
+   "tags": [
+    "volume of 3d shapes visual proof",
+    "interactive",
+    "math",
+    "middle school",
+    "base times height layers",
+    "math activity",
+    "math review",
+    "digital activity"
+   ]
+  },
+  {
+   "id": "volume-cones-cylinders-spheres-3d",
+   "title": "Volume of Cones, Cylinders and Spheres | 3D Pour Test Activity | Grades 7-9",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [],
+   "summary": "A volume of cones, cylinders and spheres activity in 3D. Students pour a cone into a cylinder with the same radius and height and see it take exactly three, then drain a sphere and see it fill two thirds of the cylinder.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/VolumePourTest",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "geometry",
+    "3d shapes",
+    "volume",
+    "cones and cylinders"
+   ]
+  }
+ ]
+}

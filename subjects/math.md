@@ -1,0 +1,90 @@
+# Math
+
+86 products. Each line: title and link to buy or download, grade band, price, id. Full records: math.json in this folder.
+
+- [2D and 3D Shapes Activity | Faces, Edges & Vertices | Geometry | Grades 2-5](https://kitchentablecurriculum.com/marketplace/6ae15b2eeaa0daee42202abc) | grades 2-5 | $4.99 | id: 2d-and-3d-shapes-explorer
+- [3rd Grade Jeopardy Review Game All Subjects End of Year | No Prep Activity](https://kitchentablecurriculum.com/marketplace/6ae0c79d701ced9a070b4fad) | grades 3 | $4.99 | id: grade3-general-jeopardy
+- [5th Grade Dividing Unit Fractions Game | Divide Unit Fractions Path | 72 On-Screen Questions](https://datawithmicah.gumroad.com/l/5thGradeDivideUnitFractionsPathGame) | grades 5 | free | id: 5th-grade-divide-unit-fractions-path-game
+- [5th Grade Math Curriculum Bundle | 17 Skill Workbooks, 21 Review Games and 21 Team Flash Card Games | All 26 Common Core Standards](https://datawithmicah.gumroad.com/l/5thGradeMathCurriculumBundle) | grades 5 | $29.99 | id: 5th-grade-math-curriculum-bundle
+- [5th Grade Math Jeopardy Review Game | Multiplication, Fractions & Decimals](https://kitchentablecurriculum.com/marketplace/6ae13b6bed9ace9b540b5b8b) | grades 5 | $4.99 | id: math-jeopardy-grade5
+- [5th Grade Measurement Conversion Workbook | Convert Units | Worked Examples and Practice](https://datawithmicah.gumroad.com/l/5thGradeConvertUnitsWorkbook) | grades 5 | free | id: 5th-grade-convert-units-workbook
+- [Addition and Subtraction to 20 Bingo Game - Math Facts Review](https://datawithmicah.gumroad.com/l/AdditionSubtractionBingoGame) | grades K-2 | $4.99 | id: addition-subtraction-bingo-game
+- [Algebra and Integers Jeopardy Review Game | Middle School Math Test Prep](https://datawithmicah.gumroad.com/l/AlgebraIntegersJeopardy) | grades 6-8 | $4.99 | id: algebra-integers-jeopardy
+- [Algebra Island Math Survival Escape Room | Interactive Algebra Game | Grades 6-9](https://kitchentablecurriculum.com/marketplace/6adf7db70b662a2c6c429b3f) | grades 6-9 | $4.99 | id: algebra-island-math-survival-escape
+- [Area and Perimeter Deep Dive | Interactive Geometry | Grades 6-8](https://datawithmicah.gumroad.com/l/AreaPerimeterDeepDive) | grades 6-8 | $4.99 | id: area-perimeter-deep-dive
+- [Area and Perimeter Jeopardy Game | 3rd 4th Grade Math Review](https://kitchentablecurriculum.com/marketplace/6ae134a144b5c5ef89b9d9bb) | grades 4 | $4.99 | id: area-perimeter-jeopardy-grade3
+- [Area and Perimeter Jeopardy Review Game | Math Game Grade 5](https://kitchentablecurriculum.com/marketplace/6ae783470c567724edda1f5f) | grades 5 | $4.99 | id: area-perimeter-jeopardy-grade5
+- [Area and Perimeter Jeopardy Test Review Game | No Prep Activity for 4th Grade](https://kitchentablecurriculum.com/marketplace/6ae134a8ab32f36077028fed) | grades 4 | $4.99 | id: area-perimeter-jeopardy-grade4
+- [Area of a Parallelogram | Animated Visual Proof | Grades 6-10](https://payhip.com/b/PDxrz) | grades 6-10 | $4.99 | id: area-of-parallelogram-animated-proof
+- [Chart Chooser Challenge | Data Visualization Practice Game | Grades 5-9](https://classful.com/product/chart-chooser-challenge-data-visualization-practice-game-teaching-resource-grades-5-9/) | grades 5-9 | $4.99 | id: chart-chooser
+- [Circle Circumference Animated Visual Proof | Interactive Math Activity](https://kitchentablecurriculum.com/marketplace/6ae14eae9489586958ca3f63) | any grade | see store | id: circle-circumference-animated-proof
+- [Consecutive Triangular Numbers Animated Visual Proof | Interactive Math Activity](https://kitchentablecurriculum.com/marketplace/6ae14eb56f40015bac1f4f73) | any grade | see store | id: consecutive-triangular-animated-proof
+- [Coordinate Geometry Real World Math | Interactive Geometry Activity | Math | Grade 8](https://kitchentablecurriculum.com/marketplace/6ae155335947fc1b40f4d736) | grades 8 | $4.99 | id: coordinate-geometry-real-world
+- [Cross Sections Interactive Visual Proof | Slicing Solids | Grade 8](https://kitchentablecurriculum.com/marketplace/6ae148415d49a75bf77566ba) | grades 8 | $4.99 | id: cross-sections-of-solids-v2
+- [Decimals and Percents Bingo Review Game](https://datawithmicah.gumroad.com/l/DecimalsPercentsBingoGame) | grades 4-6 | $4.99 | id: decimals-percents-bingo-game
+- [Decimals Jeopardy Review Game | Place Value and Operations | Grades 4-6](https://datawithmicah.gumroad.com/l/DecimalsJeopardy) | grades 4-6 | $4.99 | id: decimals-jeopardy
+- [Distance Formula Visual Proof | Pythagorean Theorem on Grid | Algebra 9th Grade](https://kitchentablecurriculum.com/marketplace/6ae1484800219ce7da56d4b1) | grades 9 | $4.99 | id: distance-formula-v2
+- [Division Facts Bingo Review Game - Math Fact Fluency](https://datawithmicah.gumroad.com/l/DivisionFactsBingoGame) | grades 3-5 | $4.99 | id: division-facts-bingo-game
+- [Emoji Math Bundle - 4 Activities - Grades 1-5](https://datawithmicah.gumroad.com/l/EmojiMathBundle) | grades 1-5 | $12.99 | bundle | id: emoji-math-bundle
+- [Emoji Math Cards - Word Problems for All Four Operations - Math Grades 1-5](https://datawithmicah.gumroad.com/l/EmojiMathCards) | grades 1-5 | $4.99 | id: emoji-math-cards
+- [Emoji Math Carnival - Word Problem Story Cards - Math Grades 1-5](https://datawithmicah.gumroad.com/l/EmojiMathCarnival) | grades 1-5 | $4.99 | id: emoji-math-carnival
+- [Emoji Math Machine - Multiplication Arrays, Equal Groups, Division - Math Grades 1-5](https://datawithmicah.gumroad.com/l/EmojiMathMachine) | grades 1-5 | $4.99 | id: emoji-math-machine
+- [Emoji Math Story Theater - Whole Class Math Warm Ups, Number Talks - Math Grades 1-5](https://datawithmicah.gumroad.com/l/EmojiMathStoryTheater) | grades 1-5 | $4.99 | id: emoji-math-story-theater
+- [Equivalent Fractions Visual Proof | Area Models | Math 4th Grade](https://kitchentablecurriculum.com/marketplace/6ae1484fd61387eb602ac758) | grades 4 | $4.99 | id: equivalent-fractions-v2
+- [Exterior Angle Theorem | Animated Visual Proof | Grades 6-10](https://kitchentablecurriculum.com/marketplace/6ae1551789e31ab9fdb26774) | grades 6-10 | $4.99 | id: exterior-angle-theorem-animated-proof
+- [Factors and Multiples Jeopardy Review Game | GCF, LCM, Prime Numbers | Grades 4-6](https://datawithmicah.gumroad.com/l/FactorsMultiplesJeopardy) | grades 4-6 | $4.99 | id: factors-multiples-jeopardy
+- [Fractions Bingo Review Game](https://datawithmicah.gumroad.com/l/FractionsBingoGame) | grades 3-5 | $4.99 | id: fractions-bingo-game
+- [Fractions Jeopardy Review Game | Equivalent Fractions and Operations | Grades 3-5](https://datawithmicah.gumroad.com/l/FractionsJeopardy) | grades 3-5 | $4.99 | id: fractions-jeopardy
+- [Fractions Matching Cards - Equivalent Fractions and Shaded Bars for Grades 2-5](https://datawithmicah.gumroad.com/l/FractionsMatchingCards) | grades 2-5 | $4.99 | id: fractions-matching-card-game
+- [Geometry and Measurement Bingo Review Game - Math Vocabulary](https://datawithmicah.gumroad.com/l/GeometryMeasurementBingoGame) | grades 3-6 | $4.99 | id: geometry-measurement-bingo-game
+- [Geometry Basics Jeopardy Review Game | Angles, Area, Volume | Grades 5-7](https://datawithmicah.gumroad.com/l/GeometryBasicsJeopardy) | grades 5-7 | $4.99 | id: geometry-basics-jeopardy
+- [Geometry Transformations Game: Reflections & Rotations](https://datawithmicah.gumroad.com/l/GeometryTransformationsGameLearningResource) | any grade | $4.99 | id: geometry-transformations-game-learning-resource
+- [Geometry Transformations Puzzles | Reflections, Rotations and Translations | Coordinate Plane | Grades 7-10](https://www.etsy.com/listing/4593328680) | grades 7-10 | $4.99 | id: geometry-transformation-reflection-and-rotation-game
+- [House Framing 3D Interactive Geometry Guide | Roof Pitch, Stairs & Rafters | Grades 8-12](https://kitchentablecurriculum.com/marketplace/6adbe802e930523ac5a82253) | grades 8-12 | $4.99 | id: house-framing-geometry-guide
+- [Inequality Explorer - Interactive Algebra Lesson](https://datawithmicah.gumroad.com/l/InequalityExplorer) | any grade | $4.99 | id: inequality-explorer
+- [Interactive Pythagorean Theorem Learning Resource](https://datawithmicah.gumroad.com/l/InteractivePythagoreanTheoremLearningResource) | grades 7-10 | $4.99 | id: pythagoras-explorer
+- [Jungle Temple Explorer - Volume and 3D Shapes Escape Room | Digital Math Game | Grades 4-7](https://datawithmicah.gumroad.com/l/JungleTempleExplorerVolume3DShapes) | grades 4-7 | $4.99 | id: jungle-temple-explorer
+- [Linear and Nonlinear Functions Interactive Activity | Algebra 8th Grade](https://kitchentablecurriculum.com/marketplace/6ae5f728d40479d7cad08955) | grades 8 | $4.99 | id: functions-linear-nonlinear-visualizer
+- [Long Multiplication Teaching Bundle | Animated Lessons & Worksheets | Grades 4-6](https://datawithmicah.gumroad.com/l/LongMultiplicationTeachingBundle) | grades 4-6 | $4.99 | id: long-multiplication-teaching-bundle
+- [Math Slither | Integer Ice | Grades 5-8](https://payhip.com/b/nQjai) | grades 5-8 | $4.99 | id: math-slither-integers
+- [Math Slither Algebra | One-Step Equations Game | Digital Math Activity | Grades 6-8](https://payhip.com/b/d4t0g) | grades 6-8 | $4.99 | id: math-slither-one-step-equations
+- [Math Slither Comparing Decimals - Decimal Comparison Game | Digital Math Activity | Grades 4-6](https://datawithmicah.gumroad.com/l/MathSlitherComparingDecimals) | grades 4-6 | $4.99 | id: math-slither-comparing-decimals
+- [Math Slither Missing Factors | Multiplication & Division Game | Digital Math Activity | Grades 3-5](https://kitchentablecurriculum.com/marketplace/6adbbb7e17f821d99a1ce576) | grades 3-5 | $4.99 | id: math-slither-missing-factors
+- [Math Slither Multiplication | Times Tables Practice Game | Digital Math Activity | Grades 2-5](https://kitchentablecurriculum.com/marketplace/6adbbb84b7315f00ebdfbe90) | grades 2-5 | $4.99 | id: math-slither-multiplication
+- [Math Slither Power Up | Exponents Practice Game | Digital Math Activity | Grades 5-8](https://kitchentablecurriculum.com/marketplace/6adbbb8afd501f60e4e504d5) | grades 5-8 | $4.99 | id: math-slither-exponents
+- [Math Test Prep Jeopardy Review Game | Standardized Test Strategies | Grades 4-5](https://datawithmicah.gumroad.com/l/MathTestPrepJeopardy) | grades 4-5 | $4.99 | id: math-test-prep-jeopardy
+- [Math Visual Proofs Bundle - 24 Animated and Interactive Proofs, Geometry and Algebra, Grades 5-12](https://datawithmicah.gumroad.com/l/MathVisualProofs24OneFile) | grades 5-12 | $4.99 | id: math-visual-proofs24-one-file
+- [Money Jeopardy Review Game | Currency and Financial Literacy | Grades 3-6](https://datawithmicah.gumroad.com/l/MoneyJeopardy) | grades 3-6 | $4.99 | id: money-jeopardy-grades-3-6
+- [Multiplication Facts Bingo - Math Fact Bingo Game - 4th Grade Review](https://datawithmicah.gumroad.com/l/MultiplicationFactsBingo) | grades 3-5 | free | id: multiplication-facts-bingo-game
+- [Number Sense Bingo Game](https://datawithmicah.gumroad.com/l/NumberSenseBingoGame) | grades K-3 | $4.99 | id: number-sense-bingo-game
+- [Order of Operations Jeopardy Review Game | PEMDAS Practice | Grades 4-6](https://datawithmicah.gumroad.com/l/OrderOfOperationsJeopardy) | grades 4-6 | $4.99 | id: order-of-operations-jeopardy
+- [Order of Operations Learning Resource](https://datawithmicah.gumroad.com/l/OrderofOperationsLearningResource) | grades 6-8 | $4.99 | id: order-of-operations-learning-resource
+- [Parallel Lines and Transversals | Angle Relationships Activity | Grades 7-9](https://datawithmicah.gumroad.com/l/ParallelLinesTransversals) | grades 7-9 | $4.99 | id: parallel-lines-transversals-angles-visualizer
+- [Perimeter vs Area Visual Proof | Fence and Tiles | Math 4th Grade](https://kitchentablecurriculum.com/marketplace/6ae14856eebcd21e5eae7a8f) | grades 4 | $4.99 | id: perimeter-vs-area-v2
+- [Pirate's Treasure Quest - Navigation Escape Room | Grades 3-6](https://datawithmicah.gumroad.com/l/PiratesTreasureQuestNavigationEscapeRoom) | grades 3-6 | $4.99 | id: pirate-treasure-quest
+- [Polygon Area Interactive Visual Proof | Cut Into Triangles | Grades 6-8](https://kitchentablecurriculum.com/marketplace/6ae1485c3fd6d1f9521ec5d5) | grades 6-8 | $4.99 | id: polygon-area-decomposition-v2
+- [Pythagorean Theorem | Visual Proof | Grade 8](https://payhip.com/b/IdTkX) | grades 8 | $4.99 | id: pythagorean-theorem-animated-proof
+- [Pythagorean Theorem Deep Dive | Interactive Math Lesson & Activity | Grade 8](https://kitchentablecurriculum.com/marketplace/6adbe80a8b331fd84b4c6342) | grades 8 | $4.99 | id: pythagorean-theorem-deep-dive
+- [Pythagorean Theorem Jeopardy Review Game | a² + b² = c² | Grades 8-9](https://datawithmicah.gumroad.com/l/PythagoreanTheoremJeopardy) | grades 8-9 | $4.99 | id: pythagorean-theorem-jeopardy
+- [Pythagorean Theorem Visual Lab | Interactive Proof and Distance on a Grid | Grades 7-9](https://datawithmicah.gumroad.com/l/PythagoreanTheoremVisualLab) | grades 7-9 | free | id: pythagorean-theorem-visual-lab
+- [Pythagorean Theorem Visual Proof | Squares on the Sides | Geometry 8th Grade](https://kitchentablecurriculum.com/marketplace/6ae148632d20298d7c1fe1e9) | grades 8 | $4.99 | id: pythagorean-theorem-v2
+- [Rational and Irrational Numbers Visualizer | Repeating Decimals and Square Roots | Grades 7-9](https://datawithmicah.gumroad.com/l/RationalIrrationalNumbers) | grades 7-9 | $4.99 | id: rational-irrational-numbers-visualizer
+- [Ratios Rates and Proportions Jeopardy Review Game | Unit Rate Practice | Grades 6-7](https://datawithmicah.gumroad.com/l/RatiosProportionsJeopardy) | grades 6-7 | $4.99 | id: ratios-proportions-jeopardy
+- [Roman Numerals Practice Game | Interactive Number Sense | 4th Grade Math](https://kitchentablecurriculum.com/marketplace/6adf9f80e776075923eff75e) | grades 4 | $4.99 | id: roman-numerals-visual-workshop
+- [Scale Factor Interactive Visual Proof | k, k Squared, k Cubed | Grade 8](https://kitchentablecurriculum.com/marketplace/6ae1486a390874e95ae95428) | grades 8 | $4.99 | id: scale-factor-area-volume-v2
+- [Scatter Plots and Line of Best Fit Visualizer | Least Squares and Two-Way Tables | Grades 7-9](https://datawithmicah.gumroad.com/l/ScatterPlotsLineOfBestFit) | grades 7-9 | $4.99 | id: scatter-plots-line-of-best-fit-visualizer
+- [Scientific Notation Activity | Powers of Ten and Exponent Rules | 8th Grade](https://kitchentablecurriculum.com/marketplace/6ae5f6d506c3b1ad85e5f495) | grades 8 | $4.99 | id: scientific-notation-powers-of-ten-visualizer
+- [Secret Agent Training | Logic Escape Room | Deduction and Number Patterns | Grades 4-8](https://classful.com/product/secret-agent-training-logic-escape-room-deduction-and-number-patterns-grades-4-8/) | grades 4-8 | $4.99 | id: secret-agent-training
+- [Shape Blaster | Boss Battle Math Game Geometry Vocabulary Builder | Grades 4-9](https://classful.com/product/shape-blaster/) | grades 4-9 | $4.99 | id: shape-blaster
+- [Slope and Rate of Change Visualizer | Graph, Table, Equation and Story | Grades 7-9](https://datawithmicah.gumroad.com/l/SlopeRateOfChangeVisualizer) | grades 7-9 | free | id: slope-rate-of-change-visualizer
+- [Slope of a Line Visual Proof | Rise Over Run on Grid | Algebra 8th Grade](https://kitchentablecurriculum.com/marketplace/6ae1487096db7f53cf83e1fd) | grades 8 | $4.99 | id: slope-of-a-line-v2
+- [Statistics and Probability Jeopardy](https://datawithmicah.gumroad.com/l/Statistics-Probability-Jeopardy) | any grade | $4.99 | id: statistics-probability-jeopardy
+- [Sum of Squares | Animated Visual Proof | Grades 8-10](https://kitchentablecurriculum.com/marketplace/6ae1551e246a8f4eba53059c) | grades 8-10 | $4.99 | id: sum-of-squares-animated-proof
+- [Systems of Equations Race | Solving Systems by Graphing Activity | Grades 7-9](https://datawithmicah.gumroad.com/l/SystemsOfEquationsRace) | grades 7-9 | free | id: systems-of-equations-race-visualizer
+- [Systems of Equations Visualizer | Interactive Digital Algebra Activity Grade 8-11](https://kitchentablecurriculum.com/marketplace/6ae15af0b54a943e096392f1) | grades 8-11 | $4.99 | id: systems-of-equations-visualizer
+- [Telling Time to the Nearest 5 Minutes - 2nd Grade Math Activity and Worksheets](https://datawithmicah.gumroad.com/l/TellingTimeNearest5Minutes) | grades 2 | $4.99 | id: telling-time-nearest-5-minutes
+- [The Chart Doctor - Misleading Graphs Data Literacy Activity](https://datawithmicah.gumroad.com/l/ChartDoctorMisleadingGraphs) | grades 6-10 | $4.99 | id: chart-doctor-misleading-graphs
+- [Transformations on the Coordinate Plane | Reflections, Rotations and Dilations | Grades 7-9](https://datawithmicah.gumroad.com/l/TransformationsCoordinatePlane) | grades 7-9 | free | id: transformations-coordinate-plane-visualizer
+- [Venn Diagram Learning Resource](https://datawithmicah.gumroad.com/l/VennDiagramLearningResource) | any grade | $4.99 | id: venn-diagram-learning-resource
+- [Volume of 3D Shapes Visual Proof | Base Times Height Layers | Math 7th Grade](https://kitchentablecurriculum.com/marketplace/6ae1487672366cc03c4ff3cf) | grades 7 | $4.99 | id: volume-3d-shapes-v2
+- [Volume of Cones, Cylinders and Spheres | 3D Pour Test Activity | Grades 7-9](https://datawithmicah.gumroad.com/l/VolumePourTest) | grades 7-9 | free | id: volume-cones-cylinders-spheres-3d

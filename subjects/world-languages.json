@@ -1,0 +1,1448 @@
+{
+ "subject": "world-languages",
+ "name": "World languages",
+ "count": 32,
+ "products": [
+  {
+   "id": "french-1-jeopardy",
+   "title": "French 1 Jeopardy Review Game - World Language Review - Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "French"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A Jeopardy-style team review game for first-year French. The board has six categories of five clues each, 30 clues in all, worth $200 to $1000. Clues are written in English and the answers are French words and phrases shown in the form \"What is ...?\".",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/French1Jeopardy"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/french-1-jeopardy-review-game-greetings-numbers-family-food-and-verbs-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "french 1 jeopardy review game",
+    "world language game",
+    "review game",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "french jeopardy"
+   ]
+  },
+  {
+   "id": "french-2-jeopardy",
+   "title": "French 2 Jeopardy Review Game - World Language Review - Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "French"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A Jeopardy-style team review game for second-year French. The board has six categories of five clues each, 30 clues in all, worth $200 to $1000. Clues are written in English, except the Final Jeopardy clue, which is in French. Answers are shown in the form \"What is ...?\".",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/French2Jeopardy"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/french-2-jeopardy-review-game-passe-compose-imparfait-near-future-partitives-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0db873b3db963621d152e"
+    }
+   ],
+   "tags": [
+    "french 2 jeopardy review game",
+    "world language game",
+    "review game",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "french jeopardy"
+   ]
+  },
+  {
+   "id": "french-3-jeopardy",
+   "title": "French 3 Jeopardy Review Game - World Language Review - Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "French"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A Jeopardy-style team review game for third-year French. The board has six categories of five clues each, 30 clues in all, worth $200 to $1000. Clues are written in French and the answers are shown in the form \"What is ...?\".",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/French3Jeopardy"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/french-3-jeopardy-review-game-subjunctive-conditional-y-and-en-idioms-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0db8e958915dc10ed223b"
+    }
+   ],
+   "tags": [
+    "french 3 jeopardy review game",
+    "world language game",
+    "review game",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "french jeopardy"
+   ]
+  },
+  {
+   "id": "german-1-jeopardy",
+   "title": "German 1 Jeopardy Review Game - World Language Review - Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "German"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A Jeopardy-style team review game for first-year German. The board has six categories of five clues each, 30 clues in all, worth $200 to $1000. Clues are written in English and the answers are German words and phrases shown in the form \"What is ...?\".",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/German1Jeopardy"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/german-1-jeopardy-review-game-greetings-numbers-family-food-and-grammar-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "german 1 jeopardy review game",
+    "world language game",
+    "review game",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "german jeopardy"
+   ]
+  },
+  {
+   "id": "german-2-jeopardy",
+   "title": "German 2 Jeopardy Review Game - World Language Review - Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "German"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A Jeopardy-style team review game for second-year German. The board has six categories of five clues each, 30 clues in all, worth $200 to $1000. Clues are written in English, and most answers are German words and phrases (some ask for the English meaning), shown in the form \"What is ...?\".",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/German2Jeopardy"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/german-2-jeopardy-review-game-perfekt-modal-verbs-dative-two-way-prepositions-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "german 2 jeopardy review game",
+    "world language game",
+    "review game",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "german jeopardy"
+   ]
+  },
+  {
+   "id": "german-3-jeopardy",
+   "title": "German 3 Jeopardy Review Game - World Language Review - Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "German"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A Jeopardy-style team review game for third-year German. The board has six categories of five clues each, 30 clues in all, worth $200 to $1000. Clues are written in German and the answers are shown in the form \"What is ...?\".",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/German3Jeopardy"
+    }
+   ],
+   "tags": [
+    "german jeopardy",
+    "german review game",
+    "german 3",
+    "genitive case",
+    "konjunktiv ii",
+    "world language",
+    "german",
+    "jeopardy"
+   ]
+  },
+  {
+   "id": "italian-1-jeopardy",
+   "title": "Italian 1 Jeopardy Review Game - World Language Review - Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Italian"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A Jeopardy-style team review game for first-year Italian. The board has six categories of five clues each, 30 clues in all, worth $200 to $1000. Clues are written in English and the answers are Italian words and phrases shown in the form \"What is ...?\".",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/Italian1Jeopardy"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/italian-1-jeopardy-review-game-greetings-numbers-family-food-and-verbs-grades-6-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0db94304eefc17968f940"
+    }
+   ],
+   "tags": [
+    "italian 1 jeopardy review game",
+    "world language game",
+    "review game",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "italian jeopardy"
+   ]
+  },
+  {
+   "id": "italian-2-jeopardy",
+   "title": "Italian 2 Jeopardy Review Game - Passato Prossimo, Pronouns and Prepositions - Grades 8-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Italian"
+   ],
+   "grades": [
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "8-12",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A Jeopardy-style team review game for second-year Italian. The board has six categories of five clues each, 30 clues in all, worth $200 to $1000. Teams pick a clue, the answer is revealed with one click, and the scoreboard adds or subtracts the points.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/Italian2Jeopardy"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/italian-2-jeopardy-review-game-passato-prossimo-pronouns-and-prepositions-grades-8-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0db9bee01e2cc27d7c87d"
+    }
+   ],
+   "tags": [
+    "italian 2 jeopardy review game",
+    "world language game",
+    "review game",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "italian jeopardy"
+   ]
+  },
+  {
+   "id": "italian-3-jeopardy",
+   "title": "Italian 3 Jeopardy Review Game - Congiuntivo, Condizionale, Idioms and Literature - Grades 10-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Italian"
+   ],
+   "grades": [
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "10-12",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A Jeopardy-style team review game for third-year Italian. The board has six categories of five clues each, 30 clues in all, worth $200 to $1000. Every clue is written in Italian; the answers are shown in the form \"What is ...?\".",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/Italian3Jeopardy"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/italian-3-jeopardy-review-game-congiuntivo-condizionale-idioms-and-literature-grades-10-12/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae0dba34c313c924cc9ca9e"
+    }
+   ],
+   "tags": [
+    "italian 3 jeopardy review game",
+    "world language game",
+    "review game",
+    "world language",
+    "foreign language",
+    "high school",
+    "italian jeopardy",
+    "italian review game"
+   ]
+  },
+  {
+   "id": "korean-hangul-writing-practice",
+   "title": "Korean Hangul Writing Practice | 24 Letters, Printable Tracing Worksheets | Grades 6-12",
+   "subject": "world-languages",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [],
+   "summary": "Give your students a clean, no-prep way to learn to write Korean by hand. This printable Korean Hangul Writing Practice packet walks beginners through all 24 basic Hangul letters - 14 consonants and 10 vowels - with traceable gray characters, romanization, Korean letter names, sound examples, and...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/KoreanHangulWritingPractice"
+    }
+   ],
+   "tags": [
+    "printable",
+    "korean",
+    "hangul",
+    "writing practice",
+    "world language"
+   ]
+  },
+  {
+   "id": "korean-language-quick-reference",
+   "title": "Korean Language Quick Reference | 35 Hangul Letters, Numbers, 20 Survival Phrases, Grammar and Verbs | Grades 6-12",
+   "subject": "world-languages",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [],
+   "summary": "Give your Korean students one clean, printable sheet they can keep on their desk all year. This Korean Language Quick Reference packs the essentials of beginning Korean onto two organized pages: the full Hangul alphabet with romanization, both Korean number systems, real survival phrases, the core...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/KoreanLanguageQuickReference"
+    }
+   ],
+   "tags": []
+  },
+  {
+   "id": "korean-numbers-trainer",
+   "title": "Korean Numbers Trainer | 200+ Number Words, Sino-Korean and Native Korean | Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Korean"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A Korean numbers practice app with two number systems side by side. It lists the Sino-Korean numbers 1 to 100 plus 1,000 and 10,000, and the Native Korean numbers 1 to 99, 201 number words in all, each with romanization. It has three tabs: Learn, Drill and Usage Guide.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/KoreanNumbersTrainer"
+    }
+   ],
+   "tags": [
+    "korean numbers",
+    "sino-korean",
+    "native korean numbers",
+    "korean counting",
+    "hangul",
+    "world language",
+    "korean",
+    "numbers"
+   ]
+  },
+  {
+   "id": "korean-phrases-level-4",
+   "title": "Korean Phrases Level 4 | 29 Everyday Expressions with Audio | Grades 6-12",
+   "subject": "world-languages",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [],
+   "summary": "Help your students move past basics and into real conversation with this Level 4 Korean phrase pack. It covers 29 advanced everyday and conversational expressions your learners can actually use in the classroom, the office, on the phone, in presentations, and when giving feedback or sharing an...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/KoreanPhrasesLevel4"
+    }
+   ],
+   "tags": []
+  },
+  {
+   "id": "korean-phrases-level-5",
+   "title": "Korean Phrases Level 5 | 30 Advanced Everyday Expressions with Audio | Grades 6-12",
+   "subject": "world-languages",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [],
+   "summary": "Take your Korean learners beyond the basics with 30 advanced everyday expressions they can hear, read, and practice at their own pace.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/KoreanPhrasesLevel5"
+    }
+   ],
+   "tags": []
+  },
+  {
+   "id": "mandarin-flashcards-level-1",
+   "title": "Mandarin Chinese Flashcards Level 1 | 400 Beginner Words | Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Chinese"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Flash Cards",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A set of 400 beginner Mandarin Chinese vocabulary words on flip cards, grouped into 24 categories. The front of each card shows the Chinese characters with pinyin; the back shows the English meaning.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MandarinChineseFlashcardsLevel1"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/mandarin-chinese-flashcards-level-1-400-beginner-words-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "mandarin chinese flashcards level 1",
+    "flashcards",
+    "interactive",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "mandarin flashcards"
+   ]
+  },
+  {
+   "id": "mandarin-flashcards-level-2",
+   "title": "Mandarin Chinese Flashcards Level 2 | 400 Intermediate Words | Grades 7-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Chinese"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Flash Cards",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A set of 400 intermediate Mandarin Chinese vocabulary words on flip cards, grouped into 20 categories. The front of each card shows the Chinese characters with pinyin; the back shows the English meaning.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MandarinChineseFlashcardsLevel2"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/mandarin-chinese-flashcards-level-2-400-intermediate-words-grades-7-12/"
+    }
+   ],
+   "tags": [
+    "mandarin chinese flashcards level 2",
+    "flashcards",
+    "interactive",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "mandarin flashcards"
+   ]
+  },
+  {
+   "id": "mandarin-flashcards-level-3",
+   "title": "Mandarin Chinese Flashcards Level 3 | 400 Advanced Words | Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Chinese"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Flash Cards",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A set of 400 advanced Mandarin Chinese vocabulary words on flip cards, grouped into 20 categories. The front of each card shows the Chinese characters with pinyin; the back shows the English meaning.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MandarinChineseFlashcardsLevel3"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/mandarin-chinese-flashcards-level-3-400-advanced-words-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "mandarin chinese flashcards level 3",
+    "flashcards",
+    "interactive",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "mandarin flashcards"
+   ]
+  },
+  {
+   "id": "mandarin-flashcards-level-4",
+   "title": "Mandarin Chinese Flashcards Level 4 | 400 Advanced Words | Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Chinese"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Flash Cards",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A set of 400 advanced Mandarin Chinese vocabulary words on flip cards, grouped into 20 categories. The front of each card shows the Chinese characters with pinyin; the back shows the English meaning.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MandarinChineseFlashcardsLevel4"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/mandarin-chinese-flashcards-level-4-400-advanced-words-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "mandarin chinese flashcards level 4",
+    "flashcards",
+    "interactive",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "mandarin flashcards"
+   ]
+  },
+  {
+   "id": "mandarin-flashcards-level-5",
+   "title": "Mandarin Chinese Flashcards Level 5 | 400 Advanced Words | Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Chinese"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Flash Cards",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A set of 400 advanced Mandarin Chinese vocabulary words on flip cards, grouped into 25 categories. The front of each card shows the Chinese characters with pinyin; the back shows the English meaning.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MandarinChineseFlashcardsLevel5"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/mandarin-chinese-flashcards-level-5-400-advanced-words-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "mandarin chinese flashcards level 5",
+    "flashcards",
+    "interactive",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "mandarin flashcards"
+   ]
+  },
+  {
+   "id": "mandarin-phrases-level-1",
+   "title": "Mandarin Chinese Phrases Level 1 | 400 Beginner Phrases & Sentences | Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Chinese"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Flash Cards",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A set of 400 beginner Mandarin Chinese phrases and sentences on flip cards, grouped into 23 categories. The front of each card shows the Chinese characters with pinyin; the back shows the English meaning.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MandarinChinesePhrasesLevel1"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/mandarin-chinese-phrases-level-1-400-beginner-phrases-sentences-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "mandarin chinese phrases level 1",
+    "flashcards",
+    "interactive",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "mandarin phrases"
+   ]
+  },
+  {
+   "id": "mandarin-phrases-level-2",
+   "title": "Mandarin Chinese Phrases Level 2 | 400 Intermediate Phrases | Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Chinese"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Flash Cards",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A set of 400 intermediate Mandarin Chinese phrases and sentences on flip cards, grouped into 20 categories. The front of each card shows the Chinese characters with pinyin; the back shows the English meaning.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MandarinChinesePhrasesLevel2"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/mandarin-chinese-phrases-level-2-400-intermediate-phrases-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "mandarin chinese phrases level 2",
+    "flashcards",
+    "interactive",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "mandarin phrases"
+   ]
+  },
+  {
+   "id": "mandarin-phrases-level-3",
+   "title": "Mandarin Chinese Phrases Level 3 | 400 Intermediate Conversation Phrases | Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Chinese"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Flash Cards",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A set of 400 intermediate Mandarin Chinese phrases and sentences on flip cards, grouped into 22 categories. The front of each card shows the Chinese characters with pinyin; the back shows the English meaning.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MandarinChinesePhrasesLevel3"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/mandarin-chinese-phrases-level-3-400-intermediate-conversation-phrases-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "mandarin chinese phrases level 3",
+    "flashcards",
+    "interactive",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "mandarin phrases"
+   ]
+  },
+  {
+   "id": "mandarin-phrases-level-4",
+   "title": "Mandarin Chinese Phrases Level 4 | 400 Advanced Phrases & Sentences | Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Chinese"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Flash Cards",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A set of 400 advanced Mandarin Chinese phrases and sentences on flip cards, grouped into 22 categories. The front of each card shows the Chinese characters with pinyin; the back shows the English meaning.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MandarinChinesePhrasesLevel4"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/mandarin-chinese-phrases-level-4-400-advanced-phrases-sentences-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "mandarin chinese phrases level 4",
+    "flashcards",
+    "interactive",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "mandarin phrases"
+   ]
+  },
+  {
+   "id": "mandarin-phrases-level-5",
+   "title": "Mandarin Chinese Phrases Level 5 | 400 Advanced Idioms, Proverbs & Classical Sayings | Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Chinese"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Flash Cards",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A set of 400 advanced Mandarin Chinese phrases and sentences on flip cards, grouped into 21 categories. The front of each card shows the Chinese characters with pinyin; the back shows the English meaning.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MandarinChinesePhrasesLevel5"
+    }
+   ],
+   "tags": [
+    "mandarin phrases",
+    "chinese phrases",
+    "advanced mandarin",
+    "pinyin practice",
+    "chinese sentences",
+    "world language",
+    "chinese vocabulary",
+    "flash cards"
+   ]
+  },
+  {
+   "id": "speaking-roles-mandarin-family-food-and-culture",
+   "title": "Mandarin Chinese Speaking Practice: Family, Food and Culture | Interactive Roleplay with Audio | Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Chinese"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A Mandarin speaking-practice app built from 12 short branching conversations with characters from Chinese family, food and festival life. The character says each line aloud in Mandarin.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MandarinSpeakingRolesFamilyFoodCulture"
+    }
+   ],
+   "tags": [
+    "mandarin speaking practice",
+    "mandarin conversation",
+    "chinese roleplay",
+    "pinyin",
+    "world language",
+    "chinese culture",
+    "speaking",
+    "conversation"
+   ]
+  },
+  {
+   "id": "russian-flashcards-level-1",
+   "title": "Russian Flashcards Level 1 | 400 Beginner Words with Audio | Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Russian"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Flash Cards",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A set of 400 beginner Russian vocabulary words on flip cards, grouped into 23 categories. The front of each card shows the Russian word with stress marks and a Latin-letter transliteration. The back shows the English meaning.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/RussianFlashcardsLevel1"
+    }
+   ],
+   "tags": [
+    "russian flashcards",
+    "russian vocabulary",
+    "beginner russian",
+    "cyrillic practice",
+    "transliteration",
+    "world language",
+    "russian",
+    "beginner"
+   ]
+  },
+  {
+   "id": "russian-character-quest",
+   "title": "Russian Speaking & Conversation Practice | Talk with 12 Characters, Native Audio | Grades 7-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Russian"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A Russian speaking-practice app built from 12 short branching conversations, each with a character: a cafe barista, a blini stand cook, a taxi driver, a grocery cashier, a market vendor, a hotel front desk clerk, a classmate, a concert fan, a pharmacist, an interviewer, a bank teller and a real...",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/RussianCharacterQuest"
+    }
+   ],
+   "tags": [
+    "russian speaking practice",
+    "russian conversation",
+    "russian roleplay",
+    "world language",
+    "ty vs vy",
+    "listening practice",
+    "audio",
+    "russian"
+   ]
+  },
+  {
+   "id": "russian-travel-phrases",
+   "title": "Russian Travel Phrases with Audio | 48 Survival Phrases, Interactive Flashcards | Grades 7-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Russian"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Flash Cards",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A set of 48 Russian travel phrases on flip cards, in seven categories. The front of each card shows the Russian phrase with stress marks and a Latin-letter transliteration. The back shows the English.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/RussianTravelPhrases"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/russian-travel-phrases-with-audio-48-survival-phrases-interactive-flashcards-grades-7-12/"
+    }
+   ],
+   "tags": [
+    "russian travel phrases with audio",
+    "flashcards",
+    "interactive",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "russian travel phrases"
+   ]
+  },
+  {
+   "id": "spanish-1-jeopardy",
+   "title": "Spanish 1 Jeopardy Review Game - World Language Review - Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Spanish"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A Jeopardy-style team review game for first-year Spanish. The board has six categories of five clues each, 30 clues in all, worth $200 to $1000. Clues are written in English and the answers are Spanish words and phrases shown in the form \"What is ...?\".",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/Spanish1Jeopardy",
+     "free_here": true
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/spanish-1-jeopardy-review-game-greetings-numbers-family-food-and-verbs-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "spanish 1 jeopardy review game",
+    "world language game",
+    "review game",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "spanish jeopardy"
+   ]
+  },
+  {
+   "id": "spanish-2-jeopardy",
+   "title": "Spanish 2 Jeopardy Review Game - World Language Review - Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Spanish"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A Jeopardy-style team review game for second-year Spanish. The board has six categories of five clues each, 30 clues in all, worth $200 to $1000. Clues are written in English, and most answers are Spanish words and phrases (some ask for the English meaning), shown in the form \"What is ...?\".",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/Spanish2Jeopardy"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/spanish-2-jeopardy-review-game-preterite-and-imperfect-reflexive-verbs-commands-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "spanish 2 jeopardy review game",
+    "world language game",
+    "review game",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "spanish jeopardy"
+   ]
+  },
+  {
+   "id": "spanish-3-jeopardy",
+   "title": "Spanish 3 Jeopardy Review Game - World Language Review - Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Spanish"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A Jeopardy-style team review game for third-year Spanish. The board has six categories of five clues each, 30 clues in all, worth $200 to $1000. Clues are written in Spanish and the answers are shown in the form \"What is ...?\".",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/Spanish3Jeopardy"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/spanish-3-jeopardy-review-game-subjunctive-perfect-tenses-por-vs-para-idioms-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "spanish 3 jeopardy review game",
+    "world language game",
+    "review game",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "spanish jeopardy"
+   ]
+  },
+  {
+   "id": "christmas-in-spanish-and-english-dual-language-reading",
+   "title": "Spanish Christmas Reading Comprehension | Dual Language English Passages | Navidad (Grades 3-6)",
+   "subject": "world-languages",
+   "topics": [
+    "Reading & Literacy",
+    "Languages"
+   ],
+   "grades": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "grade_band": "3-6",
+   "types": [
+    "Reading Passages",
+    "Printables",
+    "Interactives"
+   ],
+   "summary": "Bring the Christmas season into your Spanish or dual-language classroom with this interactive, self-grading reading set. Every passage is written in BOTH Spanish and English, so Spanish-speaking students, heritage learners, and English readers can all use the same activity.",
+   "free": false,
+   "price_usd": 4.99,
+   "bundle": false,
+   "links": [
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae8832d3b64bb7dfed7004c"
+    }
+   ],
+   "tags": [
+    "spanish christmas reading comprehension",
+    "reading comprehension",
+    "reading passages",
+    "reading",
+    "literacy",
+    "upper elementary",
+    "middle school",
+    "dual language english passages"
+   ]
+  }
+ ]
+}

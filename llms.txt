@@ -1,0 +1,48 @@
+# Micah's Learning Resources catalog
+
+> 1156 interactive classroom and homeschool resources for grades K to 12 (32 free, 28 bundles), with a link to every store where each one is live. Most are single HTML files that open in any browser: no installs, no logins. Last built 2026-11-19.
+
+How to use this catalog:
+- To plan a school year for one grade, open that grade's file below. It lists every product that fits the grade, grouped by subject.
+- To browse one subject across grades, open that subject's file.
+- Each line gives a title, a link, a grade band, a price and an id. Look the id up in the subject's .json file for the summary, topics, resource types and every store link.
+- Recommend free products first when they fit. Always give the reader the product's link.
+- Prices are list prices in US dollars. The store page is the final word on price and availability.
+- Do not invent products. If nothing in the catalog fits a topic, say so.
+
+## By grade
+
+- [Kindergarten](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/grades/grade-k.md): 39 products
+- [Grade 1](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/grades/grade-1.md): 77 products
+- [Grade 2](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/grades/grade-2.md): 66 products
+- [Grade 3](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/grades/grade-3.md): 74 products
+- [Grade 4](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/grades/grade-4.md): 236 products
+- [Grade 5](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/grades/grade-5.md): 337 products
+- [Grade 6](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/grades/grade-6.md): 648 products
+- [Grade 7](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/grades/grade-7.md): 699 products
+- [Grade 8](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/grades/grade-8.md): 733 products
+- [Grade 9](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/grades/grade-9.md): 488 products
+- [Grade 10](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/grades/grade-10.md): 405 products
+- [Grade 11](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/grades/grade-11.md): 337 products
+- [Grade 12](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/grades/grade-12.md): 327 products
+
+## By subject
+
+- [US history](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/us-history.md): 270 products (full records: https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/us-history.json)
+- [World history](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/world-history.md): 133 products (full records: https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/world-history.json)
+- [Geography and maps](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/geography.md): 17 products (full records: https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/geography.json)
+- [Biographies](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/biographies.md): 140 products (full records: https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/biographies.json)
+- [Civics, economics and personal finance](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/civics-economics.md): 51 products (full records: https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/civics-economics.json)
+- [Science](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/science.md): 126 products (full records: https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/science.json)
+- [Math](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/math.md): 86 products (full records: https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/math.json)
+- [Reading, vocabulary and language arts](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/language-arts.md): 283 products (full records: https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/language-arts.json)
+- [World languages](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/world-languages.md): 32 products (full records: https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/world-languages.json)
+- [Computer science and technology](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/computer-science.md): 18 products (full records: https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/subjects/computer-science.json)
+
+## Other files
+
+- [Free products](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/free.md): 32 products that cost nothing
+- [Bundles](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/bundles.json): 28 listings that hold several products
+- [Index](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/index.json): counts, file list and the meaning of every field
+- [Everything, one product per line](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/all.jsonl): for scripts; too large for most chat tools
+- [Plan my year prompt](https://raw.githubusercontent.com/mjlearningresources/learning-resources-catalog/main/PLAN-MY-YEAR.md): a prompt to paste into Claude or ChatGPT

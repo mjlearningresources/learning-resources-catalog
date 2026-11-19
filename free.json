@@ -1,0 +1,1305 @@
+{
+ "count": 32,
+ "note": "Free products. On Gumroad a free product is pay-what-you-want from $0: enter 0 at checkout.",
+ "products": [
+  {
+   "id": "archimedes-interactive-biography",
+   "title": "Archimedes Interactive Biography - Levers and the Siege of Syracuse - Grades 7-12",
+   "subject": "biographies",
+   "topics": [
+    "Art History",
+    "Visual Arts",
+    "History"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "7-12",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assignments"
+   ],
+   "summary": "Bring Archimedes of Syracuse (c. 287 to 212 BCE) to life with this interactive biography of the mathematician and engineer who balanced the lever, explained why heavy things float, and held a city against a siege.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/ArchimedesBiography",
+     "free_here": true
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae8035d182c3f14e3ef6af4"
+    }
+   ],
+   "tags": [
+    "archimedes interactive biography",
+    "biography",
+    "quiz",
+    "art history",
+    "art",
+    "middle school",
+    "high school",
+    "engineering"
+   ]
+  },
+  {
+   "id": "machine-learning-concepts-resource-pack",
+   "title": "Machine Learning Concepts Resource Pack",
+   "subject": "computer-science",
+   "topics": [],
+   "grades": [],
+   "grade_band": null,
+   "types": [],
+   "summary": "A list of 16 resources for learning machine learning, grouped in the order to work through them, each with a line on what it is good for and what it costs.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MachineLearningConceptsResourcePack",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "data science",
+    "free resources",
+    "computer science",
+    "ai",
+    "machine learning"
+   ]
+  },
+  {
+   "id": "worldle-classroom-guide",
+   "title": "Worldle Classroom Guide | Geography Lessons and Printables | Grades 4-12",
+   "subject": "geography",
+   "topics": [],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "4-12",
+   "types": [],
+   "summary": "An independent classroom lesson guide for using Worldle, the daily country shape geography game made by Teuteuf Games. This resource teaches students to use the real game's outline, distance, and direction clues. It does not include or provide access to the game.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/WorldleClassroomGuide",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "geography",
+    "printables",
+    "map skills",
+    "classroom guide",
+    "worldle"
+   ]
+  },
+  {
+   "id": "solar-system-vocabulary-trainer",
+   "title": "Solar System Vocabulary Trainer | Picture Cards, Matching Game and Self-Graded Test | Grades 4-7",
+   "subject": "language-arts",
+   "topics": [],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ],
+   "grade_band": "4-7",
+   "types": [],
+   "summary": "A vocabulary trainer for a unit on Solar System. Students study 28 term cards, match terms to definitions, fill 11 blanks in a reading passage and finish with a 18 question test that grades itself and explains every answer.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/SolarSystemVocabularyTrainer",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "science",
+    "vocabulary",
+    "solar system",
+    "middle school",
+    "vocabulary trainer"
+   ]
+  },
+  {
+   "id": "word-by-word-pirates",
+   "title": "Word by Word Reader - Pirates - Decodable Phonics Stories",
+   "subject": "language-arts",
+   "topics": [],
+   "grades": [
+    "1"
+   ],
+   "grade_band": "1",
+   "types": [],
+   "summary": "The Map in the Sand starts a voyage from the deck to a cave full of gold. Decodable stories about pirates, twelve of them, for grades 1 and 2.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/WordByWordPirates",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "pirates",
+    "phonics",
+    "beginning readers",
+    "decodable readers"
+   ]
+  },
+  {
+   "id": "word-by-word-pumpkin-patch",
+   "title": "Word by Word Reader - Pumpkin Patch - Decodable Phonics Stories",
+   "subject": "language-arts",
+   "topics": [
+    "Reading & Literacy"
+   ],
+   "grades": [
+    "1"
+   ],
+   "grade_band": "1",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "The Fat Pumpkin opens a patch set that runs through the leaf pile and the fall barn. Decodable stories about the pumpkin patch, twelve of them, for grades 1 and 2.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/WordByWordPumpkinPatch",
+     "free_here": true
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1d55636f81d7b87fa51a0"
+    }
+   ],
+   "tags": [
+    "word by word reader",
+    "decodable readers",
+    "interactive",
+    "reading",
+    "literacy",
+    "early elementary",
+    "pumpkin patch",
+    "beginning readers"
+   ]
+  },
+  {
+   "id": "5th-grade-divide-unit-fractions-path-game",
+   "title": "5th Grade Dividing Unit Fractions Game | Divide Unit Fractions Path | 72 On-Screen Questions",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "5"
+   ],
+   "grade_band": "5",
+   "types": [],
+   "summary": "Divide Unit Fractions Path is a Grade 5 review game for 5.NF.7. Two teams answer dividing-with-unit-fractions questions and race to connect their sides of a hexagon board. It includes 72 on-screen questions across 6 skills, and every question card has a drawn model of the math.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/5thGradeDivideUnitFractionsPathGame",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "review games",
+    "math games",
+    "printable math",
+    "math centers",
+    "dividing fractions",
+    "fraction models",
+    "unit fractions",
+    "5.nf.7"
+   ]
+  },
+  {
+   "id": "5th-grade-convert-units-workbook",
+   "title": "5th Grade Measurement Conversion Workbook | Convert Units | Worked Examples and Practice",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "5"
+   ],
+   "grade_band": "5",
+   "types": [],
+   "summary": "Convert Units is a Grade 5 measurement conversion workbook for 5.MD.1. It teaches with 10 worked examples that use drawn models, sentences and calculations across their steps, then moves into guided and independent practice.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/5thGradeConvertUnitsWorkbook",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "measurement",
+    "convert units",
+    "math workbook",
+    "teacher guide",
+    "printable math",
+    "math practice",
+    "worked examples",
+    "unit conversion"
+   ]
+  },
+  {
+   "id": "multiplication-facts-bingo-game",
+   "title": "Multiplication Facts Bingo - Math Fact Bingo Game - 4th Grade Review",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "3",
+    "4",
+    "5"
+   ],
+   "grade_band": "3-5",
+   "types": [],
+   "summary": "Build multiplication fluency with a bingo game that turns fact practice into a competitive, fast-paced review. Students mark their cards as multiplication facts are called across the 2s through 12s times tables and work out the matching product on their card.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/MultiplicationFactsBingo",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "multiplication",
+    "bingo game",
+    "math facts",
+    "review game"
+   ]
+  },
+  {
+   "id": "pythagorean-theorem-visual-lab",
+   "title": "Pythagorean Theorem Visual Lab | Interactive Proof and Distance on a Grid | Grades 7-9",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [],
+   "summary": "A Pythagorean theorem lesson students can see and touch. They drag the legs of a right triangle, count the squares on each side, watch the rearrangement proof slide into place, and use the theorem to find distance on a coordinate grid.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/PythagoreanTheoremVisualLab",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "geometry",
+    "pythagorean theorem",
+    "visual proof",
+    "distance formula"
+   ]
+  },
+  {
+   "id": "slope-rate-of-change-visualizer",
+   "title": "Slope and Rate of Change Visualizer | Graph, Table, Equation and Story | Grades 7-9",
+   "subject": "math",
+   "topics": [
+    "Algebra",
+    "Pre-Algebra",
+    "Math"
+   ],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [
+    "Activities",
+    "Interactives",
+    "Learning Centers"
+   ],
+   "summary": "Students drag a line and watch a water tank fill or drain at exactly that rate. This slope and rate of change activity links the graph, the table, the equation and a real story on one screen.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/SlopeRateOfChangeVisualizer",
+     "free_here": true
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/ZrsIb"
+    }
+   ],
+   "tags": [
+    "slope and rate of change",
+    "linear functions",
+    "slope triangles",
+    "graphing activity",
+    "real world math",
+    "slope and rate of ch",
+    "algebra",
+    "slope"
+   ]
+  },
+  {
+   "id": "systems-of-equations-race-visualizer",
+   "title": "Systems of Equations Race | Solving Systems by Graphing Activity | Grades 7-9",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [],
+   "summary": "A solving systems of equations by graphing activity built around a race. Each racer is one equation, and the moment they run side by side is the point where the two lines cross.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/SystemsOfEquationsRace",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "algebra",
+    "graphing",
+    "linear equations",
+    "solving systems"
+   ]
+  },
+  {
+   "id": "transformations-coordinate-plane-visualizer",
+   "title": "Transformations on the Coordinate Plane | Reflections, Rotations and Dilations | Grades 7-9",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [],
+   "summary": "A transformations activity for the coordinate plane. Students translate, reflect, rotate and dilate a flag and watch every corner move by its rule, then chain moves together and solve target puzzles.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/TransformationsCoordinatePlane",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "geometry",
+    "transformations",
+    "coordinate plane",
+    "dilations"
+   ]
+  },
+  {
+   "id": "volume-cones-cylinders-spheres-3d",
+   "title": "Volume of Cones, Cylinders and Spheres | 3D Pour Test Activity | Grades 7-9",
+   "subject": "math",
+   "topics": [],
+   "grades": [
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "7-9",
+   "types": [],
+   "summary": "A volume of cones, cylinders and spheres activity in 3D. Students pour a cone into a cylinder with the same radius and height and see it take exactly three, then drain a sphere and see it fill two thirds of the cylinder.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/VolumePourTest",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "geometry",
+    "3d shapes",
+    "volume",
+    "cones and cylinders"
+   ]
+  },
+  {
+   "id": "animal-habitats-matching",
+   "title": "Animal Habitats Matching - Interactive Science Activity | Grades 2-5",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3"
+   ],
+   "grade_band": "K-3",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Match animals to their homes! Students explore different habitats and learn about the animals that live in each environment through interactive matching activities.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/AnimalHabitatsMatching",
+     "free_here": true
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/animal-habitats-matching-game-interactive-learning-lab-grades-k-3/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adaa0acc88fe46afc62a1cb"
+    }
+   ],
+   "tags": [
+    "animal habitats matching game",
+    "science game",
+    "game",
+    "science",
+    "biology",
+    "kindergarten",
+    "early elementary",
+    "upper elementary"
+   ]
+  },
+  {
+   "id": "hurricane-tracking-simulator",
+   "title": "Hurricane Tracking Simulator - Weather Simulation Game | Grades 5-8",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science"
+   ],
+   "grades": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "4-8",
+   "types": [
+    "Games",
+    "Simulations",
+    "Interactives"
+   ],
+   "summary": "Your students take charge of the National Storm Forecast Office for a full Atlantic hurricane season. They read live storm data, issue watches and warnings, order evacuations, and discover that every forecast is a balance between saving lives and keeping the public's trust.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/HurricaneTrackingSimulator",
+     "free_here": true
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/hurricane-tracking-simulator-weather-simulation-game-grades-4-8/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada93614d4b275c8e403c97"
+    }
+   ],
+   "tags": [
+    "hurricane tracking simulator",
+    "science game",
+    "simulation",
+    "science",
+    "earth science",
+    "upper elementary",
+    "middle school",
+    "weather simulation game"
+   ]
+  },
+  {
+   "id": "insect-investigation",
+   "title": "Insects Escape Room - Insect Investigation Life Science Game - Grades 3-6",
+   "subject": "science",
+   "topics": [],
+   "grades": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "grade_band": "3-6",
+   "types": [],
+   "summary": "An escape room about insects, fourteen rooms long. Students answer a puzzle on anatomy, life cycles, metamorphosis or social insects to open each door, so the vocabulary sticks because they need it to get out.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/InsectInvestigationEscapeRoom",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "science",
+    "insects",
+    "escape room",
+    "life science",
+    "review game"
+   ]
+  },
+  {
+   "id": "pangaea-supercontinent-explorer",
+   "title": "Plate Tectonics Continental Drift Activity - Earth Science 8th Grade - Pangaea",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Earth Science"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Students run the world map backwards through 400 million years and watch the continents reassemble into Pangaea. The positions are computed from a published plate model, so the reconstruction is accurate at every age instead of being a slideshow of drawings.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/PangaeaContinentalDrift",
+     "free_here": true
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/plate-tectonics-continental-drift-activity-earth-science-8th-grade-pangaea/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ada73b92debebc33b299313"
+    }
+   ],
+   "tags": [
+    "plate tectonics continental drift activity",
+    "printable",
+    "interactive",
+    "science",
+    "earth science",
+    "middle school",
+    "plate tectonics",
+    "pangaea"
+   ]
+  },
+  {
+   "id": "plate-tectonics-explorer",
+   "title": "Plate Tectonics Explorer - Complete Interactive Digital Lesson",
+   "subject": "science",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "grade_band": "6-9",
+   "types": [],
+   "summary": "Plate Tectonics Interactive Explorer is a web page that puts a global tectonic plate map, a guided geology lab and a scored knowledge check in front of the class.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/PlateTectonicsExplorer",
+     "free_here": true
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad924f9fc54f78567c9a218"
+    }
+   ],
+   "tags": [
+    "plate tectonics",
+    "plate boundaries",
+    "earth science",
+    "earthquakes",
+    "volcanoes",
+    "geology",
+    "interactive map",
+    "continental drift"
+   ]
+  },
+  {
+   "id": "yellowstone-trophic-cascades",
+   "title": "Yellowstone: Trophic Cascades | Grades 9-12",
+   "subject": "science",
+   "topics": [
+    "Science",
+    "Biology"
+   ],
+   "grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "9-12",
+   "types": [
+    "Simulations",
+    "Interactives",
+    "Printables"
+   ],
+   "summary": "Step into the role of a park ranger and see how apex predators restore a whole ecosystem. Students experience the real story of wolves returning to Yellowstone National Park and the cascading effects that followed, from controlling elk populations to restoring river systems.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/YellowstoneTrophicCascades",
+     "free_here": true
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/8QpV7"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad784afb283e31fea8a2b8d"
+    }
+   ],
+   "tags": [
+    "yellowstone",
+    "simulation",
+    "printable",
+    "science",
+    "biology",
+    "high school",
+    "trophic cascades",
+    "wolves"
+   ]
+  },
+  {
+   "id": "apollo-11-historic-investigation",
+   "title": "Apollo 11 Historical Investigation Lab | Grades 6-12",
+   "subject": "us-history",
+   "topics": [
+    "Science",
+    "Astronomy",
+    "History"
+   ],
+   "grades": [
+    "7"
+   ],
+   "grade_band": "7",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Assessments"
+   ],
+   "summary": "Drop students into Mission Control, July 1969. Through an interactive evidence network and authentic NASA documents, they investigate the eight days that took humans to the Moon and back, tracing every decision, transmission, and close call that made the landing possible.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/Apollo11InvestigationLab",
+     "free_here": true
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae5f74446cc9d664b07eb46"
+    }
+   ],
+   "tags": [
+    "apollo 11 investigation lab",
+    "investigation",
+    "primary sources",
+    "science",
+    "astronomy",
+    "middle school",
+    "space exploration primary sources",
+    "virtual lab"
+   ]
+  },
+  {
+   "id": "battle-of-first-bull-run-interactive-map",
+   "title": "Battle of First Bull Run Interactive Map - Civil War Activity - US History Grades 6-8",
+   "subject": "us-history",
+   "topics": [
+    "US History",
+    "War & Conflict"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "6-8",
+   "types": [
+    "Interactives",
+    "Activities",
+    "Printables"
+   ],
+   "summary": "An interactive map of the Battle of First Bull Run, July 21, 1861, in six phases, with five primary sources, a ten-question quiz and a printable packet.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/BattleOfFirstBullRunInteractiveMap",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "battle of first bull run interactive map",
+    "interactive map",
+    "quiz",
+    "us history",
+    "american history",
+    "middle school",
+    "first bull run",
+    "first manassas"
+   ]
+  },
+  {
+   "id": "oregon-trail-wagon-journey-simulator",
+   "title": "Oregon Trail Simulation Game | Westward Expansion Wagon Journey | Grades 5-8",
+   "subject": "us-history",
+   "topics": [
+    "US History",
+    "History"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Games",
+    "Simulations",
+    "Interactives"
+   ],
+   "summary": "Your students lead one family wagon about 2,000 miles from Independence, Missouri to Oregon City in this Oregon Trail simulation game for westward expansion. They buy oxen and flour, pick the day to leave, and set the pace and rations.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/OregonTrailSimulationGame",
+     "free_here": true
+    },
+    {
+     "store": "etsy",
+     "url": "https://www.etsy.com/listing/4592864501"
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/lFe8T"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/oregon-trail-simulation-game-westward-expansion-us-history-grades-5-8/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6aca89bb0586142c4a0a5984"
+    }
+   ],
+   "tags": [
+    "oregon trail simulation game",
+    "us history game",
+    "simulation",
+    "us history",
+    "american history",
+    "upper elementary",
+    "middle school",
+    "oregon trail"
+   ]
+  },
+  {
+   "id": "us-spatial-data-atlas",
+   "title": "US Spatial Data Atlas: Interactive Map Directory of Public Geography and Science Data Sources (Grades 6-12)",
+   "subject": "us-history",
+   "topics": [
+    "US History",
+    "History",
+    "Geography"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Pick any town in America and see the real map data that covers it in about ten seconds.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/USSpatialDataAtlas",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "us spatial data atlas",
+    "interactive",
+    "us history",
+    "american history",
+    "middle school",
+    "high school",
+    "maps",
+    "interactive map"
+   ]
+  },
+  {
+   "id": "voices-of-the-declaration-of-independence-living-history-roleplay",
+   "title": "Voices of the Declaration of Independence - Founding Fathers Roleplay | Grades 6-12",
+   "subject": "us-history",
+   "topics": [
+    "History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Walk into a living museum of 1776. Inside this single HTML file, students step into Philadelphia the summer the Declaration of Independence was written and meet the people who lived through it.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/VoicesOfTheDeclaration",
+     "free_here": true
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ae1553dacd801b8ef393b5a"
+    }
+   ],
+   "tags": [
+    "declaration of independence",
+    "quiz",
+    "interactive",
+    "history",
+    "social studies",
+    "middle school",
+    "high school",
+    "roleplay"
+   ]
+  },
+  {
+   "id": "alexander-the-great-interactive-biography",
+   "title": "Alexander the Great Interactive Biography - Ancient Greece and Empire - Grades 6-12",
+   "subject": "world-history",
+   "topics": [],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [],
+   "summary": "This Alexander the Great interactive biography turns the conquest of the Persian empire into a self-guided activity that opens in any browser with no prep, no logins, and no installs.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/AlexanderTheGreatInteractiveBiography",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "alexander the great",
+    "ancient greece",
+    "persian empire",
+    "ancient history",
+    "interactive bio",
+    "history biography",
+    "356-323 bce",
+    "hellenistic"
+   ]
+  },
+  {
+   "id": "ancient-india-explorer",
+   "title": "Ancient India Explorer - Indus Valley to Gupta Empire | Interactive History | Grades 6-10",
+   "subject": "world-history",
+   "topics": [
+    "World History",
+    "Ancient",
+    "Asia"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "grade_band": "6-10",
+   "types": [
+    "Interactives",
+    "Reading Passages",
+    "Exam, Quiz, Tests"
+   ],
+   "summary": "An interactive reading explorer on ancient India in four tabs, from the Indus Valley cities to the Gupta Empire, with a ten-question self-checking quiz and a teacher guide.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/AncientIndiaExplorer",
+     "free_here": true
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/ancient-india-explorer-indus-valley-to-the-gupta-empire-world-history-activity-grades-6-10/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6adc4b3a1f662a402deb4b15"
+    }
+   ],
+   "tags": [
+    "ancient india explorer",
+    "reading passages",
+    "quiz",
+    "world history",
+    "social studies",
+    "middle school",
+    "high school",
+    "ancient india"
+   ]
+  },
+  {
+   "id": "gladiator-arena",
+   "title": "Gladiator Arena Escape Room | World History | Digital Escape Room | Grades 5-9",
+   "subject": "world-history",
+   "topics": [
+    "World History",
+    "History"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "6-8",
+   "types": [
+    "Games",
+    "Interactives"
+   ],
+   "summary": "Your students are locked in a Roman gladiator arena and must solve five trials to walk out the gate. Each trial is a history puzzle about Ancient Rome: Roman numerals, Latin roots, daily life in Rome, the emperors and the Roman calendar year.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/GladiatorArenaEscapeRoom",
+     "free_here": true
+    },
+    {
+     "store": "payhip",
+     "url": "https://payhip.com/b/sVdTw"
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/gladiators-arena-escape-room-ancient-rome-history-grades-6-8/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad77eb1fd429b5e13d50028"
+    }
+   ],
+   "tags": [
+    "gladiator's arena escape room",
+    "world history game",
+    "escape room",
+    "world history",
+    "social studies",
+    "middle school",
+    "gladiator",
+    "ancient rome"
+   ]
+  },
+  {
+   "id": "viking-voyages-free-map",
+   "title": "Viking Voyages Interactive Map | Lindisfarne to L'Anse aux Meadows | Viking Age History | Grades 5-8",
+   "subject": "world-history",
+   "topics": [
+    "History",
+    "World History"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "grade_band": "5-8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "An interactive map of the Viking Age, 793 to 1066 CE. Thirteen sites are marked from the Scandinavian homeland to Iceland, Greenland and Newfoundland, and east along the rivers to Constantinople.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/viking-voyages-interactive-map-lindisfarne-to-lanse-aux-meadows-viking-age-history-grades-5-8/"
+    }
+   ],
+   "tags": [
+    "viking voyages interactive map",
+    "interactive map",
+    "interactive",
+    "history",
+    "social studies",
+    "upper elementary",
+    "middle school",
+    "vikings"
+   ],
+   "free_note": "Marked free in our records; confirm the price on the store page."
+  },
+  {
+   "id": "voices-of-rome-ancient-rome-interactive-roleplay",
+   "title": "Voices of Rome - Ancient Rome Interactive Roleplay | Grades 6-12",
+   "subject": "world-history",
+   "topics": [
+    "World History",
+    "History"
+   ],
+   "grades": [
+    "8"
+   ],
+   "grade_band": "8",
+   "types": [
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "Bring ancient Rome to life by letting your students TALK to the people who lived it.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/VoicesOfRome",
+     "free_here": true
+    }
+   ],
+   "tags": [
+    "voices of rome",
+    "interactive",
+    "world history",
+    "social studies",
+    "middle school",
+    "ancient rome interactive roleplay",
+    "ancient rome",
+    "history"
+   ]
+  },
+  {
+   "id": "world-geography-jeopardy",
+   "title": "World Geography Jeopardy | Review Game | Grades 5-10",
+   "subject": "world-history",
+   "topics": [
+    "Geography",
+    "World History",
+    "History/Social Studies"
+   ],
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "grade_band": "5-10",
+   "types": [
+    "Games",
+    "Interactives",
+    "Exam, Quiz, Tests"
+   ],
+   "summary": "World Geography Jeopardy is a Jeopardy-style team review game on world geography. The board has six categories of five clues each, 30 clues in all, worth $200 to $1,000. It runs from one web file on one screen for the whole class.",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/WorldGeographyJeopardy",
+     "free_here": true
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/world-geography-jeopardy-review-game-capitals-landmarks-rivers-oceans-and-cultures-grades-5-10/"
+    },
+    {
+     "store": "kitchen-table",
+     "url": "https://kitchentablecurriculum.com/marketplace/6ad784bf684f7b5cf78d3c4d"
+    }
+   ],
+   "tags": [
+    "world geography jeopardy review game",
+    "geography game",
+    "review game",
+    "geography",
+    "social studies",
+    "upper elementary",
+    "middle school",
+    "high school"
+   ]
+  },
+  {
+   "id": "spanish-1-jeopardy",
+   "title": "Spanish 1 Jeopardy Review Game - World Language Review - Grades 6-12",
+   "subject": "world-languages",
+   "topics": [
+    "Languages",
+    "Spanish"
+   ],
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "grade_band": "6-12",
+   "types": [
+    "Games",
+    "Interactives",
+    "Activities"
+   ],
+   "summary": "A Jeopardy-style team review game for first-year Spanish. The board has six categories of five clues each, 30 clues in all, worth $200 to $1000. Clues are written in English and the answers are Spanish words and phrases shown in the form \"What is ...?\".",
+   "free": true,
+   "price_usd": 0,
+   "bundle": false,
+   "links": [
+    {
+     "store": "gumroad",
+     "url": "https://datawithmicah.gumroad.com/l/Spanish1Jeopardy",
+     "free_here": true
+    },
+    {
+     "store": "classful",
+     "url": "https://classful.com/product/spanish-1-jeopardy-review-game-greetings-numbers-family-food-and-verbs-grades-6-12/"
+    }
+   ],
+   "tags": [
+    "spanish 1 jeopardy review game",
+    "world language game",
+    "review game",
+    "world language",
+    "foreign language",
+    "middle school",
+    "high school",
+    "spanish jeopardy"
+   ]
+  }
+ ]
+}
